@@ -27,12 +27,15 @@ working_image_PH = ImageTk.PhotoImage(working_image)
 
 #function for Open... menu item: select an image and load it
 def open_file_dialog():
-	global original_image, working_image, file_name, image_label
+	global original_image, working_image, file_name, image_label, working_image_PH
 
 	file_name = filedialog.askopenfilename()
 	original_image = Image.open(file_name)
 	working_image = original_image
-	image_label["image"] = ImageTk.PhotoImage(working_image)
+
+	#The next two lines must be seperate; seems the PhotoImage must be rendered and assigned before use
+	working_image_PH = ImageTk.PhotoImage(working_image)
+	image_label["image"] = working_image_PH
 
 	print(file_name)
 
@@ -68,7 +71,7 @@ def apply_effect():
 
 #frame for image
 image_frame = Frame(root)
-image_label = Label(image_frame, image = ImageTk.PhotoImage(working_image))
+image_label = Label(image_frame, image = working_image_PH)
 
 #frame for controls
 controls_frame = Frame(root)
