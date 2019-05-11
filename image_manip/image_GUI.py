@@ -5,28 +5,28 @@ from PIL import Image, ImageTk, ImageFilter, ImageOps
 
 # initialize root properties
 root = Tk()
-# root.geometry("500x500")
 root.title("Image Manipulator")
 
 # create and configure menubar
 menubar = Menu(root)
 root.config(menu=menubar)
 
-# global var for file name
+# global var for file name - set a default one for now
 file_name = "images/yeah.jpg"
-
 
 # default image
 original_image = Image.open(file_name)
+
 # the working copy to be manipulated
 working_image = original_image
+
 # working image PhotoImage - to be applied to image_label
 working_image_PH = ImageTk.PhotoImage(working_image)
 
 
 # function for Open... menu item: select an image and load it
 def open_file_dialog():
-    global original_image, working_image,file_name, image_label, working_image_PH
+    global original_image, working_image, file_name, image_label, working_image_PH
 
     file_name = filedialog.askopenfilename()
     original_image = Image.open(file_name)
@@ -150,7 +150,7 @@ blur_entry = Entry(controls_frame, width=8)
 blur_button = Button(controls_frame, text="Blur", command=apply_effect_blur, padx=3)
 
 # button for flip Horizontal/Vertical effects
-flip_H_button = Button(controls_frame,text="Flip horizontally", command=apply_effect_flip_H, padx=3)
+flip_H_button = Button(controls_frame, text="Flip horizontally", command=apply_effect_flip_H, padx=3)
 flip_V_button = Button(controls_frame, text="Flip vertically", command=apply_effect_flip_V, padx=3)
 
 # buttons for invert and posterize
