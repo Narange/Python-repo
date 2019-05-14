@@ -16,7 +16,7 @@ mixer.init()
 song_status = "STOPPED"
 
 song_string = StringVar()
-song_string.set("Pump up the jam!")
+song_string.set("Select a song with File > Open...")
 song_label = Label(root, textvariable=song_string)
 
 # create and configure menubar
@@ -28,11 +28,14 @@ root.config(menu=menubar)
 def open_file_dialog():
     global song_status
 
-    file_name = filedialog.askopenfilename()
-    mixer.music.load(file_name)
-    song_string.set(os.path.basename(file_name))
-    song_status = "STOPPED"
-    play_button["image"] = play_image
+    try:
+        file_name = filedialog.askopenfilename()
+        mixer.music.load(file_name)
+        song_string.set(os.path.basename(file_name))
+        song_status = "STOPPED"
+        play_button["image"] = play_image
+    except:
+        pass
 
 
 # create File submenu
@@ -82,7 +85,7 @@ def play():
     except:
         song_string.set("Select a song with File > Open...")
     finally:
-        print(f"Song is now {song_status}")
+        print(f"[DEBUG] Song is now {song_status}")
 
 
 def stop():
@@ -91,7 +94,8 @@ def stop():
     mixer.music.stop()
     song_status = "STOPPED"
     play_button["image"] = play_image
-    print(f"Song is now {song_status}")
+    print(f"[DEBUG] Song is now {song_status}")
+
 
 def set_vol(value):
     volume = int(value) / 100
@@ -100,19 +104,19 @@ def set_vol(value):
 
 buttons_frame = Frame(root)
 
-#create button widgets
-play_button = Button(buttons_frame, image = play_image, command = play)
-stop_button = Button(buttons_frame, image = stop_image, command = stop)
+# create button widgets
+play_button = Button(buttons_frame, image=play_image, command=play)
+stop_button = Button(buttons_frame, image=stop_image, command=stop)
 
-#create volume slider
+# create volume slider
 volume_slider = Scale(
-    root, from_ = 0, to = 100, orient = HORIZONTAL, command = set_vol)
+    root, from_=0, to=100, orient=HORIZONTAL, command=set_vol)
 volume_slider.set(100)
 
 
-#pack widgets
-play_button.pack(side = LEFT)
-stop_button.pack(side = LEFT)
+# pack widgets
+play_button.pack(side=LEFT)
+stop_button.pack(side=LEFT)
 song_label.pack()
 buttons_frame.pack()
 volume_slider.pack()
