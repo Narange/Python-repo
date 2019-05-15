@@ -34,7 +34,8 @@ def open_file_dialog():
         song_string.set(os.path.basename(file_name))
         song_status = "STOPPED"
         play_button["image"] = play_image
-    except:
+    except Exception as e:
+        print(str(e))
         pass
 
 
@@ -82,7 +83,8 @@ def play():
             mixer.music.unpause()
             song_status = "PLAYING"
             play_button["image"] = pause_image
-    except:
+    except Exception as e:
+        print(str(e))
         song_string.set("Select a song with File > Open...")
     finally:
         print(f"[DEBUG] Song is now {song_status}")
