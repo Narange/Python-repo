@@ -1,7 +1,1 @@
-import os
-
-currentdir = os.getcwd()
-
-print(currentdir)
-
-os.makedirs("..\\encoder")
+from __future__ import braces
