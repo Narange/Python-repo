@@ -12,7 +12,7 @@ menubar = Menu(root)
 root.config(menu=menubar)
 
 # global var for file name - set a default one for now
-file_name = "images/yeah.jpg"
+file_name = "images/river.jpg"
 
 # default image
 original_image = Image.open(file_name)

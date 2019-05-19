@@ -1,3 +1,5 @@
+# A simple music player. Select a song and play/pause/stop/change volume
+
 import os
 from tkinter import *
 from tkinter import messagebox

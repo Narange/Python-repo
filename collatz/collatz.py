@@ -1,23 +1,27 @@
 import sys
 
+
 def print_collatz_sequence(input_number):
 
-	number = int(input_number)
-	print(number)
-	peak = number #highest value reached in this sequence
+    number = int(input_number)
+    print(number)
+    peak = number  # highest value reached in this sequence
 
-	while number != 1:
-		if number%2 == 0:
-			number = number/2
-		else:
-			number = number*3 + 1
+    while number != 1:
+        if number % 2 == 0:
+            number = number / 2
+        else:
+            number = number * 3 + 1
 
-		if number > peak:
-			peak = number
+        if number > peak:
+            peak = number
 
-		print(round(number))
+        print(round(number))
 
-	print("The Collatz sequence for %s peaked at value %s" %(input_number, round(peak)))
-#end def
+    print(f"The Collatz sequence for {input_number} peaked at value {round(peak)}")
 
-print_collatz_sequence(int(sys.argv[1]))
+
+try:
+    print_collatz_sequence(int(sys.argv[1]))
+except IndexError:
+    print("Provide one argument: an int for which to step through the Collatz sequence")
