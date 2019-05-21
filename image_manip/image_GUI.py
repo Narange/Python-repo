@@ -132,6 +132,17 @@ def apply_effect_posterize():
     image_label["image"] = working_image_PH
 
 
+# effect: posterize image
+def apply_effect_grayscale():
+    global working_image, working_image_PH
+
+    new_image = working_image
+    working_image = ImageOps.grayscale(new_image)
+
+    working_image_PH = ImageTk.PhotoImage(working_image)
+    image_label["image"] = working_image_PH
+
+
 # frame for image
 image_frame = Frame(root)
 image_label = Label(image_frame, image=working_image_PH)
@@ -153,9 +164,10 @@ blur_button = Button(controls_frame, text="Blur", command=apply_effect_blur, pad
 flip_H_button = Button(controls_frame, text="Flip horizontally", command=apply_effect_flip_H, padx=3)
 flip_V_button = Button(controls_frame, text="Flip vertically", command=apply_effect_flip_V, padx=3)
 
-# buttons for invert and posterize
+# buttons for invert, posterize, grayscale
 invert_button = Button(controls_frame, text="Invert", command=apply_effect_invert, padx=3)
 posterize_button = Button(controls_frame, text="Posterize", command=apply_effect_posterize, padx=3)
+grayscale_button = Button(controls_frame, text="Black & White", command=apply_effect_grayscale, padx=3)
 
 
 # pack widgets
@@ -164,7 +176,7 @@ posterize_button = Button(controls_frame, text="Posterize", command=apply_effect
 image_label.pack()
 image_frame.pack(side=LEFT)
 
-# in controls_frame
+# pack widgets into controls_frame
 reset_button.pack()
 blur_label.pack(pady=(10, 0))
 blur_entry.pack()
@@ -173,6 +185,9 @@ flip_H_button.pack(pady=(10, 0))
 flip_V_button.pack()
 invert_button.pack(pady=(10, 0))
 posterize_button.pack()
+grayscale_button.pack()
+
+# pack the controls_frame
 controls_frame.pack(side=LEFT)
 
 root.mainloop()
