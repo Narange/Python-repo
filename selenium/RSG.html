@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+  <p>
+    Enter text into the box and click the button to generate random sentences from it.<br>
+    Suggestion: use the plot of your favorite movie!
+  </p>
+
+  <form>
+    Enter text:<br>
+    <textarea id="inputTextField" name="message" rows="20" cols="50">Enter text here</textarea>
+    <button id="buttonGenerate" type="button">Click</button>
+  </form>
+
+  <p id="resultText"></p>
+
+<script>
+  var myButton = document.getElementById("buttonGenerate");
+  var myInputTextField = document.getElementById("inputTextField");
+  myButton.onclick = generate;
+
+  //Generates random sentence using unigram model (every word is random)
+  function randomSentenceUni(array, sentenceLength){
+    var sentence = "";
+
+    for (i = 0; i < sentenceLength; i++){
+      var randomIndex = Math.floor(Math.random() * array.length);
+      sentence += " " + array[randomIndex];
+    }
+    console.log(sentence);
+  }
+
+  //Generates random sentence using bigram model
+  function randomSentenceBi(array, sentenceLength){
+    var sentence = "";
+    //first random word
+    var randomIndex = Math.floor(Math.random() * array.length);
+    sentence += " " + array[randomIndex];
+
+    var bigramArray = [];
+    for (i = 0; i < array.length - 1; i++){
+      bigramArray.push([array[i], array[i+1]]);
+    }
+
+    //rest of sentence
+    for (i = 0; i < sentenceLength - 1; i++){
+      var matchingBigramArray = []; //array where first word matches
+      var lastIndexOfSpace = sentence.lastIndexOf(" ");
+      var previousWord = sentence.substring(lastIndexOfSpace + 1, sentence.length);
+
+      for (j = 0; j < bigramArray.length; j++){
+        if (bigramArray[j][0] == previousWord) {
+          matchingBigramArray.push(bigramArray[j]);
+        }
+      }
+      //matchingBigramArray now complete
+      //use it if it's not empty, else next word is random from array param
+      if (matchingBigramArray.length != 0) {
+        var randomIndexBi = Math.floor(Math.random() * matchingBigramArray.length);
+        sentence += " " + matchingBigramArray[randomIndexBi][1];
+      } else {
+        var randomIndex = Math.floor(Math.random() * array.length);
+        sentence += " " + array[randomIndex];
+      }
+    }
+    console.log(sentence);
+    return sentence;
+  }
+
+  function generate() {
+    var inputText = myInputTextField.value;
+    var splitInputText = inputText.split(" ");
+    var finalSentence = randomSentenceBi(splitInputText, 100);
+    document.getElementById("resultText").innerHTML = finalSentence;
+  }
+
+</script>
+
+</body>
+</html>
