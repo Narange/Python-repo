@@ -1,0 +1,3084 @@
+
+
+Taxi Driver - Wikipedia
+document.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Taxi_Driver","wgTitle":"Taxi Driver","wgCurRevisionId":901031120,"wgRevisionId":901031120,"wgArticleId":30000,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Use mdy dates from December 2015","All articles with unsourced statements","Articles with unsourced statements from February 2019","Articles with hAudio microformats","Commons category link from Wikidata","1976 films","English-language films","1970s crime drama films","1970s psychological thriller films","1998 soundtracks","American films","American crime drama films","American thriller films","Arista Records soundtracks","Attempted assassination of Ronald Reagan","BAFTA winners (films)","Bernard Herrmann albums",
+"Columbia Pictures films","Films about psychopaths","Films about taxicabs","Films scored by Bernard Herrmann","Film soundtracks","Films about child prostitution","Films directed by Martin Scorsese","Films produced by Julia Phillips","Films produced by Michael Phillips (producer)","Films set in New York City","Films shot in New York City","Neo-noir","Palme d'Or winners","Screenplays by Paul Schrader","United States National Film Registry films","Vigilante films","Films about prostitution in the United States"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Taxi_Driver","wgRelevantArticleId":30000,"wgRequestId":
+"XP-KNApAIDAAAL58VEIAAAAX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q47221","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taxi Driver - Wikipediadocument.documentElement.className=document.documentElement.className.replace(/(^|\s)client-nojs(\s|$)/,"$1client-js$2");RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Taxi_Driver","wgTitle":"Taxi Driver","wgCurRevisionId":901031120,"wgRevisionId":901031120,"wgArticleId":30000,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Use mdy dates from December 2015","All articles with unsourced statements","Articles with unsourced statements from February 2019","Articles with hAudio microformats","Commons category link from Wikidata","1976 films","English-language films","1970s crime drama films","1970s psychological thriller films","1998 soundtracks","American films","American crime drama films","American thriller films","Arista Records soundtracks","Attempted assassination of Ronald Reagan","BAFTA winners (films)","Bernard Herrmann albums",
+"Columbia Pictures films","Films about psychopaths","Films about taxicabs","Films scored by Bernard Herrmann","Film soundtracks","Films about child prostitution","Films directed by Martin Scorsese","Films produced by Julia Phillips","Films produced by Michael Phillips (producer)","Films set in New York City","Films shot in New York City","Neo-noir","Palme d'Or winners","Screenplays by Paul Schrader","United States National Film Registry films","Vigilante films","Films about prostitution in the United States"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Taxi_Driver","wgRelevantArticleId":30000,"wgRequestId":
+"XP-KNApAIDAAAL58VEIAAAAX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q47221","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});
+Taxi DriverTaxi DriverFrom Wikipedia, the free encyclopediaJump to navigationJump to searchThis article is about the 1976 film. For the occupation, see taxicab driver. For other uses, see Taxi Driver (disambiguation).taxicab driverTaxi Driver (disambiguation)
+Taxi DriverTheatrical release posterDirected byMartin ScorseseProduced by
+Julia Phillips
+Michael Phillips
+Written byPaul SchraderStarring
+Robert De Niro
+Jodie Foster
+Albert Brooks
+Harvey Keitel
+Leonard Harris
+Peter Boyle
+Cybill Shepherd
+Music byBernard HerrmannCinematographyMichael ChapmanEdited by
+Marcia Lucas
+Tom Rolf
+Melvin Shapiro
+Productioncompany 
+Bill/Phillips Productions
+Italo/Judeo Productions
+ Distributed byColumbia PicturesRelease date
+February 8, 1976 (1976-02-08)
+Running time113 minutesCountryUnited StatesLanguageEnglishBudget$1.9 million[1][2]Box office$28.3 million[3]Taxi DriverTheatrical release posterDirected byMartin ScorseseProduced by
+Julia Phillips
+Michael Phillips
+Written byPaul SchraderStarring
+Robert De Niro
+Jodie Foster
+Albert Brooks
+Harvey Keitel
+Leonard Harris
+Peter Boyle
+Cybill Shepherd
+Music byBernard HerrmannCinematographyMichael ChapmanEdited by
+Marcia Lucas
+Tom Rolf
+Melvin Shapiro
+Productioncompany 
+Bill/Phillips Productions
+Italo/Judeo Productions
+ Distributed byColumbia PicturesRelease date
+February 8, 1976 (1976-02-08)
+Running time113 minutesCountryUnited StatesLanguageEnglishBudget$1.9 million[1][2]Box office$28.3 million[3]Taxi DriverTaxi DriverTheatrical release posterTheatrical release posterTheatrical release posterDirected byMartin ScorseseDirected byMartin ScorseseMartin ScorseseProduced by
+Julia Phillips
+Michael Phillips
+Produced by
+Julia Phillips
+Michael Phillips
+
+Julia Phillips
+Michael Phillips
+Julia Phillips
+Michael PhillipsJulia PhillipsJulia PhillipsMichael PhillipsMichael PhillipsWritten byPaul SchraderWritten byPaul SchraderPaul SchraderStarring
+Robert De Niro
+Jodie Foster
+Albert Brooks
+Harvey Keitel
+Leonard Harris
+Peter Boyle
+Cybill Shepherd
+Starring
+Robert De Niro
+Jodie Foster
+Albert Brooks
+Harvey Keitel
+Leonard Harris
+Peter Boyle
+Cybill Shepherd
+
+Robert De Niro
+Jodie Foster
+Albert Brooks
+Harvey Keitel
+Leonard Harris
+Peter Boyle
+Cybill Shepherd
+Robert De Niro
+Jodie Foster
+Albert Brooks
+Harvey Keitel
+Leonard Harris
+Peter Boyle
+Cybill ShepherdRobert De NiroRobert De NiroJodie FosterJodie FosterAlbert BrooksAlbert BrooksHarvey KeitelHarvey KeitelLeonard HarrisLeonard HarrisPeter BoylePeter BoyleCybill ShepherdCybill ShepherdMusic byBernard HerrmannMusic byBernard HerrmannBernard HerrmannCinematographyMichael ChapmanCinematographyMichael ChapmanMichael ChapmanEdited by
+Marcia Lucas
+Tom Rolf
+Melvin Shapiro
+Edited by
+Marcia Lucas
+Tom Rolf
+Melvin Shapiro
+
+Marcia Lucas
+Tom Rolf
+Melvin Shapiro
+Marcia Lucas
+Tom Rolf
+Melvin ShapiroMarcia LucasMarcia LucasTom RolfTom RolfMelvin ShapiroProductioncompany 
+Bill/Phillips Productions
+Italo/Judeo Productions
+ Productioncompany Productioncompany 
+Bill/Phillips Productions
+Italo/Judeo Productions
+ 
+Bill/Phillips Productions
+Italo/Judeo Productions
+ 
+Bill/Phillips Productions
+Italo/Judeo Productions
+Bill/Phillips Productions
+Italo/Judeo ProductionsBill/Phillips ProductionsItalo/Judeo ProductionsDistributed byColumbia PicturesDistributed byColumbia PicturesColumbia PicturesRelease date
+February 8, 1976 (1976-02-08)
+Release dateRelease date
+February 8, 1976 (1976-02-08)
+
+February 8, 1976 (1976-02-08)
+February 8, 1976 (1976-02-08)February 8, 1976 (1976-02-08) (1976-02-08)1976-02-08Running time113 minutesRunning timeRunning time113 minutesCountryUnited StatesCountryUnited StatesLanguageEnglishLanguageEnglishBudget$1.9 million[1][2]Budget$1.9 million[1][2][1][1][2][2]Box office$28.3 million[3]Box office$28.3 million[3][3][3]Taxi Driver is a 1976 American neo-noir[4] psychological thriller film[5] directed by Martin Scorsese, written by Paul Schrader, and starring Robert De Niro, Jodie Foster, Cybill Shepherd, Harvey Keitel, Peter Boyle, Albert Brooks and Leonard Harris. Set in a decaying and morally bankrupt New York City following the Vietnam War, the film tells the story of a lonely veteran (De Niro) working as a taxi driver, who descends into insanity as he plots to assassinate both the presidential candidate (Harris) for whom the woman he is infatuated with (Shepherd) works, and the pimp (Keitel) of an underage prostitute (Foster) he befriends.
+Taxi DriverTaxi Driverneo-noir[4][4]psychological thriller[5][5]Martin ScorsesePaul SchraderRobert De NiroJodie FosterCybill ShepherdHarvey KeitelPeter BoyleAlbert BrooksLeonard HarrisNew York CityVietnam Wartaxiunderage prostituteA critical and commercial success upon release and nominated for four Academy Awards, including for Best Picture, Best Actor (for De Niro) and Best Supporting Actress (for Foster), Taxi Driver won the Palme d'Or at the 1976 Cannes Film Festival. The film generated controversy upon release mostly because of its depiction of violence and casting of a 12-year old Foster as the child prostitute.
+It is regularly cited by critics, film directors, and audiences alike as one of the greatest films of all time. In 2012, Sight & Sound named it the 31st-best film ever in its decennial critics' poll, ranked with The Godfather Part II, and the fifth-greatest film of all time on its directors' poll. The film was considered "culturally, historically or aesthetically" significant by the US Library of Congress and was selected for preservation in the National Film Registry in 1994.
+Academy AwardsBest PictureBest ActorBest Supporting ActressTaxi DriverPalme d'Or1976 Cannes Film Festivalthe greatest films of all timeSight & SoundSight & Soundcritics' pollThe Godfather Part IIThe Godfather Part IILibrary of CongressNational Film RegistryContents
+
+1 Plot
+2 Cast
+3 Production
+
+3.1 Influences
+3.2 Symbolism
+3.3 De Niro's preparation for the role
+3.4 Pre-production
+3.5 New York Bankruptcy
+
+
+4 Music
+5 Controversies
+
+5.1 R rating
+5.2 Jodie Foster
+5.3 John Hinckley Jr.
+
+
+6 Themes and interpretations
+7 Reception
+
+7.1 Box office
+7.2 Critical response
+7.3 Accolades
+
+
+8 Legacy
+
+8.1 "You talkin' to me?"
+
+
+9 Home media
+10 Proposed sequel and remake
+11 References
+12 External links
+
+ContentsContents
+1 Plot
+2 Cast
+3 Production
+
+3.1 Influences
+3.2 Symbolism
+3.3 De Niro's preparation for the role
+3.4 Pre-production
+3.5 New York Bankruptcy
+
+
+4 Music
+5 Controversies
+
+5.1 R rating
+5.2 Jodie Foster
+5.3 John Hinckley Jr.
+
+
+6 Themes and interpretations
+7 Reception
+
+7.1 Box office
+7.2 Critical response
+7.3 Accolades
+
+
+8 Legacy
+
+8.1 "You talkin' to me?"
+
+
+9 Home media
+10 Proposed sequel and remake
+11 References
+12 External links
+1 Plot1 Plot1Plot2 Cast2 Cast2Cast3 Production
+
+3.1 Influences
+3.2 Symbolism
+3.3 De Niro's preparation for the role
+3.4 Pre-production
+3.5 New York Bankruptcy
+
+3 Production3Production
+3.1 Influences
+3.2 Symbolism
+3.3 De Niro's preparation for the role
+3.4 Pre-production
+3.5 New York Bankruptcy
+3.1 Influences3.1 Influences3.1Influences3.2 Symbolism3.2 Symbolism3.2Symbolism3.3 De Niro's preparation for the role3.3 De Niro's preparation for the role3.3De Niro's preparation for the role3.4 Pre-production3.4 Pre-production3.4Pre-production3.5 New York Bankruptcy3.5 New York Bankruptcy3.5New York Bankruptcy4 Music4 Music4Music5 Controversies
+
+5.1 R rating
+5.2 Jodie Foster
+5.3 John Hinckley Jr.
+
+5 Controversies5Controversies
+5.1 R rating
+5.2 Jodie Foster
+5.3 John Hinckley Jr.
+5.1 R rating5.1 R rating5.1R rating5.2 Jodie Foster5.2 Jodie Foster5.2Jodie Foster5.3 John Hinckley Jr.5.3 John Hinckley Jr.5.3John Hinckley Jr.6 Themes and interpretations6 Themes and interpretations6Themes and interpretations7 Reception
+
+7.1 Box office
+7.2 Critical response
+7.3 Accolades
+
+7 Reception7Reception
+7.1 Box office
+7.2 Critical response
+7.3 Accolades
+7.1 Box office7.1 Box office7.1Box office7.2 Critical response7.2 Critical response7.2Critical response7.3 Accolades7.3 Accolades7.3Accolades8 Legacy
+
+8.1 "You talkin' to me?"
+
+8 Legacy8Legacy
+8.1 "You talkin' to me?"
+8.1 "You talkin' to me?"8.1 "You talkin' to me?"8.1"You talkin' to me?"9 Home media9 Home media9Home media10 Proposed sequel and remake10 Proposed sequel and remake10Proposed sequel and remake11 References11 References11References12 External links12 External links12External linksPlot[edit]Plot[edit][edit]Travis Bickle, a 26-year-old honorably discharged U.S. Marine, is a lonely, depressed young man living in isolation in New York City. He takes a job as a taxi driver to cope with his chronic insomnia, driving passengers every night around the city's boroughs. He also frequents the porn theaters on 42nd Street and keeps a diary in which he consciously attempts to include aphorisms, such as "You're only as healthy as you feel."
+honorably dischargedU.S. MarinedepressedNew York Citychronic insomniaboroughsporn theaters42nd StreetaphorismsTravis becomes infatuated with Betsy, a campaign volunteer for Senator and presidential candidate Charles Palantine. After watching her interact with fellow worker Tom through her window, Travis enters to volunteer, as a pretext to talk to her, and takes her out for coffee. On a later date, he naively takes her to see a pornographic film, which offends her, and she goes home alone. His attempts at reconciliation by sending flowers are rebuffed, so he berates her at the campaign office, before being kicked out by Tom.
+Travis is disgusted by the sleaze, dysfunction, and prostitution that he witnesses throughout the city. His worldview is furthered when an adolescent prostitute and runaway, Iris, enters his taxi, attempting to escape her pimp, Sport. Sport drags Iris from the taxi and throws Travis a crumpled $20 bill, which continually reminds Travis of her and the corruption that surrounds him. A similarly influential event occurs when an unhinged passenger gloats to Travis of his intentions to murder his wife and her lover. Travis confides in fellow taxi driver Wizard about his thoughts, which are beginning to turn violent; however, Wizard assures him that he will be fine, leaving Travis to his own destructive path.
+pimpIn attempting to find an outlet for his frustrations, Travis begins a program of intense physical training. A fellow taxi driver refers him to an illegal gun dealer, "Easy" Andy, from whom Travis buys four handguns, most notably a .44 Magnum Smith & Wesson Model 29. At home, Travis practices drawing his weapons, and modifies one to allow him to hide and quickly deploy it from his sleeve. He also begins attending Palantine's rallies to scope out their security.
+.44 MagnumSmith & Wesson Model 29drawingsleeveOne night, Travis enters a convenience store moments before an attempted armed robbery, and he fatally shoots the robber. The owner takes responsibility for the deed, taking Travis' handgun. Later, Travis encounters Iris again and hires her, but attempts to dissuade her from continuing in prostitution rather than having sex with her. He fails to completely turn her from her course, but she does agree to meet with him for breakfast the next day. Travis leaves at his apartment a letter with money for Iris saying he will soon be dead, and she should return home.
+Travis cuts his hair into a mohawk, and attends a public rally where he plans to assassinate Palantine, but Secret Service agents notice him putting his hand inside his coat and he is chased off. That evening he drives to Sport's brothel in the East Village. He kills Sport before continuing on his rampage, killing the bouncer and Iris' customer, a mafioso. Travis is severely injured in the firefight, sustaining multiple gunshot wounds. Iris witnesses the fight and, hysterical with fear, pleads with Travis to stop the killing. After the gunfight, Travis attempts suicide, but has run out of ammunition and resigns himself to lying on a sofa. When the police arrive, he mimes shooting himself with his index finger.
+mohawkSecret ServiceEast VillagemafiosoDue to not being identified at the rally and having killed criminals, rescuing Iris in the process, Travis is hailed as a local hero in the press. He receives a letter from Iris' father, thanking him for saving her life and revealing that she has returned home to Pittsburgh, where she is going to school. Later, Travis has an awkward encounter with Betsy when dropping her off in his taxi at her home. When she tries to pay her fare, he smiles at her and turns off the meter. As Travis drives off, he becomes agitated after noticing something in his rear-view mirror.
+PittsburghCast[edit]Cast[edit][edit]
+Robert De Niro as Travis Bickle
+Jodie Foster as Iris "Easy" Steensma
+Cybill Shepherd as Betsy
+Harvey Keitel as Charles "Sport" Rain/"Matthew"
+Albert Brooks as Tom
+Leonard Harris as Charles Palantine
+Peter Boyle as "Wizard"
+Harry Northup as "Doughboy"
+Norman Matlock as Charlie T.
+Steven Prince as "Easy" Andy
+Martin Scorsese as Homicidal Passenger Watching Window
+Murray Mosten as Iris' Bouncer
+Diahnne Abbott as Porn Theatre Concession Girl
+Vic Argo as Melio, Store Owner
+Richard Higgs as Tall Secret Service Agent
+Garth Avery as Iris' Friend
+Bill Minkin as Tom's Assistant
+Joe Spinell as Taxi Station Personal Officer
+Nat Grant as Store Robber
+Robert Maroff as Anthony Sciloso, Mafioso with Iris
+Brenda Dickson as Actress in Soap Opera
+Beau Kayser as Actor in Soap Opera
+Robert De Niro as Travis Bickle
+Jodie Foster as Iris "Easy" Steensma
+Cybill Shepherd as Betsy
+Harvey Keitel as Charles "Sport" Rain/"Matthew"
+Albert Brooks as Tom
+Leonard Harris as Charles Palantine
+Peter Boyle as "Wizard"
+Harry Northup as "Doughboy"
+Norman Matlock as Charlie T.
+Steven Prince as "Easy" Andy
+Martin Scorsese as Homicidal Passenger Watching Window
+Murray Mosten as Iris' Bouncer
+Diahnne Abbott as Porn Theatre Concession Girl
+Vic Argo as Melio, Store Owner
+Richard Higgs as Tall Secret Service Agent
+Garth Avery as Iris' Friend
+Bill Minkin as Tom's Assistant
+Joe Spinell as Taxi Station Personal Officer
+Nat Grant as Store Robber
+Robert Maroff as Anthony Sciloso, Mafioso with Iris
+Brenda Dickson as Actress in Soap Opera
+Beau Kayser as Actor in Soap OperaRobert De Niro as Travis BickleRobert De NiroJodie Foster as Iris "Easy" SteensmaJodie FosterCybill Shepherd as BetsyCybill ShepherdHarvey Keitel as Charles "Sport" Rain/"Matthew"Harvey KeitelAlbert Brooks as TomAlbert BrooksLeonard Harris as Charles PalantineLeonard HarrisPeter Boyle as "Wizard"Peter BoyleHarry Northup as "Doughboy"Harry NorthupNorman Matlock as Charlie T.Steven Prince as "Easy" AndySteven PrinceMartin Scorsese as Homicidal Passenger Watching WindowMartin ScorseseHomicidalMurray Mosten as Iris' BouncerDiahnne Abbott as Porn Theatre Concession GirlDiahnne AbbottVic Argo as Melio, Store OwnerVic ArgoRichard Higgs as Tall Secret Service AgentGarth Avery as Iris' FriendBill Minkin as Tom's AssistantBill MinkinJoe Spinell as Taxi Station Personal OfficerJoe SpinellNat Grant as Store RobberRobert Maroff as Anthony Sciloso, Mafioso with IrisBrenda Dickson as Actress in Soap OperaBrenda DicksonBeau Kayser as Actor in Soap OperaSources:[6][7]
+Sources:[6][7]Sources:[6][7][6][6][7][7]Production[edit]Production[edit][edit]While Martin Scorsese, Robert de Niro and Paul Schrader made one of the most iconic films in cinema history, the cast that was first chosen by the producers was quite different. Robert Mulligan was the first choice as the director for Taxi Driver and Jeff Bridges was the one that was supposed to incarnate Travis Bickle. However, it was the screenwriter, Paul Schrader that had the last word, and chose the cast that we all know. He was not keen on trusting anyone with the script as this film reflects on his life when he first arrived in Los Angeles. Taxi Driver reflects his own ordeal from a dark time in his life.[citation needed]
+[citation needed]citation neededcitation neededcitation neededMartin Scorsese had only made three films at the time, Who's That Knocking at My Door (1967), Boxcar Bertha (1972) and Mean Streets (1973). But Schrader was quite impressed by his latest film, which also starred De Niro, and believed they were the perfect duo to cast for his work. Intrigued with the script, Martin Scorsese and Robert de Niro accepted to be part of the filming quite quickly, even though they had to take a huge salary cut. The actor would have only been paid $35,000, which is four or five times less than what he was usually offered for most films, in order to get into the mind of the taxi driver and Vietnam war veteran.[citation needed]
+Who's That Knocking at My DoorBoxcar BerthaMean Streets[citation needed]citation neededcitation neededcitation neededInfluences[edit]Influences[edit][edit]According to Scorsese, it was Brian De Palma who introduced him to Schrader. In Scorsese on Scorsese, the director talks about how much of the film arose from his feeling that movies are like dreams or drug-induced reveries. He admits attempting to incubate within the viewer the feeling of being in a limbo state somewhere between sleeping and waking. He calls Travis an "avenging angel" floating through the streets of a New York City intended to represent all cities everywhere. Scorsese calls attention to improvisation in the film, such as in the scene between De Niro and Cybill Shepherd in the coffee shop. The director also cites Alfred Hitchcock's The Wrong Man and Jack Hazan's A Bigger Splash as inspirations for his camerawork in the movie.[8]
+Brian De PalmaScorsese on ScorseseAlfred HitchcockThe Wrong ManThe Wrong ManA Bigger SplashA Bigger Splash[8][8]In writing the script, Schrader was inspired by the diaries of Arthur Bremer (who shot presidential candidate George Wallace in 1972), by Jean- Paul Sartre's existential novel Nausea and John Ford's film The Searchers.[9] The writer also used himself as inspiration; in a 1981 interview with Tom Snyder on the "Tomorrow" show, Schrader related his experience living in New York City while battling chronic insomnia, which led him to frequent pornographic bookstores and theaters because they remained open all night. Following a divorce and a breakup with a live-in girlfriend, he spent a few weeks living in his car. After visiting a hospital for a stomach ulcer, Schrader wrote the screenplay for Taxi Driver in "under a fortnight", recalling that "When I was talking to the nurse, I realised I hadn't spoken to anyone in weeks ... that was when the metaphor of the taxi occurred to me. That is what I was: this person in an iron box, a coffin, floating round the city, but seemingly alone". Schrader decided to make Bickle a Vietnam vet because the national trauma of the war seemed to blend perfectly with Bickle's paranoid psychosis, making his experiences after the war more intense and threatening.[10]
+Arthur BremerGeorge WallaceNauseaThe Searchers[9][9]stomach ulcerTaxi Drivernational trauma[10][10]Symbolism[edit]Symbolism[edit][edit]In Scorsese on Scorsese, the director mentions the religious symbolism in the story, comparing Bickle to a saint who wants to cleanse or purge both his mind and his body of weakness. Bickle attempts to kill himself near the end of the movie as a tribute to the samurai's "death with honor" principle.[8]
+Scorsese on Scorsesesymbolismsamuraideath with honor[8][8]When Travis meets Betsy to join him for coffee and pie, she is reminded of a line in Kris Kristofferson's song "The Pilgrim, Chapter 33": "He's a prophet and a pusher, partly truth, partly fiction—a walking contradiction." On their date, Bickle takes her to see a Swedish "sex education" film, which is in fact the American sexploitation film Sexual Freedom in Denmark with added Swedish sound.[11]
+Kris Kristofferson"The Pilgrim, Chapter 33"Sexual Freedom in Denmark[11][11]Shot during a New York City summer heat wave and sanitation strike in 1975, Taxi Driver came into conflict with the MPAA for its violence (Scorsese de-saturated the color in the final shoot-out, and the film got an R rating). To achieve the atmospheric scenes in Bickle's taxi, the sound men would get in the trunk and Scorsese and his cinematographer, Michael Chapman, would ensconce themselves on the back seat floor and use available light to shoot. Chapman admitted the filming style was greatly influenced by Nouvelle Vague filmmaker Jean-Luc Godard and his cinematographer Raoul Coutard due to the fact the crew did not have the time nor the money to do "traditional things".[12]
+heat wavesanitationstrikeTaxi DriverMPAAMichael ChapmanNouvelle VagueJean-Luc GodardRaoul Coutard[12][12]When Bickle decides to assassinate Senator Palantine, he cuts his hair into a Mohawk. This detail was suggested by actor Victor Magnotta, a friend of Scorsese's who had a small role as a Secret Service agent and who had served in Vietnam. Scorsese later noted: "He told us that, in Saigon, if you saw a guy with his head shaved—like a little Mohawk—that usually meant that those people were ready to go into a certain Special Forces situation. You didn't even go near them. They were ready to kill.[9]
+MohawkSecret Service[9][9]De Niro's preparation for the role[edit]De Niro's preparation for the role[edit][edit]While preparing for his role as Bickle, De Niro was filming Bernardo Bertolucci's 1900 in Italy. According to Boyle, he would "finish shooting on a Friday in Rome ... get on a plane ... [and] fly to New York". De Niro obtained a taxi driver's license, and when on break would pick up a taxi and drive around New York for a couple of weeks, before returning to Rome to resume filming 1900. De Niro apparently lost 35 pounds and listened repeatedly to a taped reading of the diaries of Arthur Bremer. When he had time off from shooting 1900, De Niro visited an army base in Northern Italy and tape-recorded soldiers from the Midwestern United States, whose accents he thought might be appropriate for Travis's character.[13]
+Bernardo Bertolucci1900190019001900Northern ItalyMidwestern United States[13][13]Pre-production[edit]Pre-production[edit][edit]Scorsese brought in the film title designer Dan Perri to design the title sequence for Taxi Driver. Perri had been Scorsese's original choice to design the titles for Alice Doesn't Live Here Anymore in 1974, but Warner Bros would not allow him to hire an unknown designer. By the time Taxi Driver was going into production, Perri had established his reputation with his work on The Exorcist, and Scorsese was now able to hire him. Perri created the opening titles for Taxi Driver using second unit footage which he colour-treated through a process of film copying and slit-scan, resulting in a highly stylised graphic sequence that evoked the "underbelly" of New York City through lurid colours, glowing neon signs distorted nocturnal images and deep black levels. Perri went on to design opening titles for a number of major films after this including Star Wars (1977) and Raging Bull (1980).[14][15]
+film title designerDan Perrititle sequenceTaxi DriverAlice Doesn't Live Here AnymoreAlice Doesn't Live Here AnymoreWarner BrosTaxi DriverThe ExorcistThe ExorcistTaxi Driversecond unitslit-scanneon signsblack levelsStar WarsStar WarsRaging BullRaging Bull[14][14][15][15]New York Bankruptcy[edit]New York Bankruptcy[edit][edit]Shooting took place on New York City's West Side, at a time when the city was on the brink of bankruptcy. According to producer Michael Phillips, "the whole West Side was bombed out. There really were row after row of condemned buildings and that's what we used to build our sets, were condemned buildings. Now it's fashionable real estate ... But New York and Times Square was shuddering and disgusting. It's just exciting to see the city bounce back and become the great place it is today from where it was then. We didn't know we were documenting what looked like the dying gasp of New York."[16]
+Michael Phillips[16][16]Taking place in an actual apartment, the tracking shot over the murder scene at the end took three months of preparation just because the production team had to cut through the ceiling in order to get it right.[17]
+[17][17]Music[edit]Music[edit][edit]Taxi Driver: Original Soundtrack RecordingSoundtrack album by Bernard HerrmannReleasedMay 19, 1998RecordedDecember 22 and 23, 1975[18]GenreSoundtrackLength61:33LabelAristaProducerMichael Phillips, Neely PlumbTaxi Driver: Original Soundtrack RecordingSoundtrack album by Bernard HerrmannReleasedMay 19, 1998RecordedDecember 22 and 23, 1975[18]GenreSoundtrackLength61:33LabelAristaProducerMichael Phillips, Neely PlumbTaxi Driver: Original Soundtrack RecordingTaxi Driver: Original Soundtrack RecordingSoundtrack album by Bernard HerrmannSoundtrack album by Bernard HerrmannSoundtrack albumBernard HerrmannReleasedMay 19, 1998ReleasedMay 19, 1998RecordedDecember 22 and 23, 1975[18]RecordedDecember 22 and 23, 1975[18][18][18]GenreSoundtrackGenreGenreSoundtrackSoundtrackLength61:33Length61:3361:336133LabelAristaLabelLabelAristaAristaProducerMichael Phillips, Neely PlumbProducerProducerMichael Phillips, Neely PlumbMichael PhillipsProfessional ratingsReview scoresSourceRatingAllMusic[19]Professional ratingsReview scoresSourceRatingAllMusic[19]Professional ratingsProfessional ratingsReview scoresReview scoresSourceRatingSourceRatingAllMusic[19]AllMusicAllMusic[19][19][19]The music by Bernard Herrmann was his final score before his death on December 24, 1975, and the film is dedicated to his memory. Robert Barnett of MusicWeb International has said that it contrasts deep, sleazy noises, representing the "scum" that Travis sees all over the city, with the saxophone, a musical counterpart to Travis, creating a mellifluously disenchanted troubadour. Barnett also observes that the opposing noises in the soundtrack—gritty little harp figures, hard as shards of steel, as well as a jazz drum kit placing the drama in the city—are indicative of loneliness in the midst of mobs of people. Deep brass and woodwinds are also evident. Barnett heard in the drumbeat a wild-eyed martial air charting the pressure on Bickle, who is increasingly oppressed by the corruption around him, and that the harp, drum, and saxophone play significant roles in the music.[20]
+Bernard Herrmann[20][20]Jackson Browne's "Late for the Sky" is also featured in the film, appearing in a scene where couples are dancing on the program American Bandstand as Travis watches on his television.[21]
+Jackson BrowneLate for the SkyAmerican BandstandAmerican Bandstand[21][21]Controversies[edit]Controversies[edit][edit]R rating[edit]R rating[edit][edit]The climactic shoot-out was considered intensely graphic by a few critics, considering an X-rating for the film.[22] To attain an "R" rating, Scorsese had the colors de-saturated, making the brightly colored blood less prominent. In later interviews, Scorsese commented that he was pleased by the color change and considered it an improvement over the originally filmed scene.[23] In the special-edition DVD, Michael Chapman, the film's cinematographer regrets the decision and the fact that no print with the unmuted colors exists anymore, as the originals had long since deteriorated.
+[22][22]ratingcolors de-saturated[23][23]Michael ChapmanJodie Foster[edit]Jodie Foster[edit][edit]Some critics showed concern over 12-year-old Foster's presence during the climactic shoot-out. Foster said that she was present during the setup and staging of the special effects used during the scene; the entire process was explained and demonstrated for her, step by step. Moreover, Foster said, she was fascinated and entertained by the behind-the-scenes preparation that went into the scene. In addition, before being given the part, Foster was subjected to psychological testing, attending sessions with a UCLA psychiatrist, to ensure that she would not be emotionally scarred by her role, in accordance with California Labor Board requirements monitoring children's welfare on film sets.[24][25]
+psychological testing[24][24][25][25]Copies of the film distributed for TV broadcast had an unexplained disclaimer added during the closing credits:[26][27]
+[26][26][27][27].mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}To our Television Audience: In the aftermath of violence, the distinction between hero and villain is sometimes a matter of interpretation or misinterpretation of facts.  "Taxi Driver" suggests that tragic errors can be made.To our Television AudienceThe Filmmakers.Additional concerns surrounding Foster's age focus on the role she played as Iris, a prostitute. Years later she confessed how uncomfortable the treatment of her character was on set. Scorsese did not know how to approach different scenes with the actress. The director relied on Robert De Niro to deliver his directions to the young actress. Foster often expressed how De Niro, in that moment, became a mentor to her, stating that her acting career was highly influenced by the actor's advice during the filming of Taxi Driver.[28]
+Taxi Driver[28][28]John Hinckley Jr.[edit]John Hinckley Jr.[edit][edit]Taxi Driver formed part of the delusional fantasy of John Hinckley Jr.[29] that triggered his attempted assassination of President Ronald Reagan in 1981, an act for which he was found not guilty by reason of insanity.[30] Hinckley stated that his actions were an attempt to impress actress Jodie Foster, on whom Hinckley was fixated, by mimicking Travis's mohawked appearance at the Palantine rally. His attorney concluded his defense by playing the movie for the jury.[31][32] When Scorsese heard about Hinckley's motivation behind his assassination attempt, he temporarily thought about quitting filmmaking as the association brought a negative perception of the film.[33]
+Taxi DriverJohn Hinckley Jr.[29][29]attempted assassinationRonald Reagannot guilty by reason of insanity[30][30]mohawked[31][31][32][32][33][33]Themes and interpretations[edit]Themes and interpretations[edit][edit]Sabine Haenni, a professor at Cornell University, commented on the film:
+Cornell UniversityWhile Taxi Driver chronicles Travis's excessive response to the perceived decline of the city, perhaps more fundamentally, the decline of the city seems to engender the decline of the male hero—Travis's inability to function in individual, collective, and heteronormative terms.[34]While Taxi Driver chronicles Travis's excessive response to the perceived decline of the city, perhaps more fundamentally, the decline of the city seems to engender the decline of the male hero—Travis's inability to function in individual, collective, and heteronormative terms.[34]Taxi Driver[34][34]Roger Ebert has written of the film's ending:
+Roger EbertThere has been much discussion about the ending, in which we see newspaper clippings about Travis's "heroism" of saving Iris, and then Betsy gets into his cab and seems to give him admiration instead of her earlier disgust. Is this a fantasy scene? Did Travis survive the shoot-out? Are we experiencing his dying thoughts? Can the sequence be accepted as literally true? ... I am not sure there can be an answer to these questions. The end sequence plays like music, not drama: It completes the story on an emotional, not a literal, level. We end not on carnage but on redemption, which is the goal of so many of Scorsese's characters.[35]There has been much discussion about the ending, in which we see newspaper clippings about Travis's "heroism" of saving Iris, and then Betsy gets into his cab and seems to give him admiration instead of her earlier disgust. Is this a fantasy scene? Did Travis survive the shoot-out? Are we experiencing his dying thoughts? Can the sequence be accepted as literally true? ... I am not sure there can be an answer to these questions. The end sequence plays like music, not drama: It completes the story on an emotional, not a literal, level. We end not on carnage but on redemption, which is the goal of so many of Scorsese's characters.[35][35][35]James Berardinelli, in his review of the film, argues against the dream or fantasy interpretation, stating:
+James BerardinelliScorsese and writer Paul Schrader append the perfect conclusion to Taxi Driver. Steeped in irony, the five-minute epilogue underscores the vagaries of fate. The media builds Bickle into a hero, when, had he been a little quicker drawing his gun against Senator Palantine, he would have been reviled as an assassin. As the film closes, the misanthrope has been embraced as the model citizen—someone who takes on pimps, drug dealers, and mobsters to save one little girl.[36]Scorsese and writer Paul Schrader append the perfect conclusion to Taxi Driver. Steeped in irony, the five-minute epilogue underscores the vagaries of fate. The media builds Bickle into a hero, when, had he been a little quicker drawing his gun against Senator Palantine, he would have been reviled as an assassin. As the film closes, the misanthrope has been embraced as the model citizen—someone who takes on pimps, drug dealers, and mobsters to save one little girl.[36]Taxi Drivermisanthrope[36][36]On the LaserDisc audio commentary, Scorsese acknowledged several critics' interpretation of the film's ending as being Bickle's dying dream. He admits that the last scene of Bickle glancing at an unseen object implies that Bickle might fall into rage and recklessness in the future, and he is like "a ticking time bomb".[37] Writer Paul Schrader confirms this in his commentary on the 30th-anniversary DVD, stating that Travis "is not cured by the movie's end", and that "he's not going to be a hero next time."[38] When asked on the website Reddit about the film's ending, Schrader said that it was not to be taken as a dream sequence, but that he envisioned it as returning to the beginning of the film—as if the last frame "could be spliced to the first frame, and the movie started all over again."[39]
+LaserDiscaudio commentarycritics[37][37][38][38]Reddit[39][39]The film has also been connected with the 1970s wave of vigilante films and has been noted as a more respectable New Hollywood counterpart to the numerous exploitation vigilante films of the decade.[40] However, despite similarities between Taxi Driver and the vigilante films of the 1970s, the film has also been explicitly distinguished as not being a vigilante film or not belonging to the 1970s vigilante film wave.[41]
+vigilante filmsNew Hollywoodexploitation[40][40]Taxi Driver[41][41]The film can be viewed as a spiritual successor to The Searchers. As Roger Ebert pointed out,[42] both films centre on a lonely war veteran that attempts to rescue a young girl who does not want to be saved. Both also portray the main character as someone that is alienated from society and who cannot establish normal relationships with people. It is not clear whether Paul Schrader looked for this film specifically for inspiration, but the similarities are apparent.
+The Searchers[42][42]Some critics have described the film as "neo-noir".[43][4]
+It has also been referred to as an antihero film.[44][45]
+[43][43][4][4]antihero[44][44][45][45]Reception[edit]Reception[edit][edit]Box office[edit]Box office[edit][edit]
+Filmed on a budget of $1.9 million, Taxi Driver grossed $28.3 million in the United States,[46] making it the 17th-highest-grossing film of 1976.
+Taxi Driver[46][46]17th-highest-grossing film of 1976Critical response[edit]Critical response[edit][edit]Roger Ebert instantly praised it as one of the greatest films he had ever seen, claiming:
+Roger EbertTaxi Driver is a hell, from the opening shot of a cab emerging from stygian clouds of steam to the climactic killing scene in which the camera finally looks straight down. Scorsese wanted to look away from Travis's rejection; we almost want to look away from his life. But he's there, all right, and he's suffering.[47]Taxi Driver is a hell, from the opening shot of a cab emerging from stygian clouds of steam to the climactic killing scene in which the camera finally looks straight down. Scorsese wanted to look away from Travis's rejection; we almost want to look away from his life. But he's there, all right, and he's suffering.[47]Taxi Driver[47][47]It was nominated for four Academy Awards, including Best Picture and Best Actor (De Niro), and received the Palme d'Or at the 1976 Cannes Film Festival.[48] It has been selected for preservation in the United States National Film Registry.[49] The film was chosen by Time as one of the 100 best films of all time.[50]
+Academy AwardsBest PictureBest ActorPalme d'Or1976 Cannes Film Festival[48][48]National Film Registry[49][49]TimeTime100 best films of all time[50][50]Rotten Tomatoes gives the film a score of 98% based on reviews from 80 critics with an average rating of 9/10; the site's consensus states: "A must-see film for movie lovers, this Martin Scorsese masterpiece is as hard-hitting as it is compelling, with Robert De Niro at his best."[51] Metacritic gives the film a score of 94 out of 100, based on reviews from 23 critics, indicating "universal acclaim".[52]
+Rotten Tomatoes[51][51]Metacritic[52][52]The July/August 2009 issue of Film Comment polled several critics on the best films to win the Palme d'Or at the Cannes Film Festival. Taxi Driver placed first, above films such as Il Gattopardo, Viridiana, Blowup, The Conversation, Apocalypse Now, La Dolce Vita, and Pulp Fiction.[53]
+Film CommentFilm CommentPalme d'OrCannes Film FestivalTaxi DriverIl GattopardoIl GattopardoViridianaViridianaBlowupBlowupThe ConversationThe ConversationApocalypse NowApocalypse NowLa Dolce VitaLa Dolce VitaPulp FictionPulp Fiction[53][53]Taxi Driver was ranked by the American Film Institute as the 52nd-greatest American film on its AFI's 100 Years...100 Movies (10th Anniversary Edition) list, and Bickle was voted the 30th greatest villain in a poll by the same organization. Empire also ranked him 18th in its "The 100 Greatest Movie Characters" poll,[54] and the film ranks at No. 17 on the magazine's 2008 list of the 500 greatest movies of all time.[55]
+Taxi DriverAmerican Film InstituteAmerican filmAFI's 100 Years...100 Movies (10th Anniversary Edition)was voted the 30th greatest villainEmpireEmpire[54][54][55][55]Time Out magazine conducted a poll of the 100 greatest movies set in New York City. Taxi Driver topped the list placing at No. 1.[56]
+Time OutTime OutTaxi Driver[56][56]Schrader's screenplay for the film was ranked the 43rd greatest ever written by the Writers Guild of America.[57]
+Writers Guild of America[57][57]By contrast, Leonard Maltin gave a rating of only 2 stars and called the film a "gory, cold-blooded story of sick man's lurid descent into violence" which was "ugly and unredeeming".[58]
+Leonard Maltin[58][58]Accolades[edit]Accolades[edit][edit]
+
+
+Award
+Category
+Nominee
+Result
+
+
+Cannes Film Festival[48]
+Palme d'Or
+Martin Scorsese
+Won
+
+
+Hochi Film Award
+Best Foreign Film
+Won
+
+
+LAFCA Award[59]
+Best Actor
+Robert De Niro
+Won
+
+
+Best Music
+Bernard Herrmann
+Won
+
+
+New Generation Award
+Jodie FosterMartin Scorsese
+Won
+
+
+Academy Award[60]
+Best Actor in a Leading Role
+Robert De Niro
+Nominated
+
+
+Best Actress in a Supporting Role
+Jodie Foster
+Nominated
+
+
+Best Music, Original Score
+Bernard Herrmann (posthumous nomination)
+Nominated
+
+
+Best Picture
+Michael Phillips and Julia Phillips
+Nominated
+
+
+BAFTA Award[61]
+Anthony Asquith Award for Film Music
+Bernard Herrmann
+Won
+
+
+Best Supporting Actress
+Jodie Foster
+Won
+
+
+Most Promising Newcomer to Leading Film Roles
+Won
+
+
+Best Actor
+Robert De Niro
+Nominated
+
+
+Best Direction
+Martin Scorsese
+Nominated
+
+
+Best Film
+
+Nominated
+
+
+Best Film Editing
+Marcia LucasTom RolfMelvin Shapiro
+Nominated
+
+
+Blue Ribbon Award
+Best Foreign Film
+Martin Scorsese
+Won
+
+
+David di Donatello Award
+Special David
+Jodie Foster
+Won
+
+
+Martin Scorsese
+Won
+
+
+DGA Award
+Outstanding Directorial Achievement in Motion Pictures
+Nominated
+
+
+Golden Globe Award[62]
+Best Motion Picture Actor – Drama
+Robert De Niro
+Nominated
+
+
+Best Supporting Actress - Motion Picture
+Jodie Foster
+Nominated
+
+
+Grammy Award
+Best Album of Original Score Written for a Motion Picture or Television Special
+Bernard Herrmann
+Nominated
+
+
+Kinema Junpo Award
+Best Foreign Language Film Director
+Martin Scorsese
+Won
+
+
+NSFC Award
+Best Actor
+Robert De Niro
+Won
+
+
+Best Director
+Martin Scorsese
+Won
+
+
+Best Supporting Actress
+Jodie Foster
+Won
+
+
+Best Film
+
+Nominated
+
+
+Best Supporting Actor
+Harvey Keitel
+Nominated
+
+
+NYFCC Award
+Best Actor
+Robert De Niro
+Won
+
+
+Best Director
+Martin Scorsese
+Nominated
+
+
+Best Supporting Actor
+Harvey Keitel
+Nominated
+
+
+Best Supporting Actress
+Jodie Foster
+Nominated
+
+
+WGA Award
+Best Drama Written Directly for the Screen
+Paul Schrader
+Nominated
+
+Award
+Category
+Nominee
+Result
+
+
+Cannes Film Festival[48]
+Palme d'Or
+Martin Scorsese
+Won
+
+
+Hochi Film Award
+Best Foreign Film
+Won
+
+
+LAFCA Award[59]
+Best Actor
+Robert De Niro
+Won
+
+
+Best Music
+Bernard Herrmann
+Won
+
+
+New Generation Award
+Jodie FosterMartin Scorsese
+Won
+
+
+Academy Award[60]
+Best Actor in a Leading Role
+Robert De Niro
+Nominated
+
+
+Best Actress in a Supporting Role
+Jodie Foster
+Nominated
+
+
+Best Music, Original Score
+Bernard Herrmann (posthumous nomination)
+Nominated
+
+
+Best Picture
+Michael Phillips and Julia Phillips
+Nominated
+
+
+BAFTA Award[61]
+Anthony Asquith Award for Film Music
+Bernard Herrmann
+Won
+
+
+Best Supporting Actress
+Jodie Foster
+Won
+
+
+Most Promising Newcomer to Leading Film Roles
+Won
+
+
+Best Actor
+Robert De Niro
+Nominated
+
+
+Best Direction
+Martin Scorsese
+Nominated
+
+
+Best Film
+
+Nominated
+
+
+Best Film Editing
+Marcia LucasTom RolfMelvin Shapiro
+Nominated
+
+
+Blue Ribbon Award
+Best Foreign Film
+Martin Scorsese
+Won
+
+
+David di Donatello Award
+Special David
+Jodie Foster
+Won
+
+
+Martin Scorsese
+Won
+
+
+DGA Award
+Outstanding Directorial Achievement in Motion Pictures
+Nominated
+
+
+Golden Globe Award[62]
+Best Motion Picture Actor – Drama
+Robert De Niro
+Nominated
+
+
+Best Supporting Actress - Motion Picture
+Jodie Foster
+Nominated
+
+
+Grammy Award
+Best Album of Original Score Written for a Motion Picture or Television Special
+Bernard Herrmann
+Nominated
+
+
+Kinema Junpo Award
+Best Foreign Language Film Director
+Martin Scorsese
+Won
+
+
+NSFC Award
+Best Actor
+Robert De Niro
+Won
+
+
+Best Director
+Martin Scorsese
+Won
+
+
+Best Supporting Actress
+Jodie Foster
+Won
+
+
+Best Film
+
+Nominated
+
+
+Best Supporting Actor
+Harvey Keitel
+Nominated
+
+
+NYFCC Award
+Best Actor
+Robert De Niro
+Won
+
+
+Best Director
+Martin Scorsese
+Nominated
+
+
+Best Supporting Actor
+Harvey Keitel
+Nominated
+
+
+Best Supporting Actress
+Jodie Foster
+Nominated
+
+
+WGA Award
+Best Drama Written Directly for the Screen
+Paul Schrader
+Nominated
+
+Award
+Category
+Nominee
+Result
+AwardCategoryNomineeResult
+
+Cannes Film Festival[48]
+Palme d'Or
+Martin Scorsese
+Won
+Cannes Film Festival[48]Cannes Film Festival[48][48]Palme d'OrPalme d'OrMartin ScorseseMartin ScorseseWon
+
+Hochi Film Award
+Best Foreign Film
+Won
+Hochi Film AwardHochi Film AwardBest Foreign FilmWon
+
+LAFCA Award[59]
+Best Actor
+Robert De Niro
+Won
+LAFCA Award[59]LAFCA Award[59][59]Best ActorBest ActorRobert De NiroRobert De NiroWon
+
+Best Music
+Bernard Herrmann
+Won
+Best MusicBernard HerrmannBernard HerrmannWon
+
+New Generation Award
+Jodie FosterMartin Scorsese
+Won
+New Generation AwardJodie FosterMartin ScorseseJodie FosterWon
+
+Academy Award[60]
+Best Actor in a Leading Role
+Robert De Niro
+Nominated
+Academy Award[60]Academy Award[60][60]Best Actor in a Leading RoleBest Actor in a Leading RoleRobert De NiroNominated
+
+Best Actress in a Supporting Role
+Jodie Foster
+Nominated
+Best Actress in a Supporting RoleBest Actress in a Supporting RoleJodie FosterNominated
+
+Best Music, Original Score
+Bernard Herrmann (posthumous nomination)
+Nominated
+Best Music, Original ScoreBest Music, Original ScoreBernard Herrmann (posthumous nomination)Bernard HerrmannNominated
+
+Best Picture
+Michael Phillips and Julia Phillips
+Nominated
+Best PictureBest PictureMichael Phillips and Julia PhillipsMichael PhillipsJulia PhillipsNominated
+
+BAFTA Award[61]
+Anthony Asquith Award for Film Music
+Bernard Herrmann
+Won
+BAFTA Award[61]BAFTA Award[61][61]Anthony Asquith Award for Film MusicAnthony Asquith Award for Film MusicBernard HerrmannWon
+
+Best Supporting Actress
+Jodie Foster
+Won
+Best Supporting ActressBest Supporting ActressJodie FosterWon
+
+Most Promising Newcomer to Leading Film Roles
+Won
+Most Promising Newcomer to Leading Film RolesMost Promising Newcomer to Leading Film RolesWon
+
+Best Actor
+Robert De Niro
+Nominated
+Best ActorBest ActorRobert De NiroNominated
+
+Best Direction
+Martin Scorsese
+Nominated
+Best DirectionBest DirectionMartin ScorseseNominated
+
+Best Film
+
+Nominated
+Best FilmBest FilmNominated
+
+Best Film Editing
+Marcia LucasTom RolfMelvin Shapiro
+Nominated
+Best Film EditingBest Film EditingMarcia LucasTom RolfMelvin ShapiroMarcia LucasNominated
+
+Blue Ribbon Award
+Best Foreign Film
+Martin Scorsese
+Won
+Blue Ribbon AwardBlue Ribbon AwardBest Foreign FilmMartin ScorseseWon
+
+David di Donatello Award
+Special David
+Jodie Foster
+Won
+David di Donatello AwardDavid di Donatello AwardSpecial DavidJodie FosterWon
+
+Martin Scorsese
+Won
+Martin ScorseseWon
+
+DGA Award
+Outstanding Directorial Achievement in Motion Pictures
+Nominated
+DGA AwardDGA AwardOutstanding Directorial Achievement in Motion PicturesOutstanding Directorial Achievement in Motion PicturesNominated
+
+Golden Globe Award[62]
+Best Motion Picture Actor – Drama
+Robert De Niro
+Nominated
+Golden Globe Award[62]Golden Globe Award[62][62]Best Motion Picture Actor – DramaBest Motion Picture Actor – DramaRobert De NiroNominated
+
+Best Supporting Actress - Motion Picture
+Jodie Foster
+Nominated
+Best Supporting Actress - Motion PictureBest Supporting Actress - Motion PictureJodie FosterNominated
+
+Grammy Award
+Best Album of Original Score Written for a Motion Picture or Television Special
+Bernard Herrmann
+Nominated
+Grammy AwardGrammy AwardBest Album of Original Score Written for a Motion Picture or Television SpecialBest Album of Original Score Written for a Motion Picture or Television SpecialBernard HerrmannNominated
+
+Kinema Junpo Award
+Best Foreign Language Film Director
+Martin Scorsese
+Won
+Kinema Junpo AwardKinema Junpo AwardBest Foreign Language Film DirectorMartin ScorseseWon
+
+NSFC Award
+Best Actor
+Robert De Niro
+Won
+NSFC AwardNSFC AwardBest ActorBest ActorRobert De NiroWon
+
+Best Director
+Martin Scorsese
+Won
+Best DirectorBest DirectorMartin ScorseseWon
+
+Best Supporting Actress
+Jodie Foster
+Won
+Best Supporting ActressBest Supporting ActressJodie FosterWon
+
+Best Film
+
+Nominated
+Best FilmNominated
+
+Best Supporting Actor
+Harvey Keitel
+Nominated
+Best Supporting ActorHarvey KeitelHarvey KeitelNominated
+
+NYFCC Award
+Best Actor
+Robert De Niro
+Won
+NYFCC AwardNYFCC AwardBest ActorBest ActorRobert De NiroWon
+
+Best Director
+Martin Scorsese
+Nominated
+Best DirectorMartin ScorseseNominated
+
+Best Supporting Actor
+Harvey Keitel
+Nominated
+Best Supporting ActorHarvey KeitelNominated
+
+Best Supporting Actress
+Jodie Foster
+Nominated
+Best Supporting ActressJodie FosterNominated
+
+WGA Award
+Best Drama Written Directly for the Screen
+Paul Schrader
+Nominated
+WGA AwardWGA AwardBest Drama Written Directly for the ScreenPaul SchraderNominated
+Legacy[edit]Legacy[edit][edit]Taxi Driver, American Gigolo, Light Sleeper, and The Walker make up a series referred to variously as the "Man in a Room" or "Night Worker" films. Screenwriter Paul Schrader (who directed the latter three films) has said that he considers the central characters of the four films to be one character, who has changed as he has aged.[63][64] The film also influenced the Charles Winkler film You Talkin' to Me?[65]
+Taxi DriverAmerican GigoloAmerican GigoloLight SleeperLight SleeperThe WalkerThe WalkerPaul Schrader[63][63][64][64]You Talkin' to Me?You Talkin' to Me?[65][65]In the 2012 film Seven Psychopaths, psychotic Los Angeles actor Billy Bickle (Sam Rockwell) believes himself to be the illegitimate son of Travis Bickle.[66]
+Seven PsychopathsSeven PsychopathsSam Rockwell[66][66]The vigilante ending inspired Jacques Audiard for his 2015 Palme d'Or-winning film Dheepan. The French director based the eponymous Tamil Tiger character on the one played by Robert De Niro in order to make him a "real movie hero".[67]
+Jacques AudiardPalme d'OrDheepanDheepanTamil TigerRobert De Niro[67][67]"You talkin' to me?"[edit]"You talkin' to me?"[edit][edit]"You Talkin' to Me?" redirects here. For the comedy, see You Talkin' to Me? (film).
+"You Talkin' to Me?" redirects here. For the comedy, see You Talkin' to Me? (film).You Talkin' to Me? (film)De Niro's "You talkin' to me?" speech has become a pop culture mainstay. In 2005, it was ranked number 10 on the American Film Institute's AFI's 100 Years... 100 Movie Quotes.
+pop cultureAmerican Film InstituteAFI's 100 Years... 100 Movie QuotesIn the relevant scene, the deranged Bickle is looking into a mirror at himself, imagining a confrontation that would give him a chance to draw his gun:
+“You talkin' to me? You talkin' to me? You talkin' to me? Then who the hell else are you talkin' to? You talkin' to me? Well I'm the only one here. Who the fuck do you think you're talking to?”
+“You talkin' to me? You talkin' to me? You talkin' to me? Then who the hell else are you talkin' to? You talkin' to me? Well I'm the only one here. Who the fuck do you think you're talking to?”Scorsese said that he drew inspiration from John Huston's 1967 movie Reflections in a Golden Eye in a scene in which Marlon Brando's character is facing the mirror.[68]
+Reflections in a Golden EyeReflections in a Golden EyeMarlon Brando[68][68]Screenwriter Paul Schrader does not take credit for the line, saying that his script only read "Travis speaks to himself in the mirror", and that De Niro improvised the dialogue. However, he went on to say that De Niro's performance was inspired by "an underground New York comedian" he had once seen, possibly including his signature line.[69]
+Paul Schrader[69][69]Roger Ebert said of the latter part of the phrase "I'm the only one here" that it was “the truest line in the film.... Travis Bickle's desperate need to make some kind of contact somehow—to share or mimic the effortless social interaction he sees all around him, but does not participate in.”[70]
+Roger Ebert[70][70]In his 2009 memoir, saxophonist Clarence Clemons said that De Niro explained the line's origins when Clemons coached De Niro to play the saxophone for the 1977 film New York, New York. Clemons said that De Niro had seen Bruce Springsteen say the line onstage at a concert as fans were screaming his name, and decided to make the line his own.[71]
+Clarence ClemonsNew York, New YorkNew York, New YorkBruce Springsteen[71][71]Home media[edit]Home media[edit][edit]
+The first Collector's Edition DVD, released in 1999, was packaged as a single-disc edition release. It contained special features, such as behind-the-scenes and several trailers, including one for Taxi Driver.
+DVDTaxi DriverIn 2006, a 30th-anniversary 2-disc Collector's Edition DVD was released. The first disc contains the film itself, two audio commentaries (one by writer Schrader and the other by Professor Robert Kolker), and trailers. This edition also retains some of the special features from the earlier release on the second disc, as well as some newly produced documentary material.[72]
+audio commentariestrailers[72][72]A Blu-ray was released on April 5, 2011 to commemorate the film's 35th anniversary. It includes the special features from the previous 2-disc collector's edition, plus an audio commentary by Scorsese released in 1991 for the Criterion Collection, previously released on Laserdisc.[73]
+Blu-raythe Criterion CollectionLaserdisc[73][73]As part of the Blu-ray production, Sony gave the film a full 4K digital restoration, which included scanning and cleaning the original negative (removing emulsion dirt and scratches). Colors were matched to director-approved prints under guidance from Scorsese and director of photography Michael Chapman. An all-new lossless DTS-HD Master Audio 5.1 soundtrack was also made from the original stereo recordings by Scorsese's personal sound team.[74][75] The restored print premiered in February 2011 at the Berlin Film Festival, and to promote the Blu-ray, Sony also had the print screened at AMC Theatres across the United States on March 19 and 22.[76][77][78]
+4KlosslessDTS-HD Master Audio5.1[74][74][75][75]AMC Theatres[76][76][77][77][78][78]Proposed sequel and remake[edit]Proposed sequel and remake[edit][edit]In late January 2005, a sequel was announced by De Niro and Scorsese.[79] At a 25th-anniversary screening of Raging Bull, De Niro talked about the story of an older Travis Bickle being in development. Also in 2000, De Niro mentioned interest in bringing back the character in conversation with Actors Studio host James Lipton.[80] In November 2013, he revealed that Schrader had done a first draft but both he and Scorsese thought that it was not good enough to go beyond.[81]
+[79][79]Raging BullRaging BullActors StudioJames Lipton[80][80][81][81]In 2010, Variety reported rumors that Lars von Trier, Scorsese, and De Niro planned to work on a remake of the film with the same restrictions that were used in The Five Obstructions.[82] In 2014, Paul Schrader said that it was not being made. He said, "It was a terrible idea" and "in Marty's mind, it never was something that should be done."[83]
+VarietyVarietyLars von TrierThe Five ObstructionsThe Five Obstructions[82][82][83][83]References[edit]References[edit][edit]
+
+^ F. Dick, Bernard (1992). Columbia Pictures: Portrait of a Studio. University Press of Kentucky. p. 193..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Grist, Leighton (2000). The Films of Martin Scorsese, 1963-77: Authorship and Context. Palgrave Macmillan. p. 130.
+
+^ "Taxi Driver (1976)". Box Office Mojo. Retrieved January 23, 2012.
+
+^ a b Schwartz, Ronald (January 1, 2005). Neo-noir: The New Film Noir Style from Psycho to Collateral. Scarecrow Press. p. 33. Retrieved May 2, 2015.
+
+^ Taubin, Amy (March 28, 2000). Taxi Driver. British Film Institute Publishing. p. 13. Retrieved May 2, 2015.
+
+^ "Taxi Driver". AFI. Retrieved December 29, 2018.
+
+^ "Taxi Driver (1976)". BFI. Retrieved December 29, 2018.
+
+^ a b "Scorsese on Scorsese" edited by David Thompson and Ian Christie. 057114103X: series London; Boston: Faber and Faber, 1989. Call#: Van Pelt Library PN1998.3.S39 A3 1989
+
+^ a b Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. ISBN 978-0-8108-7413-8.
+
+^ "Travis gave punks a hair of aggression." Toronto Star February 12, 2005: H02
+
+^ Björklund, Elisabet (2011). "'This is a dirty movie' – Taxi Driver and 'Swedish sin'". Journal of Scandinavian Cinema. 1 (2): 169–170. doi:10.1386/jsca.1.2.163_1.
+
+^ Kilday, Gregg (April 7, 2016). "Taxi Driver Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary". The Hollywood Reporter. Retrieved August 15, 2016.
+
+^ Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. p. 31. ISBN 9780810874145.
+
+^ Perkins, Will. "Dan Perri: A Career Retrospective". Art of the Title. Archived from the original on 11 August 2017. Retrieved 11 August 2017.
+
+^ Mir, Shaun. "Taxi Driver". Art of the Title. Archived from the original on 12 August 2017. Retrieved 12 August 2017.
+
+^ Lewis, Hillary. "Tribeca: 'Taxi Driver' Team Recalls Filming in 1970s New York, Current Relevance of Classic". The Hollywood Reporter. Retrieved 15 May 2018.
+
+^ Ebiri, Bilge (April 1, 2015). "Martin Scorsese Remembers Shooting Taxi Driver in New York". Vulture.
+
+^ Ruhlmann, William. "Bernard Hermann". CFBT-FM. Retrieved March 16, 2014.
+
+^ "Taxi Driver [Original Soundtrack]". AllMusic.
+
+^ Taxi Driver: Music composed by Bernard Hermann. musicweb-international.com. Retrieved on 2009-03-15 from http://www.musicweb-international.com/film/2004/Mar04/taxi_driver.html.
+
+^ Hyden, Steven (February 12, 2008). "Song And Vision No. 1: "Late For The Sky" and Taxi Driver". The A.V. Club.
+
+^ Taubin, Amy. Taxi Driver. ISBN 0 85170 393 3.
+
+^ "'Taxi Driver' Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary".
+
+^ "Jodie Foster details how 'uncomfortable' it was playing a prostitute aged 12 in Taxi Driver".
+
+^ Keyser, Les. Martin Scorsese. ISBN 0 8057 9315 1.
+
+^ "FuzzyMemories.TV – - Taxi Driver – TV Disclaimer Ending" (1982)". FuzzyMemories.TV. Retrieved November 21, 2011.
+
+^ "Taxi Driver Lashes Out at Society". Schenectady Gazette. Google News. January 27, 1979. p. 25.
+
+^ "Forty Years After "Taxi Driver," Jodie Foster Recalls the Making of a Classic".
+
+^ Scorsese: a journey through the American psyche. 2005. ISBN 0 85965 355 2.
+
+^ "Hinckley Found Not Guilty, Insane".
+
+^ "Hinckley, Jury Watch 'Taxi Driver' Film".
+
+^ "The Trial of John Hinckley Jr. and Its Impact on Expert Testimony".
+
+^ "Taxi Driver remains one of the best (and most troubling) of Palme winners".
+
+^ Haenni, Sabine (date unknown). "Geographies of Desire: Postsocial Urban Space and Historical Revision in the Films of Martin Scorsese", p67.
+
+^ Great Movie: Taxi Driver RogerEbert.com 1 January 2004. Retrieved 18 October 2016.
+
+^ "ReelViews Movie Review". Reelviews.net. Retrieved April 4, 2012.
+
+^ Taxi Driver Laserdisc Commentary
+
+^ Taxi Driver Audio Commentary with Paul Schrader
+
+^ Schrader, Paul. "I am Paul Schrader, writer of Taxi Driver, writer/director of American Gigolo and director of The Canyons. AMA!". Reddit. Retrieved August 18, 2013.
+
+^ Lim, Dennis (October 19, 2009). "Vigilante films, an American tradition". Los Angeles Times.
+
+^ Novak, Glenn D. (November 1987). "Social Ills and the One-Man Solution: Depictions of Evil in the Vigilante Film" (PDF). International Conference on the Expressions of Evil in Literature and the Visual Arts.
+
+^ Ebert, Roger. "Taxi Driver Movie Review & Film Summary (1976) | Roger Ebert". www.rogerebert.com. Retrieved February 15, 2019.
+
+^ Dirks, Tim. "Film site Movie Review: Taxi Driver (1976)". filmsite.org. AMC. Retrieved May 2, 2015.
+
+^ Bouzereau, Laurent (Writer, Director, and Producer) (1999). Making Taxi Driver (Television production). United States: Columbia TriStar Home Video.  102 minutes in. The best movies that I know of are the seventies', precisely because I think people were really ... interested by the antihero, which has pretty much gone away now. ... I do think that it would be a movie that it would be very difficult to finance nowadays.
+
+^ "De Niro takes anti-hero honours". BBC News. August 16, 2004. Retrieved November 13, 2017.
+
+^ Taxi Driver, Box Office Mojo Internet Movie Database. Retrieved March 31, 2007
+
+^ "Taxi Driver". Chicago Sun-Times.
+
+^ a b "Taxi Driver". Festival de Cannes. Retrieved February 1, 2017.
+
+^ Films Selected to The National Film Registry, Library of Congress, 1989–2005. Retrieved March 10, 2007.
+
+^ Schickel, Richard (January 23, 2012). "The Complete List – ALL-TIME 100 Movies". Time. Retrieved April 4, 2012.
+
+^ Taxi Driver, Rotten Tomatoes Flixster. Retrieved October 4, 2008
+
+^ Taxi Driver, Metacritic Flixster. Retrieved March 20, 2016
+
+^ "List of best films to win Palme d'Or at the Cannes Film Festival". Film Society for Lincoln Center. Archived from the original on October 3, 2009. Retrieved February 24, 2010.
+
+^ "The 100 Greatest Movie Characters". Empire. Retrieved December 2, 2008.
+
+^ "The 500 Greatest Movies Of All Time". Empire. October 3, 2008.
+
+^ "The 101 best New York movies of all time". Time Out. June 17, 2016.
+
+^ "101 Greatest Screenplays". Writers Guild of America. Retrieved March 6, 2017.
+
+^ Maltin, Leonard (2013). Leonard Maltin's 2014 Movie Guide The Modern Era. New York: Penguin Group. p. 1385. ISBN 978-0-451-41810-4.
+
+^ "2nd Annual Los Angeles Film Critics Association Awards". LAFCA. Retrieved February 1, 2017.
+
+^ "The 49th Academy Awards (1977) Nominees and Winners". oscars.org. Retrieved February 1, 2017.
+
+^ "Film in 1977". BAFTA. Retrieved February 1, 2017.
+
+^ "Taxi Driver". Golden Globes. Retrieved February 1, 2017.
+
+^ Interview with Paul Schrader, BBC Radio 4's Film Programme, August 10, 2007
+
+^ "Filmmaker Magazine, Fall 1992". Filmmakermagazine.com. Retrieved April 4, 2012.
+
+^ James, Caryn (November 1, 2010). "New York Times film overview". The New York Times. Retrieved April 4, 2012.
+
+^ Shone, Tom (December 3, 2012). "Sam Rockwell: Hollywood's odd man out". Retrieved August 3, 2014.
+
+^ Trio, Lieven. "Jacques Audiard dévoile 'Dheepan', sa palme d'or". Metro. Retrieved August 29, 2015.
+
+^ Taubin, Amy (2000). Taxi Driver. London: BFI Publishing. ISBN 0 85170 393 3.
+
+^ "New York Times Film Overview". The New York Times. February 15, 1976. Retrieved February 15, 2019.
+
+^ Ebert, Roger (March 1, 1996). "Taxi Driver: 20th Anniversary Edition". RogerEbert.com. Retrieved February 15, 2019.
+
+^ Clemons, Clarence (2009). Big Man: Real Life & Tall Tales. Sphere. ISBN 978-0751543469.
+
+^ Taxi Driver, Sony Pictures Home Entertainment, August 14, 2007, retrieved February 15, 2019
+
+^ Taxi Driver Blu-ray, retrieved February 15, 2019
+
+^ "Home Cinema @ The Digital Fix – Taxi Driver 35th AE (US BD) in April". Homecinema.thedigitalfix.co.uk. Retrieved July 23, 2011.
+
+^ "From Berlin: 4K 'Taxi Driver' World Premiere". MSN. Archived from the original on July 14, 2011.
+
+^ Meza, Ed; Meza, Ed (January 27, 2011). "Restored 'Taxi Driver' to preem in Berlin". Variety. Retrieved February 15, 2019.
+
+^ "Berlinale 2011: Taxi Driver". Park Circus. Retrieved February 15, 2019.
+
+^ "Scorsese's 'Taxi Driver' is Returning to AMC Theatres for Two Days". FirstShowing.net. Retrieved February 15, 2019.
+
+^ Brooks, Xan (February 5, 2005). "Scorsese and De Niro plan Taxi Driver sequel". The Guardian. London. Retrieved February 24, 2010.
+
+^ Saravia, Jerry. "Taxi Driver 2: Bringing Out Travis". faustus. Archived from the original on October 27, 2009. Retrieved February 24, 2010.
+
+^ Brooks, Xan (November 14, 2013). "Robert De Niro: 'I'd like to see where Travis Bickle is today'". The Guardian. London. Retrieved December 28, 2014.
+
+^ Steve Barton (February 16, 2010). "Lars von Trier, Robert De Niro, and Martin Scorsese Collaborating on New Taxi Driver". Dread Central. Retrieved February 24, 2010.
+
+^ Dan Selcke (February 19, 2014). "Taxi Driver will not be remade by Lars Von Trier, if anyone was worried". The A.V. Club. Retrieved July 8, 2016.
+
+
+^ F. Dick, Bernard (1992). Columbia Pictures: Portrait of a Studio. University Press of Kentucky. p. 193..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ Grist, Leighton (2000). The Films of Martin Scorsese, 1963-77: Authorship and Context. Palgrave Macmillan. p. 130.
+
+^ "Taxi Driver (1976)". Box Office Mojo. Retrieved January 23, 2012.
+
+^ a b Schwartz, Ronald (January 1, 2005). Neo-noir: The New Film Noir Style from Psycho to Collateral. Scarecrow Press. p. 33. Retrieved May 2, 2015.
+
+^ Taubin, Amy (March 28, 2000). Taxi Driver. British Film Institute Publishing. p. 13. Retrieved May 2, 2015.
+
+^ "Taxi Driver". AFI. Retrieved December 29, 2018.
+
+^ "Taxi Driver (1976)". BFI. Retrieved December 29, 2018.
+
+^ a b "Scorsese on Scorsese" edited by David Thompson and Ian Christie. 057114103X: series London; Boston: Faber and Faber, 1989. Call#: Van Pelt Library PN1998.3.S39 A3 1989
+
+^ a b Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. ISBN 978-0-8108-7413-8.
+
+^ "Travis gave punks a hair of aggression." Toronto Star February 12, 2005: H02
+
+^ Björklund, Elisabet (2011). "'This is a dirty movie' – Taxi Driver and 'Swedish sin'". Journal of Scandinavian Cinema. 1 (2): 169–170. doi:10.1386/jsca.1.2.163_1.
+
+^ Kilday, Gregg (April 7, 2016). "Taxi Driver Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary". The Hollywood Reporter. Retrieved August 15, 2016.
+
+^ Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. p. 31. ISBN 9780810874145.
+
+^ Perkins, Will. "Dan Perri: A Career Retrospective". Art of the Title. Archived from the original on 11 August 2017. Retrieved 11 August 2017.
+
+^ Mir, Shaun. "Taxi Driver". Art of the Title. Archived from the original on 12 August 2017. Retrieved 12 August 2017.
+
+^ Lewis, Hillary. "Tribeca: 'Taxi Driver' Team Recalls Filming in 1970s New York, Current Relevance of Classic". The Hollywood Reporter. Retrieved 15 May 2018.
+
+^ Ebiri, Bilge (April 1, 2015). "Martin Scorsese Remembers Shooting Taxi Driver in New York". Vulture.
+
+^ Ruhlmann, William. "Bernard Hermann". CFBT-FM. Retrieved March 16, 2014.
+
+^ "Taxi Driver [Original Soundtrack]". AllMusic.
+
+^ Taxi Driver: Music composed by Bernard Hermann. musicweb-international.com. Retrieved on 2009-03-15 from http://www.musicweb-international.com/film/2004/Mar04/taxi_driver.html.
+
+^ Hyden, Steven (February 12, 2008). "Song And Vision No. 1: "Late For The Sky" and Taxi Driver". The A.V. Club.
+
+^ Taubin, Amy. Taxi Driver. ISBN 0 85170 393 3.
+
+^ "'Taxi Driver' Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary".
+
+^ "Jodie Foster details how 'uncomfortable' it was playing a prostitute aged 12 in Taxi Driver".
+
+^ Keyser, Les. Martin Scorsese. ISBN 0 8057 9315 1.
+
+^ "FuzzyMemories.TV – - Taxi Driver – TV Disclaimer Ending" (1982)". FuzzyMemories.TV. Retrieved November 21, 2011.
+
+^ "Taxi Driver Lashes Out at Society". Schenectady Gazette. Google News. January 27, 1979. p. 25.
+
+^ "Forty Years After "Taxi Driver," Jodie Foster Recalls the Making of a Classic".
+
+^ Scorsese: a journey through the American psyche. 2005. ISBN 0 85965 355 2.
+
+^ "Hinckley Found Not Guilty, Insane".
+
+^ "Hinckley, Jury Watch 'Taxi Driver' Film".
+
+^ "The Trial of John Hinckley Jr. and Its Impact on Expert Testimony".
+
+^ "Taxi Driver remains one of the best (and most troubling) of Palme winners".
+
+^ Haenni, Sabine (date unknown). "Geographies of Desire: Postsocial Urban Space and Historical Revision in the Films of Martin Scorsese", p67.
+
+^ Great Movie: Taxi Driver RogerEbert.com 1 January 2004. Retrieved 18 October 2016.
+
+^ "ReelViews Movie Review". Reelviews.net. Retrieved April 4, 2012.
+
+^ Taxi Driver Laserdisc Commentary
+
+^ Taxi Driver Audio Commentary with Paul Schrader
+
+^ Schrader, Paul. "I am Paul Schrader, writer of Taxi Driver, writer/director of American Gigolo and director of The Canyons. AMA!". Reddit. Retrieved August 18, 2013.
+
+^ Lim, Dennis (October 19, 2009). "Vigilante films, an American tradition". Los Angeles Times.
+
+^ Novak, Glenn D. (November 1987). "Social Ills and the One-Man Solution: Depictions of Evil in the Vigilante Film" (PDF). International Conference on the Expressions of Evil in Literature and the Visual Arts.
+
+^ Ebert, Roger. "Taxi Driver Movie Review & Film Summary (1976) | Roger Ebert". www.rogerebert.com. Retrieved February 15, 2019.
+
+^ Dirks, Tim. "Film site Movie Review: Taxi Driver (1976)". filmsite.org. AMC. Retrieved May 2, 2015.
+
+^ Bouzereau, Laurent (Writer, Director, and Producer) (1999). Making Taxi Driver (Television production). United States: Columbia TriStar Home Video.  102 minutes in. The best movies that I know of are the seventies', precisely because I think people were really ... interested by the antihero, which has pretty much gone away now. ... I do think that it would be a movie that it would be very difficult to finance nowadays.
+
+^ "De Niro takes anti-hero honours". BBC News. August 16, 2004. Retrieved November 13, 2017.
+
+^ Taxi Driver, Box Office Mojo Internet Movie Database. Retrieved March 31, 2007
+
+^ "Taxi Driver". Chicago Sun-Times.
+
+^ a b "Taxi Driver". Festival de Cannes. Retrieved February 1, 2017.
+
+^ Films Selected to The National Film Registry, Library of Congress, 1989–2005. Retrieved March 10, 2007.
+
+^ Schickel, Richard (January 23, 2012). "The Complete List – ALL-TIME 100 Movies". Time. Retrieved April 4, 2012.
+
+^ Taxi Driver, Rotten Tomatoes Flixster. Retrieved October 4, 2008
+
+^ Taxi Driver, Metacritic Flixster. Retrieved March 20, 2016
+
+^ "List of best films to win Palme d'Or at the Cannes Film Festival". Film Society for Lincoln Center. Archived from the original on October 3, 2009. Retrieved February 24, 2010.
+
+^ "The 100 Greatest Movie Characters". Empire. Retrieved December 2, 2008.
+
+^ "The 500 Greatest Movies Of All Time". Empire. October 3, 2008.
+
+^ "The 101 best New York movies of all time". Time Out. June 17, 2016.
+
+^ "101 Greatest Screenplays". Writers Guild of America. Retrieved March 6, 2017.
+
+^ Maltin, Leonard (2013). Leonard Maltin's 2014 Movie Guide The Modern Era. New York: Penguin Group. p. 1385. ISBN 978-0-451-41810-4.
+
+^ "2nd Annual Los Angeles Film Critics Association Awards". LAFCA. Retrieved February 1, 2017.
+
+^ "The 49th Academy Awards (1977) Nominees and Winners". oscars.org. Retrieved February 1, 2017.
+
+^ "Film in 1977". BAFTA. Retrieved February 1, 2017.
+
+^ "Taxi Driver". Golden Globes. Retrieved February 1, 2017.
+
+^ Interview with Paul Schrader, BBC Radio 4's Film Programme, August 10, 2007
+
+^ "Filmmaker Magazine, Fall 1992". Filmmakermagazine.com. Retrieved April 4, 2012.
+
+^ James, Caryn (November 1, 2010). "New York Times film overview". The New York Times. Retrieved April 4, 2012.
+
+^ Shone, Tom (December 3, 2012). "Sam Rockwell: Hollywood's odd man out". Retrieved August 3, 2014.
+
+^ Trio, Lieven. "Jacques Audiard dévoile 'Dheepan', sa palme d'or". Metro. Retrieved August 29, 2015.
+
+^ Taubin, Amy (2000). Taxi Driver. London: BFI Publishing. ISBN 0 85170 393 3.
+
+^ "New York Times Film Overview". The New York Times. February 15, 1976. Retrieved February 15, 2019.
+
+^ Ebert, Roger (March 1, 1996). "Taxi Driver: 20th Anniversary Edition". RogerEbert.com. Retrieved February 15, 2019.
+
+^ Clemons, Clarence (2009). Big Man: Real Life & Tall Tales. Sphere. ISBN 978-0751543469.
+
+^ Taxi Driver, Sony Pictures Home Entertainment, August 14, 2007, retrieved February 15, 2019
+
+^ Taxi Driver Blu-ray, retrieved February 15, 2019
+
+^ "Home Cinema @ The Digital Fix – Taxi Driver 35th AE (US BD) in April". Homecinema.thedigitalfix.co.uk. Retrieved July 23, 2011.
+
+^ "From Berlin: 4K 'Taxi Driver' World Premiere". MSN. Archived from the original on July 14, 2011.
+
+^ Meza, Ed; Meza, Ed (January 27, 2011). "Restored 'Taxi Driver' to preem in Berlin". Variety. Retrieved February 15, 2019.
+
+^ "Berlinale 2011: Taxi Driver". Park Circus. Retrieved February 15, 2019.
+
+^ "Scorsese's 'Taxi Driver' is Returning to AMC Theatres for Two Days". FirstShowing.net. Retrieved February 15, 2019.
+
+^ Brooks, Xan (February 5, 2005). "Scorsese and De Niro plan Taxi Driver sequel". The Guardian. London. Retrieved February 24, 2010.
+
+^ Saravia, Jerry. "Taxi Driver 2: Bringing Out Travis". faustus. Archived from the original on October 27, 2009. Retrieved February 24, 2010.
+
+^ Brooks, Xan (November 14, 2013). "Robert De Niro: 'I'd like to see where Travis Bickle is today'". The Guardian. London. Retrieved December 28, 2014.
+
+^ Steve Barton (February 16, 2010). "Lars von Trier, Robert De Niro, and Martin Scorsese Collaborating on New Taxi Driver". Dread Central. Retrieved February 24, 2010.
+
+^ Dan Selcke (February 19, 2014). "Taxi Driver will not be remade by Lars Von Trier, if anyone was worried". The A.V. Club. Retrieved July 8, 2016.
+
+^ F. Dick, Bernard (1992). Columbia Pictures: Portrait of a Studio. University Press of Kentucky. p. 193..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+^^^F. Dick, Bernard (1992). Columbia Pictures: Portrait of a Studio. University Press of Kentucky. p. 193..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}F. Dick, Bernard (1992). Columbia Pictures: Portrait of a Studio. University Press of Kentucky. p. 193.Columbia Pictures: Portrait of a StudioColumbia Pictures: Portrait of a Studio.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}^ Grist, Leighton (2000). The Films of Martin Scorsese, 1963-77: Authorship and Context. Palgrave Macmillan. p. 130.
+^^^Grist, Leighton (2000). The Films of Martin Scorsese, 1963-77: Authorship and Context. Palgrave Macmillan. p. 130.Grist, Leighton (2000). The Films of Martin Scorsese, 1963-77: Authorship and Context. Palgrave Macmillan. p. 130.The Films of Martin Scorsese, 1963-77: Authorship and ContextThe Films of Martin Scorsese, 1963-77: Authorship and Context^ "Taxi Driver (1976)". Box Office Mojo. Retrieved January 23, 2012.
+^^^"Taxi Driver (1976)". Box Office Mojo. Retrieved January 23, 2012."Taxi Driver (1976)". Box Office Mojo. Retrieved January 23, 2012."Taxi Driver (1976)"Box Office Mojo. Retrieved January 23, 2012January 23,^ a b Schwartz, Ronald (January 1, 2005). Neo-noir: The New Film Noir Style from Psycho to Collateral. Scarecrow Press. p. 33. Retrieved May 2, 2015.
+^ a baaaabbbbSchwartz, Ronald (January 1, 2005). Neo-noir: The New Film Noir Style from Psycho to Collateral. Scarecrow Press. p. 33. Retrieved May 2, 2015.Schwartz, Ronald (January 1, 2005). Neo-noir: The New Film Noir Style from Psycho to Collateral. Scarecrow Press. p. 33. Retrieved May 2, 2015.Neo-noir: The New Film Noir Style from Psycho to CollateralNeo-noir: The New Film Noir Style from Psycho to Collateral. Retrieved May 2, 2015May 2,^ Taubin, Amy (March 28, 2000). Taxi Driver. British Film Institute Publishing. p. 13. Retrieved May 2, 2015.
+^^^Taubin, Amy (March 28, 2000). Taxi Driver. British Film Institute Publishing. p. 13. Retrieved May 2, 2015.Taubin, Amy (March 28, 2000). Taxi Driver. British Film Institute Publishing. p. 13. Retrieved May 2, 2015.Taxi DriverTaxi Driver. Retrieved May 2, 2015May 2,^ "Taxi Driver". AFI. Retrieved December 29, 2018.
+^^^"Taxi Driver". AFI. Retrieved December 29, 2018."Taxi Driver". AFI. Retrieved December 29, 2018."Taxi Driver"AFI. Retrieved December 29, 2018December 29,^ "Taxi Driver (1976)". BFI. Retrieved December 29, 2018.
+^^^"Taxi Driver (1976)". BFI. Retrieved December 29, 2018."Taxi Driver (1976)". BFI. Retrieved December 29, 2018."Taxi Driver (1976)"BFI. Retrieved December 29, 2018December 29,^ a b "Scorsese on Scorsese" edited by David Thompson and Ian Christie. 057114103X: series London; Boston: Faber and Faber, 1989. Call#: Van Pelt Library PN1998.3.S39 A3 1989
+^ a baaaabbbb"Scorsese on Scorsese" edited by David Thompson and Ian Christie. 057114103X: series London; Boston: Faber and Faber, 1989. Call#: Van Pelt Library PN1998.3.S39 A3 1989^ a b Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. ISBN 978-0-8108-7413-8.
+^ a baaaabbbbRausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. ISBN 978-0-8108-7413-8.Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. ISBN 978-0-8108-7413-8.The Films of Martin Scorsese and Robert De NiroISBN978-0-8108-7413-8978-0-8108-7413-8^ "Travis gave punks a hair of aggression." Toronto Star February 12, 2005: H02
+^^^"Travis gave punks a hair of aggression." Toronto Star February 12, 2005: H02Toronto Star^ Björklund, Elisabet (2011). "'This is a dirty movie' – Taxi Driver and 'Swedish sin'". Journal of Scandinavian Cinema. 1 (2): 169–170. doi:10.1386/jsca.1.2.163_1.
+^^^Björklund, Elisabet (2011). "'This is a dirty movie' – Taxi Driver and 'Swedish sin'". Journal of Scandinavian Cinema. 1 (2): 169–170. doi:10.1386/jsca.1.2.163_1.Björklund, Elisabet (2011). "'This is a dirty movie' – Taxi Driver and 'Swedish sin'". Journal of Scandinavian Cinema. 1 (2): 169–170. doi:10.1386/jsca.1.2.163_1.''Journal of Scandinavian Cinema1doi10.1386/jsca.1.2.163_1^ Kilday, Gregg (April 7, 2016). "Taxi Driver Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary". The Hollywood Reporter. Retrieved August 15, 2016.
+^^^Kilday, Gregg (April 7, 2016). "Taxi Driver Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary". The Hollywood Reporter. Retrieved August 15, 2016.Taxi DriverThe Hollywood Reporter^ Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. p. 31. ISBN 9780810874145.
+^^^Rausch, Andrew J. (2010). The Films of Martin Scorsese and Robert De Niro. Scarecrow Press. p. 31. ISBN 9780810874145.The Films of Martin Scorsese and Robert De NiroISBN9780810874145^ Perkins, Will. "Dan Perri: A Career Retrospective". Art of the Title. Archived from the original on 11 August 2017. Retrieved 11 August 2017.
+^^^Perkins, Will. "Dan Perri: A Career Retrospective". Art of the Title. Archived from the original on 11 August 2017. Retrieved 11 August 2017.Art of the TitleArt of the Title^ Mir, Shaun. "Taxi Driver". Art of the Title. Archived from the original on 12 August 2017. Retrieved 12 August 2017.
+^^^Mir, Shaun. "Taxi Driver". Art of the Title. Archived from the original on 12 August 2017. Retrieved 12 August 2017.Art of the Title^ Lewis, Hillary. "Tribeca: 'Taxi Driver' Team Recalls Filming in 1970s New York, Current Relevance of Classic". The Hollywood Reporter. Retrieved 15 May 2018.
+^^^Lewis, Hillary. "Tribeca: 'Taxi Driver' Team Recalls Filming in 1970s New York, Current Relevance of Classic". The Hollywood Reporter. Retrieved 15 May 2018.The Hollywood Reporter^ Ebiri, Bilge (April 1, 2015). "Martin Scorsese Remembers Shooting Taxi Driver in New York". Vulture.
+^^^Ebiri, Bilge (April 1, 2015). "Martin Scorsese Remembers Shooting Taxi Driver in New York". Vulture.VultureVulture^ Ruhlmann, William. "Bernard Hermann". CFBT-FM. Retrieved March 16, 2014.
+^^^Ruhlmann, William. "Bernard Hermann". CFBT-FM. Retrieved March 16, 2014.Ruhlmann, William. "Bernard Hermann". CFBT-FM. Retrieved March 16, 2014."Bernard Hermann"CFBT-FMCFBT-FM. Retrieved March 16, 2014March 16,^ "Taxi Driver [Original Soundtrack]". AllMusic.
+^^^"Taxi Driver [Original Soundtrack]". AllMusic."Taxi Driver [Original Soundtrack]". AllMusic."Taxi Driver [Original Soundtrack]"AllMusic^ Taxi Driver: Music composed by Bernard Hermann. musicweb-international.com. Retrieved on 2009-03-15 from http://www.musicweb-international.com/film/2004/Mar04/taxi_driver.html.
+^^^Taxi Driver: Music composed by Bernard Hermann. musicweb-international.com. Retrieved on 2009-03-15 from http://www.musicweb-international.com/film/2004/Mar04/taxi_driver.html.http://www.musicweb-international.com/film/2004/Mar04/taxi_driver.html^ Hyden, Steven (February 12, 2008). "Song And Vision No. 1: "Late For The Sky" and Taxi Driver". The A.V. Club.
+^^^Hyden, Steven (February 12, 2008). "Song And Vision No. 1: "Late For The Sky" and Taxi Driver". The A.V. Club.Hyden, Steven (February 12, 2008). "Song And Vision No. 1: "Late For The Sky" and Taxi Driver". The A.V. Club."Song And Vision No. 1: "Late For The Sky" and Taxi Driver"The A.V. ClubThe A.V. Club^ Taubin, Amy. Taxi Driver. ISBN 0 85170 393 3.
+^^^Taubin, Amy. Taxi Driver. ISBN 0 85170 393 3.Taubin, Amy. Taxi Driver. ISBN 0 85170 393 3.Taxi DriverISBN0 85170 393 30 85170 393 3^ "'Taxi Driver' Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary".
+^^^"'Taxi Driver' Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary"."'Taxi Driver' Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary"."'Taxi Driver' Oral History: De Niro, Scorsese, Foster, Schrader Spill All on 40th Anniversary"'^ "Jodie Foster details how 'uncomfortable' it was playing a prostitute aged 12 in Taxi Driver".
+^^^"Jodie Foster details how 'uncomfortable' it was playing a prostitute aged 12 in Taxi Driver"."Jodie Foster details how 'uncomfortable' it was playing a prostitute aged 12 in Taxi Driver"."Jodie Foster details how 'uncomfortable' it was playing a prostitute aged 12 in Taxi Driver"^ Keyser, Les. Martin Scorsese. ISBN 0 8057 9315 1.
+^^^Keyser, Les. Martin Scorsese. ISBN 0 8057 9315 1.Keyser, Les. Martin Scorsese. ISBN 0 8057 9315 1.Martin ScorseseISBN0 8057 9315 10 8057 9315 1^ "FuzzyMemories.TV – - Taxi Driver – TV Disclaimer Ending" (1982)". FuzzyMemories.TV. Retrieved November 21, 2011.
+^^^"FuzzyMemories.TV – - Taxi Driver – TV Disclaimer Ending" (1982)". FuzzyMemories.TV. Retrieved November 21, 2011."FuzzyMemories.TV – - Taxi Driver – TV Disclaimer Ending" (1982)". FuzzyMemories.TV. Retrieved November 21, 2011."FuzzyMemories.TV – - Taxi Driver – TV Disclaimer Ending" (1982)". Retrieved November 21, 2011November 21,^ "Taxi Driver Lashes Out at Society". Schenectady Gazette. Google News. January 27, 1979. p. 25.
+^^^"Taxi Driver Lashes Out at Society". Schenectady Gazette. Google News. January 27, 1979. p. 25."Taxi Driver Lashes Out at Society". Schenectady Gazette. Google News. January 27, 1979. p. 25."Taxi Driver Lashes Out at Society"Schenectady GazetteSchenectady Gazette^ "Forty Years After "Taxi Driver," Jodie Foster Recalls the Making of a Classic".
+^^^"Forty Years After "Taxi Driver," Jodie Foster Recalls the Making of a Classic"."Forty Years After "Taxi Driver," Jodie Foster Recalls the Making of a Classic"."Forty Years After "Taxi Driver," Jodie Foster Recalls the Making of a Classic"^ Scorsese: a journey through the American psyche. 2005. ISBN 0 85965 355 2.
+^^^Scorsese: a journey through the American psyche. 2005. ISBN 0 85965 355 2.Scorsese: a journey through the American psyche. 2005. ISBN 0 85965 355 2.Scorsese: a journey through the American psycheISBN0 85965 355 20 85965 355 2^ "Hinckley Found Not Guilty, Insane".
+^^^"Hinckley Found Not Guilty, Insane"."Hinckley Found Not Guilty, Insane"."Hinckley Found Not Guilty, Insane"^ "Hinckley, Jury Watch 'Taxi Driver' Film".
+^^^"Hinckley, Jury Watch 'Taxi Driver' Film"."Hinckley, Jury Watch 'Taxi Driver' Film"."Hinckley, Jury Watch 'Taxi Driver' Film"^ "The Trial of John Hinckley Jr. and Its Impact on Expert Testimony".
+^^^"The Trial of John Hinckley Jr. and Its Impact on Expert Testimony"."The Trial of John Hinckley Jr. and Its Impact on Expert Testimony"."The Trial of John Hinckley Jr. and Its Impact on Expert Testimony"^ "Taxi Driver remains one of the best (and most troubling) of Palme winners".
+^^^"Taxi Driver remains one of the best (and most troubling) of Palme winners"."Taxi Driver remains one of the best (and most troubling) of Palme winners"."Taxi Driver remains one of the best (and most troubling) of Palme winners"^ Haenni, Sabine (date unknown). "Geographies of Desire: Postsocial Urban Space and Historical Revision in the Films of Martin Scorsese", p67.
+^^^Haenni, Sabine (date unknown). "Geographies of Desire: Postsocial Urban Space and Historical Revision in the Films of Martin Scorsese", p67.^ Great Movie: Taxi Driver RogerEbert.com 1 January 2004. Retrieved 18 October 2016.
+^^^Great Movie: Taxi Driver RogerEbert.com 1 January 2004. Retrieved 18 October 2016.Great Movie: Taxi DriverRogerEbert.com^ "ReelViews Movie Review". Reelviews.net. Retrieved April 4, 2012.
+^^^"ReelViews Movie Review". Reelviews.net. Retrieved April 4, 2012."ReelViews Movie Review". Reelviews.net. Retrieved April 4, 2012."ReelViews Movie Review". Retrieved April 4, 2012April 4,^ Taxi Driver Laserdisc Commentary
+^^^Taxi Driver Laserdisc CommentaryTaxi Driver^ Taxi Driver Audio Commentary with Paul Schrader
+^^^Taxi Driver Audio Commentary with Paul SchraderTaxi Driver^ Schrader, Paul. "I am Paul Schrader, writer of Taxi Driver, writer/director of American Gigolo and director of The Canyons. AMA!". Reddit. Retrieved August 18, 2013.
+^^^Schrader, Paul. "I am Paul Schrader, writer of Taxi Driver, writer/director of American Gigolo and director of The Canyons. AMA!". Reddit. Retrieved August 18, 2013.Schrader, Paul. "I am Paul Schrader, writer of Taxi Driver, writer/director of American Gigolo and director of The Canyons. AMA!". Reddit. Retrieved August 18, 2013."I am Paul Schrader, writer of Taxi Driver, writer/director of American Gigolo and director of The Canyons. AMA!". Retrieved August 18, 2013August 18,^ Lim, Dennis (October 19, 2009). "Vigilante films, an American tradition". Los Angeles Times.
+^^^Lim, Dennis (October 19, 2009). "Vigilante films, an American tradition". Los Angeles Times.Lim, Dennis (October 19, 2009). "Vigilante films, an American tradition". Los Angeles Times."Vigilante films, an American tradition"Los Angeles TimesLos Angeles Times^ Novak, Glenn D. (November 1987). "Social Ills and the One-Man Solution: Depictions of Evil in the Vigilante Film" (PDF). International Conference on the Expressions of Evil in Literature and the Visual Arts.
+^^^Novak, Glenn D. (November 1987). "Social Ills and the One-Man Solution: Depictions of Evil in the Vigilante Film" (PDF). International Conference on the Expressions of Evil in Literature and the Visual Arts.Novak, Glenn D. (November 1987). "Social Ills and the One-Man Solution: Depictions of Evil in the Vigilante Film" (PDF). International Conference on the Expressions of Evil in Literature and the Visual Arts."Social Ills and the One-Man Solution: Depictions of Evil in the Vigilante Film"(PDF)^ Ebert, Roger. "Taxi Driver Movie Review & Film Summary (1976) | Roger Ebert". www.rogerebert.com. Retrieved February 15, 2019.
+^^^Ebert, Roger. "Taxi Driver Movie Review & Film Summary (1976) | Roger Ebert". www.rogerebert.com. Retrieved February 15, 2019.Ebert, Roger. "Taxi Driver Movie Review & Film Summary (1976) | Roger Ebert". www.rogerebert.com. Retrieved February 15, 2019."Taxi Driver Movie Review & Film Summary (1976) | Roger Ebert"www.rogerebert.com. Retrieved February 15, 2019February 15,^ Dirks, Tim. "Film site Movie Review: Taxi Driver (1976)". filmsite.org. AMC. Retrieved May 2, 2015.
+^^^Dirks, Tim. "Film site Movie Review: Taxi Driver (1976)". filmsite.org. AMC. Retrieved May 2, 2015.Dirks, Tim. "Film site Movie Review: Taxi Driver (1976)". filmsite.org. AMC. Retrieved May 2, 2015."Film site Movie Review: Taxi Driver (1976)"filmsite.org. Retrieved May 2, 2015May 2,^ Bouzereau, Laurent (Writer, Director, and Producer) (1999). Making Taxi Driver (Television production). United States: Columbia TriStar Home Video.  102 minutes in. The best movies that I know of are the seventies', precisely because I think people were really ... interested by the antihero, which has pretty much gone away now. ... I do think that it would be a movie that it would be very difficult to finance nowadays.
+^^^Bouzereau, Laurent (Writer, Director, and Producer) (1999). Making Taxi Driver (Television production). United States: Columbia TriStar Home Video.  102 minutes in. The best movies that I know of are the seventies', precisely because I think people were really ... interested by the antihero, which has pretty much gone away now. ... I do think that it would be a movie that it would be very difficult to finance nowadays.Bouzereau, Laurent (Writer, Director, and Producer) (1999). Making Taxi Driver (Television production). United States: Columbia TriStar Home Video.  102 minutes in. The best movies that I know of are the seventies', precisely because I think people were really ... interested by the antihero, which has pretty much gone away now. ... I do think that it would be a movie that it would be very difficult to finance nowadays.Making Taxi DriverColumbia TriStar Home VideoThe best movies that I know of are the seventies', precisely because I think people were really ... interested by the antihero, which has pretty much gone away now. ... I do think that it would be a movie that it would be very difficult to finance nowadays.^ "De Niro takes anti-hero honours". BBC News. August 16, 2004. Retrieved November 13, 2017.
+^^^"De Niro takes anti-hero honours". BBC News. August 16, 2004. Retrieved November 13, 2017."De Niro takes anti-hero honours". BBC News. August 16, 2004. Retrieved November 13, 2017."De Niro takes anti-hero honours"BBC News. Retrieved November 13, 2017November 13,^ Taxi Driver, Box Office Mojo Internet Movie Database. Retrieved March 31, 2007
+^^^Taxi Driver, Box Office Mojo Internet Movie Database. Retrieved March 31, 2007Taxi DriverBox Office MojoInternet Movie Database^ "Taxi Driver". Chicago Sun-Times.
+^^^"Taxi Driver". Chicago Sun-Times."Taxi Driver". Chicago Sun-Times."Taxi Driver"Chicago Sun-Times^ a b "Taxi Driver". Festival de Cannes. Retrieved February 1, 2017.
+^ a baaaabbbb"Taxi Driver". Festival de Cannes. Retrieved February 1, 2017."Taxi Driver". Festival de Cannes. Retrieved February 1, 2017."Taxi Driver"Festival de Cannes. Retrieved February 1, 2017February 1,^ Films Selected to The National Film Registry, Library of Congress, 1989–2005. Retrieved March 10, 2007.
+^^^Films Selected to The National Film Registry, Library of Congress, 1989–2005. Retrieved March 10, 2007.Films Selected to The National Film Registry, Library of Congress, 1989–2005^ Schickel, Richard (January 23, 2012). "The Complete List – ALL-TIME 100 Movies". Time. Retrieved April 4, 2012.
+^^^Schickel, Richard (January 23, 2012). "The Complete List – ALL-TIME 100 Movies". Time. Retrieved April 4, 2012.Schickel, Richard (January 23, 2012). "The Complete List – ALL-TIME 100 Movies". Time. Retrieved April 4, 2012."The Complete List – ALL-TIME 100 Movies"Time. Retrieved April 4, 2012April 4,^ Taxi Driver, Rotten Tomatoes Flixster. Retrieved October 4, 2008
+^^^Taxi Driver, Rotten Tomatoes Flixster. Retrieved October 4, 2008Taxi DriverRotten TomatoesFlixster^ Taxi Driver, Metacritic Flixster. Retrieved March 20, 2016
+^^^Taxi Driver, Metacritic Flixster. Retrieved March 20, 2016Taxi DriverMetacriticFlixster^ "List of best films to win Palme d'Or at the Cannes Film Festival". Film Society for Lincoln Center. Archived from the original on October 3, 2009. Retrieved February 24, 2010.
+^^^"List of best films to win Palme d'Or at the Cannes Film Festival". Film Society for Lincoln Center. Archived from the original on October 3, 2009. Retrieved February 24, 2010."List of best films to win Palme d'Or at the Cannes Film Festival". Film Society for Lincoln Center. Archived from the original on October 3, 2009. Retrieved February 24, 2010."List of best films to win Palme d'Or at the Cannes Film Festival"the original. Retrieved February 24, 2010February 24,^ "The 100 Greatest Movie Characters". Empire. Retrieved December 2, 2008.
+^^^"The 100 Greatest Movie Characters". Empire. Retrieved December 2, 2008."The 100 Greatest Movie Characters". Empire. Retrieved December 2, 2008."The 100 Greatest Movie Characters"EmpireEmpire. Retrieved December 2, 2008December 2,^ "The 500 Greatest Movies Of All Time". Empire. October 3, 2008.
+^^^"The 500 Greatest Movies Of All Time". Empire. October 3, 2008."The 500 Greatest Movies Of All Time". Empire. October 3, 2008."The 500 Greatest Movies Of All Time"EmpireEmpire^ "The 101 best New York movies of all time". Time Out. June 17, 2016.
+^^^"The 101 best New York movies of all time". Time Out. June 17, 2016."The 101 best New York movies of all time". Time Out. June 17, 2016."The 101 best New York movies of all time"Time OutTime Out^ "101 Greatest Screenplays". Writers Guild of America. Retrieved March 6, 2017.
+^^^"101 Greatest Screenplays". Writers Guild of America. Retrieved March 6, 2017."101 Greatest Screenplays". Writers Guild of America. Retrieved March 6, 2017."101 Greatest Screenplays". Retrieved March 6, 2017March 6,^ Maltin, Leonard (2013). Leonard Maltin's 2014 Movie Guide The Modern Era. New York: Penguin Group. p. 1385. ISBN 978-0-451-41810-4.
+^^^Maltin, Leonard (2013). Leonard Maltin's 2014 Movie Guide The Modern Era. New York: Penguin Group. p. 1385. ISBN 978-0-451-41810-4.Maltin, Leonard (2013). Leonard Maltin's 2014 Movie Guide The Modern Era. New York: Penguin Group. p. 1385. ISBN 978-0-451-41810-4.Leonard Maltin's 2014 Movie Guide The Modern EraPenguin GroupISBN978-0-451-41810-4978-0-451-41810-4^ "2nd Annual Los Angeles Film Critics Association Awards". LAFCA. Retrieved February 1, 2017.
+^^^"2nd Annual Los Angeles Film Critics Association Awards". LAFCA. Retrieved February 1, 2017."2nd Annual Los Angeles Film Critics Association Awards". LAFCA. Retrieved February 1, 2017."2nd Annual Los Angeles Film Critics Association Awards"LAFCA. Retrieved February 1, 2017February 1,^ "The 49th Academy Awards (1977) Nominees and Winners". oscars.org. Retrieved February 1, 2017.
+^^^"The 49th Academy Awards (1977) Nominees and Winners". oscars.org. Retrieved February 1, 2017."The 49th Academy Awards (1977) Nominees and Winners". oscars.org. Retrieved February 1, 2017."The 49th Academy Awards (1977) Nominees and Winners"oscars.org. Retrieved February 1, 2017February 1,^ "Film in 1977". BAFTA. Retrieved February 1, 2017.
+^^^"Film in 1977". BAFTA. Retrieved February 1, 2017."Film in 1977". BAFTA. Retrieved February 1, 2017."Film in 1977"BAFTA. Retrieved February 1, 2017February 1,^ "Taxi Driver". Golden Globes. Retrieved February 1, 2017.
+^^^"Taxi Driver". Golden Globes. Retrieved February 1, 2017."Taxi Driver". Golden Globes. Retrieved February 1, 2017."Taxi Driver"Golden Globes. Retrieved February 1, 2017February 1,^ Interview with Paul Schrader, BBC Radio 4's Film Programme, August 10, 2007
+^^^Interview with Paul Schrader, BBC Radio 4's Film Programme, August 10, 2007Interview with Paul Schrader^ "Filmmaker Magazine, Fall 1992". Filmmakermagazine.com. Retrieved April 4, 2012.
+^^^"Filmmaker Magazine, Fall 1992". Filmmakermagazine.com. Retrieved April 4, 2012."Filmmaker Magazine, Fall 1992". Filmmakermagazine.com. Retrieved April 4, 2012."Filmmaker Magazine, Fall 1992". Retrieved April 4, 2012April 4,^ James, Caryn (November 1, 2010). "New York Times film overview". The New York Times. Retrieved April 4, 2012.
+^^^James, Caryn (November 1, 2010). "New York Times film overview". The New York Times. Retrieved April 4, 2012.James, Caryn (November 1, 2010). "New York Times film overview". The New York Times. Retrieved April 4, 2012."New York Times film overview"The New York Times. Retrieved April 4, 2012April 4,^ Shone, Tom (December 3, 2012). "Sam Rockwell: Hollywood's odd man out". Retrieved August 3, 2014.
+^^^Shone, Tom (December 3, 2012). "Sam Rockwell: Hollywood's odd man out". Retrieved August 3, 2014.Shone, Tom (December 3, 2012). "Sam Rockwell: Hollywood's odd man out". Retrieved August 3, 2014.Shone, Tom"Sam Rockwell: Hollywood's odd man out". Retrieved August 3, 2014August 3,^ Trio, Lieven. "Jacques Audiard dévoile 'Dheepan', sa palme d'or". Metro. Retrieved August 29, 2015.
+^^^Trio, Lieven. "Jacques Audiard dévoile 'Dheepan', sa palme d'or". Metro. Retrieved August 29, 2015.Trio, Lieven. "Jacques Audiard dévoile 'Dheepan', sa palme d'or". Metro. Retrieved August 29, 2015."Jacques Audiard dévoile 'Dheepan', sa palme d'or"MetroMetroMetro. Retrieved August 29, 2015August 29,^ Taubin, Amy (2000). Taxi Driver. London: BFI Publishing. ISBN 0 85170 393 3.
+^^^Taubin, Amy (2000). Taxi Driver. London: BFI Publishing. ISBN 0 85170 393 3.Taubin, Amy (2000). Taxi Driver. London: BFI Publishing. ISBN 0 85170 393 3.Taxi DriverISBN0 85170 393 30 85170 393 3^ "New York Times Film Overview". The New York Times. February 15, 1976. Retrieved February 15, 2019.
+^^^"New York Times Film Overview". The New York Times. February 15, 1976. Retrieved February 15, 2019."New York Times Film Overview". The New York Times. February 15, 1976. Retrieved February 15, 2019."New York Times Film Overview"The New York Times. Retrieved February 15, 2019February 15,^ Ebert, Roger (March 1, 1996). "Taxi Driver: 20th Anniversary Edition". RogerEbert.com. Retrieved February 15, 2019.
+^^^Ebert, Roger (March 1, 1996). "Taxi Driver: 20th Anniversary Edition". RogerEbert.com. Retrieved February 15, 2019.Ebert, Roger (March 1, 1996). "Taxi Driver: 20th Anniversary Edition". RogerEbert.com. Retrieved February 15, 2019."Taxi Driver: 20th Anniversary Edition"RogerEbert.com. Retrieved February 15, 2019February 15,^ Clemons, Clarence (2009). Big Man: Real Life & Tall Tales. Sphere. ISBN 978-0751543469.
+^^^Clemons, Clarence (2009). Big Man: Real Life & Tall Tales. Sphere. ISBN 978-0751543469.Clemons, Clarence (2009). Big Man: Real Life & Tall Tales. Sphere. ISBN 978-0751543469.Big Man: Real Life & Tall TalesISBN978-0751543469978-0751543469^ Taxi Driver, Sony Pictures Home Entertainment, August 14, 2007, retrieved February 15, 2019
+^^^Taxi Driver, Sony Pictures Home Entertainment, August 14, 2007, retrieved February 15, 2019Taxi Driver, Sony Pictures Home Entertainment, August 14, 2007, retrieved February 15, 2019Taxi DriverTaxi Driver, retrieved February 15, 2019February 15,^ Taxi Driver Blu-ray, retrieved February 15, 2019
+^^^Taxi Driver Blu-ray, retrieved February 15, 2019Taxi Driver Blu-ray, retrieved February 15, 2019Taxi Driver Blu-rayTaxi Driver Blu-ray, retrieved February 15, 2019February 15,^ "Home Cinema @ The Digital Fix – Taxi Driver 35th AE (US BD) in April". Homecinema.thedigitalfix.co.uk. Retrieved July 23, 2011.
+^^^"Home Cinema @ The Digital Fix – Taxi Driver 35th AE (US BD) in April". Homecinema.thedigitalfix.co.uk. Retrieved July 23, 2011."Home Cinema @ The Digital Fix – Taxi Driver 35th AE (US BD) in April". Homecinema.thedigitalfix.co.uk. Retrieved July 23, 2011."Home Cinema @ The Digital Fix – Taxi Driver 35th AE (US BD) in April". Retrieved July 23, 2011July 23,^ "From Berlin: 4K 'Taxi Driver' World Premiere". MSN. Archived from the original on July 14, 2011.
+^^^"From Berlin: 4K 'Taxi Driver' World Premiere". MSN. Archived from the original on July 14, 2011."From Berlin: 4K 'Taxi Driver' World Premiere". MSN. Archived from the original on July 14, 2011."From Berlin: 4K 'Taxi Driver' World Premiere"the original^ Meza, Ed; Meza, Ed (January 27, 2011). "Restored 'Taxi Driver' to preem in Berlin". Variety. Retrieved February 15, 2019.
+^^^Meza, Ed; Meza, Ed (January 27, 2011). "Restored 'Taxi Driver' to preem in Berlin". Variety. Retrieved February 15, 2019.Meza, Ed; Meza, Ed (January 27, 2011). "Restored 'Taxi Driver' to preem in Berlin". Variety. Retrieved February 15, 2019."Restored 'Taxi Driver' to preem in Berlin"Variety. Retrieved February 15, 2019February 15,^ "Berlinale 2011: Taxi Driver". Park Circus. Retrieved February 15, 2019.
+^^^"Berlinale 2011: Taxi Driver". Park Circus. Retrieved February 15, 2019."Berlinale 2011: Taxi Driver". Park Circus. Retrieved February 15, 2019."Berlinale 2011: Taxi Driver"Park Circus. Retrieved February 15, 2019February 15,^ "Scorsese's 'Taxi Driver' is Returning to AMC Theatres for Two Days". FirstShowing.net. Retrieved February 15, 2019.
+^^^"Scorsese's 'Taxi Driver' is Returning to AMC Theatres for Two Days". FirstShowing.net. Retrieved February 15, 2019."Scorsese's 'Taxi Driver' is Returning to AMC Theatres for Two Days". FirstShowing.net. Retrieved February 15, 2019."Scorsese's 'Taxi Driver' is Returning to AMC Theatres for Two Days"FirstShowing.net. Retrieved February 15, 2019February 15,^ Brooks, Xan (February 5, 2005). "Scorsese and De Niro plan Taxi Driver sequel". The Guardian. London. Retrieved February 24, 2010.
+^^^Brooks, Xan (February 5, 2005). "Scorsese and De Niro plan Taxi Driver sequel". The Guardian. London. Retrieved February 24, 2010.Brooks, Xan (February 5, 2005). "Scorsese and De Niro plan Taxi Driver sequel". The Guardian. London. Retrieved February 24, 2010."Scorsese and De Niro plan Taxi Driver sequel"The Guardian. Retrieved February 24, 2010February 24,^ Saravia, Jerry. "Taxi Driver 2: Bringing Out Travis". faustus. Archived from the original on October 27, 2009. Retrieved February 24, 2010.
+^^^Saravia, Jerry. "Taxi Driver 2: Bringing Out Travis". faustus. Archived from the original on October 27, 2009. Retrieved February 24, 2010.Saravia, Jerry. "Taxi Driver 2: Bringing Out Travis". faustus. Archived from the original on October 27, 2009. Retrieved February 24, 2010."Taxi Driver 2: Bringing Out Travis"the original. Retrieved February 24, 2010February 24,^ Brooks, Xan (November 14, 2013). "Robert De Niro: 'I'd like to see where Travis Bickle is today'". The Guardian. London. Retrieved December 28, 2014.
+^^^Brooks, Xan (November 14, 2013). "Robert De Niro: 'I'd like to see where Travis Bickle is today'". The Guardian. London. Retrieved December 28, 2014.Brooks, Xan (November 14, 2013). "Robert De Niro: 'I'd like to see where Travis Bickle is today'". The Guardian. London. Retrieved December 28, 2014."Robert De Niro: 'I'd like to see where Travis Bickle is today'"'The Guardian. Retrieved December 28, 2014December 28,^ Steve Barton (February 16, 2010). "Lars von Trier, Robert De Niro, and Martin Scorsese Collaborating on New Taxi Driver". Dread Central. Retrieved February 24, 2010.
+^^^Steve Barton (February 16, 2010). "Lars von Trier, Robert De Niro, and Martin Scorsese Collaborating on New Taxi Driver". Dread Central. Retrieved February 24, 2010.Steve Barton (February 16, 2010). "Lars von Trier, Robert De Niro, and Martin Scorsese Collaborating on New Taxi Driver". Dread Central. Retrieved February 24, 2010."Lars von Trier, Robert De Niro, and Martin Scorsese Collaborating on New Taxi Driver"Taxi DriverDread CentralDread Central. Retrieved February 24, 2010February 24,^ Dan Selcke (February 19, 2014). "Taxi Driver will not be remade by Lars Von Trier, if anyone was worried". The A.V. Club. Retrieved July 8, 2016.
+^^^Dan Selcke (February 19, 2014). "Taxi Driver will not be remade by Lars Von Trier, if anyone was worried". The A.V. Club. Retrieved July 8, 2016.Dan Selcke (February 19, 2014). "Taxi Driver will not be remade by Lars Von Trier, if anyone was worried". The A.V. Club. Retrieved July 8, 2016."Taxi Driver will not be remade by Lars Von Trier, if anyone was worried"Taxi DriverThe A.V. ClubThe A.V. Club. Retrieved July 8, 2016July 8,External links[edit]External links[edit][edit]
+
+
+Wikiquote has quotations related to: Taxi Driver
+
+
+Wikiquote has quotations related to: Taxi Driver
+
+
+Wikiquote has quotations related to: Taxi DriverWikiquote has quotations related to: Taxi DriverTaxi DriverTaxi DriverTaxi Driver
+
+
+Wikimedia Commons has media related to Taxi Driver.
+
+
+Wikimedia Commons has media related to Taxi Driver.
+
+
+Wikimedia Commons has media related to Taxi Driver.Wikimedia Commons has media related to Taxi Driver.Taxi DriverTaxi DriverTaxi DriverTaxi Driver on IMDb 
+Taxi Driver at the TCM Movie Database
+Taxi Driver at Box Office Mojo
+Taxi Driver at Rotten Tomatoes
+Taxi Driver at Metacritic
+Taxi Driver (1976) movie script Screenplays for YouTaxi Driver on IMDb Taxi DriverTaxi DriverIMDbTaxi Driver at the TCM Movie DatabaseTaxi DriverTaxi DriverTCM Movie DatabaseTaxi Driver at Box Office MojoTaxi DriverTaxi DriverBox Office MojoTaxi Driver at Rotten TomatoesTaxi DriverTaxi DriverRotten TomatoesTaxi Driver at MetacriticTaxi DriverTaxi DriverMetacriticTaxi Driver (1976) movie script Screenplays for YouTaxi Driver (1976) movie scriptTaxi DriverScreenplays for YouvteMartin Scorsese filmographyFeature films
+Who's That Knocking at My Door (1967)
+Boxcar Bertha (1972)
+Mean Streets (1973)
+Alice Doesn't Live Here Anymore (1974)
+Taxi Driver (1976)
+New York, New York (1977)
+Raging Bull (1980)
+The King of Comedy (1982)
+After Hours (1985)
+The Color of Money (1986)
+The Last Temptation of Christ (1988)
+Goodfellas (1990)
+Cape Fear (1991)
+The Age of Innocence (1993)
+Casino (1995)
+Kundun (1997)
+Bringing Out the Dead (1999)
+Gangs of New York (2002)
+The Aviator (2004)
+The Departed (2006)
+Shutter Island (2010)
+Hugo (2011)
+The Wolf of Wall Street (2013)
+Silence (2016)
+The Irishman (2019)
+Untitled Martin Scorsese project (TBA)
+Short films
+What's a Nice Girl Like You Doing in a Place Like This? (1963)
+It's Not Just You, Murray! (1964)
+The Big Shave (1967)
+"Bad" (1987)
+New York Stories (segment "Life Lessons", 1989)
+Made in Milan (1990)
+The Key to Reserva (2007)
+The Audition (2015)
+Television
+"Boardwalk Empire" (Boardwalk Empire) (2010)
+Vinyl (2016)
+Documentaries
+Street Scenes (1970)
+Italianamerican (1974)
+American Boy: A Profile of Steven Prince (1978)
+The Last Waltz (1978)
+A Personal Journey with Martin Scorsese Through American Movies (1995)
+My Voyage to Italy (1999)
+The Blues: Feel Like Going Home (2003)
+No Direction Home (2005)
+Shine a Light (2008)
+A Letter to Elia (2010)
+Public Speaking (2010)
+George Harrison: Living in the Material World (2011)
+The 50 Year Argument (2014)
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)
+Related
+Martin Scorsese and Robert De Niro
+Martin Scorsese and Leonardo DiCaprio
+vteMartin Scorsese filmographyFeature films
+Who's That Knocking at My Door (1967)
+Boxcar Bertha (1972)
+Mean Streets (1973)
+Alice Doesn't Live Here Anymore (1974)
+Taxi Driver (1976)
+New York, New York (1977)
+Raging Bull (1980)
+The King of Comedy (1982)
+After Hours (1985)
+The Color of Money (1986)
+The Last Temptation of Christ (1988)
+Goodfellas (1990)
+Cape Fear (1991)
+The Age of Innocence (1993)
+Casino (1995)
+Kundun (1997)
+Bringing Out the Dead (1999)
+Gangs of New York (2002)
+The Aviator (2004)
+The Departed (2006)
+Shutter Island (2010)
+Hugo (2011)
+The Wolf of Wall Street (2013)
+Silence (2016)
+The Irishman (2019)
+Untitled Martin Scorsese project (TBA)
+Short films
+What's a Nice Girl Like You Doing in a Place Like This? (1963)
+It's Not Just You, Murray! (1964)
+The Big Shave (1967)
+"Bad" (1987)
+New York Stories (segment "Life Lessons", 1989)
+Made in Milan (1990)
+The Key to Reserva (2007)
+The Audition (2015)
+Television
+"Boardwalk Empire" (Boardwalk Empire) (2010)
+Vinyl (2016)
+Documentaries
+Street Scenes (1970)
+Italianamerican (1974)
+American Boy: A Profile of Steven Prince (1978)
+The Last Waltz (1978)
+A Personal Journey with Martin Scorsese Through American Movies (1995)
+My Voyage to Italy (1999)
+The Blues: Feel Like Going Home (2003)
+No Direction Home (2005)
+Shine a Light (2008)
+A Letter to Elia (2010)
+Public Speaking (2010)
+George Harrison: Living in the Material World (2011)
+The 50 Year Argument (2014)
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)
+Related
+Martin Scorsese and Robert De Niro
+Martin Scorsese and Leonardo DiCaprio
+vteMartin Scorsese filmographyFeature films
+Who's That Knocking at My Door (1967)
+Boxcar Bertha (1972)
+Mean Streets (1973)
+Alice Doesn't Live Here Anymore (1974)
+Taxi Driver (1976)
+New York, New York (1977)
+Raging Bull (1980)
+The King of Comedy (1982)
+After Hours (1985)
+The Color of Money (1986)
+The Last Temptation of Christ (1988)
+Goodfellas (1990)
+Cape Fear (1991)
+The Age of Innocence (1993)
+Casino (1995)
+Kundun (1997)
+Bringing Out the Dead (1999)
+Gangs of New York (2002)
+The Aviator (2004)
+The Departed (2006)
+Shutter Island (2010)
+Hugo (2011)
+The Wolf of Wall Street (2013)
+Silence (2016)
+The Irishman (2019)
+Untitled Martin Scorsese project (TBA)
+Short films
+What's a Nice Girl Like You Doing in a Place Like This? (1963)
+It's Not Just You, Murray! (1964)
+The Big Shave (1967)
+"Bad" (1987)
+New York Stories (segment "Life Lessons", 1989)
+Made in Milan (1990)
+The Key to Reserva (2007)
+The Audition (2015)
+Television
+"Boardwalk Empire" (Boardwalk Empire) (2010)
+Vinyl (2016)
+Documentaries
+Street Scenes (1970)
+Italianamerican (1974)
+American Boy: A Profile of Steven Prince (1978)
+The Last Waltz (1978)
+A Personal Journey with Martin Scorsese Through American Movies (1995)
+My Voyage to Italy (1999)
+The Blues: Feel Like Going Home (2003)
+No Direction Home (2005)
+Shine a Light (2008)
+A Letter to Elia (2010)
+Public Speaking (2010)
+George Harrison: Living in the Material World (2011)
+The 50 Year Argument (2014)
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)
+Related
+Martin Scorsese and Robert De Niro
+Martin Scorsese and Leonardo DiCaprio
+vteMartin Scorsese filmographyvteMartin Scorsese filmographyvtevtevvvttteeeMartin Scorsese filmographyMartin ScorsesefilmographyFeature films
+Who's That Knocking at My Door (1967)
+Boxcar Bertha (1972)
+Mean Streets (1973)
+Alice Doesn't Live Here Anymore (1974)
+Taxi Driver (1976)
+New York, New York (1977)
+Raging Bull (1980)
+The King of Comedy (1982)
+After Hours (1985)
+The Color of Money (1986)
+The Last Temptation of Christ (1988)
+Goodfellas (1990)
+Cape Fear (1991)
+The Age of Innocence (1993)
+Casino (1995)
+Kundun (1997)
+Bringing Out the Dead (1999)
+Gangs of New York (2002)
+The Aviator (2004)
+The Departed (2006)
+Shutter Island (2010)
+Hugo (2011)
+The Wolf of Wall Street (2013)
+Silence (2016)
+The Irishman (2019)
+Untitled Martin Scorsese project (TBA)
+Feature films
+Who's That Knocking at My Door (1967)
+Boxcar Bertha (1972)
+Mean Streets (1973)
+Alice Doesn't Live Here Anymore (1974)
+Taxi Driver (1976)
+New York, New York (1977)
+Raging Bull (1980)
+The King of Comedy (1982)
+After Hours (1985)
+The Color of Money (1986)
+The Last Temptation of Christ (1988)
+Goodfellas (1990)
+Cape Fear (1991)
+The Age of Innocence (1993)
+Casino (1995)
+Kundun (1997)
+Bringing Out the Dead (1999)
+Gangs of New York (2002)
+The Aviator (2004)
+The Departed (2006)
+Shutter Island (2010)
+Hugo (2011)
+The Wolf of Wall Street (2013)
+Silence (2016)
+The Irishman (2019)
+Untitled Martin Scorsese project (TBA)
+
+Who's That Knocking at My Door (1967)
+Boxcar Bertha (1972)
+Mean Streets (1973)
+Alice Doesn't Live Here Anymore (1974)
+Taxi Driver (1976)
+New York, New York (1977)
+Raging Bull (1980)
+The King of Comedy (1982)
+After Hours (1985)
+The Color of Money (1986)
+The Last Temptation of Christ (1988)
+Goodfellas (1990)
+Cape Fear (1991)
+The Age of Innocence (1993)
+Casino (1995)
+Kundun (1997)
+Bringing Out the Dead (1999)
+Gangs of New York (2002)
+The Aviator (2004)
+The Departed (2006)
+Shutter Island (2010)
+Hugo (2011)
+The Wolf of Wall Street (2013)
+Silence (2016)
+The Irishman (2019)
+Untitled Martin Scorsese project (TBA)
+Who's That Knocking at My Door (1967)
+Boxcar Bertha (1972)
+Mean Streets (1973)
+Alice Doesn't Live Here Anymore (1974)
+Taxi Driver (1976)
+New York, New York (1977)
+Raging Bull (1980)
+The King of Comedy (1982)
+After Hours (1985)
+The Color of Money (1986)
+The Last Temptation of Christ (1988)
+Goodfellas (1990)
+Cape Fear (1991)
+The Age of Innocence (1993)
+Casino (1995)
+Kundun (1997)
+Bringing Out the Dead (1999)
+Gangs of New York (2002)
+The Aviator (2004)
+The Departed (2006)
+Shutter Island (2010)
+Hugo (2011)
+The Wolf of Wall Street (2013)
+Silence (2016)
+The Irishman (2019)
+Untitled Martin Scorsese project (TBA)Who's That Knocking at My Door (1967)Who's That Knocking at My DoorWho's That Knocking at My DoorBoxcar Bertha (1972)Boxcar BerthaBoxcar BerthaMean Streets (1973)Mean StreetsMean StreetsAlice Doesn't Live Here Anymore (1974)Alice Doesn't Live Here AnymoreAlice Doesn't Live Here AnymoreTaxi Driver (1976)Taxi DriverTaxi DriverNew York, New York (1977)New York, New YorkNew York, New YorkRaging Bull (1980)Raging BullRaging BullThe King of Comedy (1982)The King of ComedyThe King of ComedyAfter Hours (1985)After HoursAfter HoursThe Color of Money (1986)The Color of MoneyThe Color of MoneyThe Last Temptation of Christ (1988)The Last Temptation of ChristThe Last Temptation of ChristGoodfellas (1990)GoodfellasGoodfellasCape Fear (1991)Cape FearCape FearThe Age of Innocence (1993)The Age of InnocenceThe Age of InnocenceCasino (1995)CasinoCasinoKundun (1997)KundunKundunBringing Out the Dead (1999)Bringing Out the DeadBringing Out the DeadGangs of New York (2002)Gangs of New YorkGangs of New YorkThe Aviator (2004)The AviatorThe AviatorThe Departed (2006)The DepartedThe DepartedShutter Island (2010)Shutter IslandShutter IslandHugo (2011)HugoHugoThe Wolf of Wall Street (2013)The Wolf of Wall StreetThe Wolf of Wall StreetSilence (2016)SilenceSilenceThe Irishman (2019)The IrishmanThe IrishmanUntitled Martin Scorsese project (TBA)Untitled Martin Scorsese projectShort films
+What's a Nice Girl Like You Doing in a Place Like This? (1963)
+It's Not Just You, Murray! (1964)
+The Big Shave (1967)
+"Bad" (1987)
+New York Stories (segment "Life Lessons", 1989)
+Made in Milan (1990)
+The Key to Reserva (2007)
+The Audition (2015)
+Short films
+What's a Nice Girl Like You Doing in a Place Like This? (1963)
+It's Not Just You, Murray! (1964)
+The Big Shave (1967)
+"Bad" (1987)
+New York Stories (segment "Life Lessons", 1989)
+Made in Milan (1990)
+The Key to Reserva (2007)
+The Audition (2015)
+
+What's a Nice Girl Like You Doing in a Place Like This? (1963)
+It's Not Just You, Murray! (1964)
+The Big Shave (1967)
+"Bad" (1987)
+New York Stories (segment "Life Lessons", 1989)
+Made in Milan (1990)
+The Key to Reserva (2007)
+The Audition (2015)
+What's a Nice Girl Like You Doing in a Place Like This? (1963)
+It's Not Just You, Murray! (1964)
+The Big Shave (1967)
+"Bad" (1987)
+New York Stories (segment "Life Lessons", 1989)
+Made in Milan (1990)
+The Key to Reserva (2007)
+The Audition (2015)What's a Nice Girl Like You Doing in a Place Like This? (1963)What's a Nice Girl Like You Doing in a Place Like This?What's a Nice Girl Like You Doing in a Place Like This?It's Not Just You, Murray! (1964)It's Not Just You, Murray!It's Not Just You, Murray!The Big Shave (1967)The Big ShaveThe Big Shave"Bad" (1987)BadNew York Stories (segment "Life Lessons", 1989)New York StoriesNew York StoriesMade in Milan (1990)Made in MilanMade in MilanThe Key to Reserva (2007)The Key to ReservaThe Key to ReservaThe Audition (2015)The AuditionThe AuditionTelevision
+"Boardwalk Empire" (Boardwalk Empire) (2010)
+Vinyl (2016)
+Television
+"Boardwalk Empire" (Boardwalk Empire) (2010)
+Vinyl (2016)
+
+"Boardwalk Empire" (Boardwalk Empire) (2010)
+Vinyl (2016)
+"Boardwalk Empire" (Boardwalk Empire) (2010)
+Vinyl (2016)"Boardwalk Empire" (Boardwalk Empire) (2010)"Boardwalk Empire" (Boardwalk Empire)Boardwalk EmpireVinyl (2016)VinylVinylDocumentaries
+Street Scenes (1970)
+Italianamerican (1974)
+American Boy: A Profile of Steven Prince (1978)
+The Last Waltz (1978)
+A Personal Journey with Martin Scorsese Through American Movies (1995)
+My Voyage to Italy (1999)
+The Blues: Feel Like Going Home (2003)
+No Direction Home (2005)
+Shine a Light (2008)
+A Letter to Elia (2010)
+Public Speaking (2010)
+George Harrison: Living in the Material World (2011)
+The 50 Year Argument (2014)
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)
+Documentaries
+Street Scenes (1970)
+Italianamerican (1974)
+American Boy: A Profile of Steven Prince (1978)
+The Last Waltz (1978)
+A Personal Journey with Martin Scorsese Through American Movies (1995)
+My Voyage to Italy (1999)
+The Blues: Feel Like Going Home (2003)
+No Direction Home (2005)
+Shine a Light (2008)
+A Letter to Elia (2010)
+Public Speaking (2010)
+George Harrison: Living in the Material World (2011)
+The 50 Year Argument (2014)
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)
+
+Street Scenes (1970)
+Italianamerican (1974)
+American Boy: A Profile of Steven Prince (1978)
+The Last Waltz (1978)
+A Personal Journey with Martin Scorsese Through American Movies (1995)
+My Voyage to Italy (1999)
+The Blues: Feel Like Going Home (2003)
+No Direction Home (2005)
+Shine a Light (2008)
+A Letter to Elia (2010)
+Public Speaking (2010)
+George Harrison: Living in the Material World (2011)
+The 50 Year Argument (2014)
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)
+Street Scenes (1970)
+Italianamerican (1974)
+American Boy: A Profile of Steven Prince (1978)
+The Last Waltz (1978)
+A Personal Journey with Martin Scorsese Through American Movies (1995)
+My Voyage to Italy (1999)
+The Blues: Feel Like Going Home (2003)
+No Direction Home (2005)
+Shine a Light (2008)
+A Letter to Elia (2010)
+Public Speaking (2010)
+George Harrison: Living in the Material World (2011)
+The 50 Year Argument (2014)
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)Street Scenes (1970)Street ScenesStreet ScenesItalianamerican (1974)ItalianamericanItalianamericanAmerican Boy: A Profile of Steven Prince (1978)American Boy: A Profile of Steven PrinceAmerican Boy: A Profile of Steven PrinceThe Last Waltz (1978)The Last WaltzThe Last WaltzA Personal Journey with Martin Scorsese Through American Movies (1995)A Personal Journey with Martin Scorsese Through American MoviesA Personal Journey with Martin Scorsese Through American MoviesMy Voyage to Italy (1999)My Voyage to ItalyMy Voyage to ItalyThe Blues: Feel Like Going Home (2003)The Blues: Feel Like Going HomeThe Blues: Feel Like Going HomeNo Direction Home (2005)No Direction HomeNo Direction HomeShine a Light (2008)Shine a LightShine a LightA Letter to Elia (2010)A Letter to EliaA Letter to EliaPublic Speaking (2010)Public SpeakingPublic SpeakingGeorge Harrison: Living in the Material World (2011)George Harrison: Living in the Material WorldGeorge Harrison: Living in the Material WorldThe 50 Year Argument (2014)The 50 Year ArgumentThe 50 Year ArgumentRolling Thunder Revue: A Bob Dylan Story by Martin Scorsese (2019)Rolling Thunder Revue: A Bob Dylan Story by Martin ScorseseRolling Thunder Revue: A Bob Dylan Story by Martin ScorseseRelated
+Martin Scorsese and Robert De Niro
+Martin Scorsese and Leonardo DiCaprio
+Related
+Martin Scorsese and Robert De Niro
+Martin Scorsese and Leonardo DiCaprio
+
+Martin Scorsese and Robert De Niro
+Martin Scorsese and Leonardo DiCaprio
+Martin Scorsese and Robert De Niro
+Martin Scorsese and Leonardo DiCaprioMartin Scorsese and Robert De NiroMartin Scorsese and Robert De NiroMartin Scorsese and Leonardo DiCaprioMartin Scorsese and Leonardo DiCapriovtePaul Schrader filmographyFilms directed
+Blue Collar (1978)
+Hardcore (1979)
+American Gigolo (1980)
+Cat People (1982)
+Mishima: A Life in Four Chapters (1985)
+Light of Day (1987)
+Patty Hearst (1988)
+The Comfort of Strangers (1990)
+Light Sleeper (1992)
+Witch Hunt (1994)
+Touch (1997)
+Affliction (1997)
+Forever Mine (1999)
+Auto Focus (2002)
+Dominion: Prequel to the Exorcist (2005)
+The Walker (2007)
+Adam Resurrected (2008)
+ The Canyons (2013)
+Dying of the Light (2014)
+Dog Eat Dog (2016)
+First Reformed (2017)
+Writer only
+The Yakuza (1974)
+Taxi Driver (1976)
+Obsession (1976)
+Rolling Thunder (1977)
+Old Boyfriends (1979)
+Raging Bull (1980)
+The Mosquito Coast (1986)
+The Last Temptation of Christ (1988)
+City Hall (1996)
+Bringing Out the Dead (1999)
+vtePaul Schrader filmographyFilms directed
+Blue Collar (1978)
+Hardcore (1979)
+American Gigolo (1980)
+Cat People (1982)
+Mishima: A Life in Four Chapters (1985)
+Light of Day (1987)
+Patty Hearst (1988)
+The Comfort of Strangers (1990)
+Light Sleeper (1992)
+Witch Hunt (1994)
+Touch (1997)
+Affliction (1997)
+Forever Mine (1999)
+Auto Focus (2002)
+Dominion: Prequel to the Exorcist (2005)
+The Walker (2007)
+Adam Resurrected (2008)
+ The Canyons (2013)
+Dying of the Light (2014)
+Dog Eat Dog (2016)
+First Reformed (2017)
+Writer only
+The Yakuza (1974)
+Taxi Driver (1976)
+Obsession (1976)
+Rolling Thunder (1977)
+Old Boyfriends (1979)
+Raging Bull (1980)
+The Mosquito Coast (1986)
+The Last Temptation of Christ (1988)
+City Hall (1996)
+Bringing Out the Dead (1999)
+vtePaul Schrader filmographyFilms directed
+Blue Collar (1978)
+Hardcore (1979)
+American Gigolo (1980)
+Cat People (1982)
+Mishima: A Life in Four Chapters (1985)
+Light of Day (1987)
+Patty Hearst (1988)
+The Comfort of Strangers (1990)
+Light Sleeper (1992)
+Witch Hunt (1994)
+Touch (1997)
+Affliction (1997)
+Forever Mine (1999)
+Auto Focus (2002)
+Dominion: Prequel to the Exorcist (2005)
+The Walker (2007)
+Adam Resurrected (2008)
+ The Canyons (2013)
+Dying of the Light (2014)
+Dog Eat Dog (2016)
+First Reformed (2017)
+Writer only
+The Yakuza (1974)
+Taxi Driver (1976)
+Obsession (1976)
+Rolling Thunder (1977)
+Old Boyfriends (1979)
+Raging Bull (1980)
+The Mosquito Coast (1986)
+The Last Temptation of Christ (1988)
+City Hall (1996)
+Bringing Out the Dead (1999)
+vtePaul Schrader filmographyvtePaul Schrader filmographyvtevtevvvttteeePaul Schrader filmographyPaul SchraderFilms directed
+Blue Collar (1978)
+Hardcore (1979)
+American Gigolo (1980)
+Cat People (1982)
+Mishima: A Life in Four Chapters (1985)
+Light of Day (1987)
+Patty Hearst (1988)
+The Comfort of Strangers (1990)
+Light Sleeper (1992)
+Witch Hunt (1994)
+Touch (1997)
+Affliction (1997)
+Forever Mine (1999)
+Auto Focus (2002)
+Dominion: Prequel to the Exorcist (2005)
+The Walker (2007)
+Adam Resurrected (2008)
+ The Canyons (2013)
+Dying of the Light (2014)
+Dog Eat Dog (2016)
+First Reformed (2017)
+Films directed
+Blue Collar (1978)
+Hardcore (1979)
+American Gigolo (1980)
+Cat People (1982)
+Mishima: A Life in Four Chapters (1985)
+Light of Day (1987)
+Patty Hearst (1988)
+The Comfort of Strangers (1990)
+Light Sleeper (1992)
+Witch Hunt (1994)
+Touch (1997)
+Affliction (1997)
+Forever Mine (1999)
+Auto Focus (2002)
+Dominion: Prequel to the Exorcist (2005)
+The Walker (2007)
+Adam Resurrected (2008)
+ The Canyons (2013)
+Dying of the Light (2014)
+Dog Eat Dog (2016)
+First Reformed (2017)
+
+Blue Collar (1978)
+Hardcore (1979)
+American Gigolo (1980)
+Cat People (1982)
+Mishima: A Life in Four Chapters (1985)
+Light of Day (1987)
+Patty Hearst (1988)
+The Comfort of Strangers (1990)
+Light Sleeper (1992)
+Witch Hunt (1994)
+Touch (1997)
+Affliction (1997)
+Forever Mine (1999)
+Auto Focus (2002)
+Dominion: Prequel to the Exorcist (2005)
+The Walker (2007)
+Adam Resurrected (2008)
+ The Canyons (2013)
+Dying of the Light (2014)
+Dog Eat Dog (2016)
+First Reformed (2017)
+Blue Collar (1978)
+Hardcore (1979)
+American Gigolo (1980)
+Cat People (1982)
+Mishima: A Life in Four Chapters (1985)
+Light of Day (1987)
+Patty Hearst (1988)
+The Comfort of Strangers (1990)
+Light Sleeper (1992)
+Witch Hunt (1994)
+Touch (1997)
+Affliction (1997)
+Forever Mine (1999)
+Auto Focus (2002)
+Dominion: Prequel to the Exorcist (2005)
+The Walker (2007)
+Adam Resurrected (2008)
+ The Canyons (2013)
+Dying of the Light (2014)
+Dog Eat Dog (2016)
+First Reformed (2017)Blue Collar (1978)Blue CollarBlue CollarHardcore (1979)HardcoreHardcoreAmerican Gigolo (1980)American GigoloAmerican GigoloCat People (1982)Cat PeopleCat PeopleMishima: A Life in Four Chapters (1985)Mishima: A Life in Four ChaptersMishima: A Life in Four ChaptersLight of Day (1987)Light of DayLight of DayPatty Hearst (1988)Patty HearstPatty HearstThe Comfort of Strangers (1990)The Comfort of StrangersThe Comfort of StrangersLight Sleeper (1992)Light SleeperLight SleeperWitch Hunt (1994)Witch HuntWitch HuntTouch (1997)TouchTouchAffliction (1997)AfflictionAfflictionForever Mine (1999)Forever MineForever MineAuto Focus (2002)Auto FocusAuto FocusDominion: Prequel to the Exorcist (2005)Dominion: Prequel to the ExorcistDominion: Prequel to the ExorcistThe Walker (2007)The WalkerThe WalkerAdam Resurrected (2008)Adam ResurrectedAdam Resurrected The Canyons (2013) The Canyons The CanyonsDying of the Light (2014)Dying of the LightDying of the LightDog Eat Dog (2016)Dog Eat DogDog Eat DogFirst Reformed (2017)First ReformedFirst ReformedWriter only
+The Yakuza (1974)
+Taxi Driver (1976)
+Obsession (1976)
+Rolling Thunder (1977)
+Old Boyfriends (1979)
+Raging Bull (1980)
+The Mosquito Coast (1986)
+The Last Temptation of Christ (1988)
+City Hall (1996)
+Bringing Out the Dead (1999)
+Writer only
+The Yakuza (1974)
+Taxi Driver (1976)
+Obsession (1976)
+Rolling Thunder (1977)
+Old Boyfriends (1979)
+Raging Bull (1980)
+The Mosquito Coast (1986)
+The Last Temptation of Christ (1988)
+City Hall (1996)
+Bringing Out the Dead (1999)
+
+The Yakuza (1974)
+Taxi Driver (1976)
+Obsession (1976)
+Rolling Thunder (1977)
+Old Boyfriends (1979)
+Raging Bull (1980)
+The Mosquito Coast (1986)
+The Last Temptation of Christ (1988)
+City Hall (1996)
+Bringing Out the Dead (1999)
+The Yakuza (1974)
+Taxi Driver (1976)
+Obsession (1976)
+Rolling Thunder (1977)
+Old Boyfriends (1979)
+Raging Bull (1980)
+The Mosquito Coast (1986)
+The Last Temptation of Christ (1988)
+City Hall (1996)
+Bringing Out the Dead (1999)The Yakuza (1974)The YakuzaThe YakuzaTaxi Driver (1976)Taxi DriverTaxi DriverObsession (1976)ObsessionObsessionRolling Thunder (1977)Rolling ThunderRolling ThunderOld Boyfriends (1979)Old BoyfriendsOld BoyfriendsRaging Bull (1980)Raging BullRaging BullThe Mosquito Coast (1986)The Mosquito CoastThe Mosquito CoastThe Last Temptation of Christ (1988)The Last Temptation of ChristThe Last Temptation of ChristCity Hall (1996)City HallCity HallBringing Out the Dead (1999)Bringing Out the DeadBringing Out the DeadvtePalme d'Or winning films
+Union Pacific (1939)
+Torment (Hets) (1946)
+The Lost Weekend (1946)
+The Red Meadows (1946)
+Brief Encounter (1946)
+María Candelaria (1946)
+Neecha Nagar (1946)
+The Turning Point (1946)
+La Symphonie pastorale (1946)
+The Last Chance (1946)
+Men Without Wings (1946)
+Rome, Open City (1946)
+The Third Man (1949)
+Miss Julie (1951)
+Miracle in Milan (1951)
+The Tragedy of Othello: The Moor of Venice (1951)
+Two Cents Worth of Hope (1952)
+The Wages of Fear (1953)
+Gate of Hell (1954)
+Marty (1955)
+The Silent World (1956)
+Friendly Persuasion (1957)
+The Cranes Are Flying (1958)
+Black Orpheus (1959)
+La Dolce Vita (1960)
+The Long Absence (1961)
+Viridiana (1961)
+O Pagador de Promessas (1962)
+The Leopard (1963)
+The Umbrellas of Cherbourg (1964)
+The Knack …and How to Get It (1965)
+A Man and a Woman (1966)
+The Birds, the Bees and the Italians (1966)
+Blowup (1967)
+if.... (1969)
+MASH (1970)
+The Go-Between (1971)
+The Working Class Goes to Heaven (1972)
+The Mattei Affair (1972)
+The Hireling (1973)
+Scarecrow (1973)
+The Conversation (1974)
+Chronicle of the Years of Fire (1975)
+Taxi Driver (1976)
+Padre Padrone (1977)
+The Tree of Wooden Clogs (1978)
+Apocalypse Now (1979)
+The Tin Drum (1979)
+All That Jazz (1980)
+Kagemusha (1980)
+Man of Iron (1981)
+Missing (1982)
+Yol (1982)
+The Ballad of Narayama (1983)
+Paris, Texas (1984)
+When Father Was Away on Business (1985)
+The Mission (1986)
+Under the Sun of Satan (1987)
+Pelle the Conqueror (1988)
+Sex, Lies, and Videotape (1989)
+Wild at Heart (1990)
+Barton Fink (1991)
+The Best Intentions (1992)
+Farewell My Concubine (1993)
+The Piano (1993)
+Pulp Fiction (1994)
+Underground (1995)
+Secrets & Lies (1996)
+Taste of Cherry (1997)
+The Eel (1997)
+Eternity and a Day (1998)
+Rosetta (1999)
+Dancer in the Dark (2000)
+The Son's Room (2001)
+The Pianist (2002)
+Elephant (2003)
+Fahrenheit 9/11 (2004)
+The Child (2005)
+The Wind That Shakes the Barley (2006)
+4 Months, 3 Weeks and 2 Days (2007)
+The Class (2008)
+The White Ribbon (2009)
+Uncle Boonmee Who Can Recall His Past Lives (2010)
+The Tree of Life (2011)
+Amour (2012)
+Blue Is the Warmest Colour (2013)
+Winter Sleep (2014)
+Dheepan (2015)
+I, Daniel Blake (2016)
+The Square (2017)
+Shoplifters (2018)
+Parasite (2019)
+vtePalme d'Or winning films
+Union Pacific (1939)
+Torment (Hets) (1946)
+The Lost Weekend (1946)
+The Red Meadows (1946)
+Brief Encounter (1946)
+María Candelaria (1946)
+Neecha Nagar (1946)
+The Turning Point (1946)
+La Symphonie pastorale (1946)
+The Last Chance (1946)
+Men Without Wings (1946)
+Rome, Open City (1946)
+The Third Man (1949)
+Miss Julie (1951)
+Miracle in Milan (1951)
+The Tragedy of Othello: The Moor of Venice (1951)
+Two Cents Worth of Hope (1952)
+The Wages of Fear (1953)
+Gate of Hell (1954)
+Marty (1955)
+The Silent World (1956)
+Friendly Persuasion (1957)
+The Cranes Are Flying (1958)
+Black Orpheus (1959)
+La Dolce Vita (1960)
+The Long Absence (1961)
+Viridiana (1961)
+O Pagador de Promessas (1962)
+The Leopard (1963)
+The Umbrellas of Cherbourg (1964)
+The Knack …and How to Get It (1965)
+A Man and a Woman (1966)
+The Birds, the Bees and the Italians (1966)
+Blowup (1967)
+if.... (1969)
+MASH (1970)
+The Go-Between (1971)
+The Working Class Goes to Heaven (1972)
+The Mattei Affair (1972)
+The Hireling (1973)
+Scarecrow (1973)
+The Conversation (1974)
+Chronicle of the Years of Fire (1975)
+Taxi Driver (1976)
+Padre Padrone (1977)
+The Tree of Wooden Clogs (1978)
+Apocalypse Now (1979)
+The Tin Drum (1979)
+All That Jazz (1980)
+Kagemusha (1980)
+Man of Iron (1981)
+Missing (1982)
+Yol (1982)
+The Ballad of Narayama (1983)
+Paris, Texas (1984)
+When Father Was Away on Business (1985)
+The Mission (1986)
+Under the Sun of Satan (1987)
+Pelle the Conqueror (1988)
+Sex, Lies, and Videotape (1989)
+Wild at Heart (1990)
+Barton Fink (1991)
+The Best Intentions (1992)
+Farewell My Concubine (1993)
+The Piano (1993)
+Pulp Fiction (1994)
+Underground (1995)
+Secrets & Lies (1996)
+Taste of Cherry (1997)
+The Eel (1997)
+Eternity and a Day (1998)
+Rosetta (1999)
+Dancer in the Dark (2000)
+The Son's Room (2001)
+The Pianist (2002)
+Elephant (2003)
+Fahrenheit 9/11 (2004)
+The Child (2005)
+The Wind That Shakes the Barley (2006)
+4 Months, 3 Weeks and 2 Days (2007)
+The Class (2008)
+The White Ribbon (2009)
+Uncle Boonmee Who Can Recall His Past Lives (2010)
+The Tree of Life (2011)
+Amour (2012)
+Blue Is the Warmest Colour (2013)
+Winter Sleep (2014)
+Dheepan (2015)
+I, Daniel Blake (2016)
+The Square (2017)
+Shoplifters (2018)
+Parasite (2019)
+vtePalme d'Or winning films
+Union Pacific (1939)
+Torment (Hets) (1946)
+The Lost Weekend (1946)
+The Red Meadows (1946)
+Brief Encounter (1946)
+María Candelaria (1946)
+Neecha Nagar (1946)
+The Turning Point (1946)
+La Symphonie pastorale (1946)
+The Last Chance (1946)
+Men Without Wings (1946)
+Rome, Open City (1946)
+The Third Man (1949)
+Miss Julie (1951)
+Miracle in Milan (1951)
+The Tragedy of Othello: The Moor of Venice (1951)
+Two Cents Worth of Hope (1952)
+The Wages of Fear (1953)
+Gate of Hell (1954)
+Marty (1955)
+The Silent World (1956)
+Friendly Persuasion (1957)
+The Cranes Are Flying (1958)
+Black Orpheus (1959)
+La Dolce Vita (1960)
+The Long Absence (1961)
+Viridiana (1961)
+O Pagador de Promessas (1962)
+The Leopard (1963)
+The Umbrellas of Cherbourg (1964)
+The Knack …and How to Get It (1965)
+A Man and a Woman (1966)
+The Birds, the Bees and the Italians (1966)
+Blowup (1967)
+if.... (1969)
+MASH (1970)
+The Go-Between (1971)
+The Working Class Goes to Heaven (1972)
+The Mattei Affair (1972)
+The Hireling (1973)
+Scarecrow (1973)
+The Conversation (1974)
+Chronicle of the Years of Fire (1975)
+Taxi Driver (1976)
+Padre Padrone (1977)
+The Tree of Wooden Clogs (1978)
+Apocalypse Now (1979)
+The Tin Drum (1979)
+All That Jazz (1980)
+Kagemusha (1980)
+Man of Iron (1981)
+Missing (1982)
+Yol (1982)
+The Ballad of Narayama (1983)
+Paris, Texas (1984)
+When Father Was Away on Business (1985)
+The Mission (1986)
+Under the Sun of Satan (1987)
+Pelle the Conqueror (1988)
+Sex, Lies, and Videotape (1989)
+Wild at Heart (1990)
+Barton Fink (1991)
+The Best Intentions (1992)
+Farewell My Concubine (1993)
+The Piano (1993)
+Pulp Fiction (1994)
+Underground (1995)
+Secrets & Lies (1996)
+Taste of Cherry (1997)
+The Eel (1997)
+Eternity and a Day (1998)
+Rosetta (1999)
+Dancer in the Dark (2000)
+The Son's Room (2001)
+The Pianist (2002)
+Elephant (2003)
+Fahrenheit 9/11 (2004)
+The Child (2005)
+The Wind That Shakes the Barley (2006)
+4 Months, 3 Weeks and 2 Days (2007)
+The Class (2008)
+The White Ribbon (2009)
+Uncle Boonmee Who Can Recall His Past Lives (2010)
+The Tree of Life (2011)
+Amour (2012)
+Blue Is the Warmest Colour (2013)
+Winter Sleep (2014)
+Dheepan (2015)
+I, Daniel Blake (2016)
+The Square (2017)
+Shoplifters (2018)
+Parasite (2019)
+vtePalme d'Or winning filmsvtePalme d'Or winning filmsvtevtevvvttteeePalme d'Or winning filmsPalme d'Or
+Union Pacific (1939)
+Torment (Hets) (1946)
+The Lost Weekend (1946)
+The Red Meadows (1946)
+Brief Encounter (1946)
+María Candelaria (1946)
+Neecha Nagar (1946)
+The Turning Point (1946)
+La Symphonie pastorale (1946)
+The Last Chance (1946)
+Men Without Wings (1946)
+Rome, Open City (1946)
+The Third Man (1949)
+Miss Julie (1951)
+Miracle in Milan (1951)
+The Tragedy of Othello: The Moor of Venice (1951)
+Two Cents Worth of Hope (1952)
+The Wages of Fear (1953)
+Gate of Hell (1954)
+Marty (1955)
+The Silent World (1956)
+Friendly Persuasion (1957)
+The Cranes Are Flying (1958)
+Black Orpheus (1959)
+La Dolce Vita (1960)
+The Long Absence (1961)
+Viridiana (1961)
+O Pagador de Promessas (1962)
+The Leopard (1963)
+The Umbrellas of Cherbourg (1964)
+The Knack …and How to Get It (1965)
+A Man and a Woman (1966)
+The Birds, the Bees and the Italians (1966)
+Blowup (1967)
+if.... (1969)
+MASH (1970)
+The Go-Between (1971)
+The Working Class Goes to Heaven (1972)
+The Mattei Affair (1972)
+The Hireling (1973)
+Scarecrow (1973)
+The Conversation (1974)
+Chronicle of the Years of Fire (1975)
+Taxi Driver (1976)
+Padre Padrone (1977)
+The Tree of Wooden Clogs (1978)
+Apocalypse Now (1979)
+The Tin Drum (1979)
+All That Jazz (1980)
+Kagemusha (1980)
+Man of Iron (1981)
+Missing (1982)
+Yol (1982)
+The Ballad of Narayama (1983)
+Paris, Texas (1984)
+When Father Was Away on Business (1985)
+The Mission (1986)
+Under the Sun of Satan (1987)
+Pelle the Conqueror (1988)
+Sex, Lies, and Videotape (1989)
+Wild at Heart (1990)
+Barton Fink (1991)
+The Best Intentions (1992)
+Farewell My Concubine (1993)
+The Piano (1993)
+Pulp Fiction (1994)
+Underground (1995)
+Secrets & Lies (1996)
+Taste of Cherry (1997)
+The Eel (1997)
+Eternity and a Day (1998)
+Rosetta (1999)
+Dancer in the Dark (2000)
+The Son's Room (2001)
+The Pianist (2002)
+Elephant (2003)
+Fahrenheit 9/11 (2004)
+The Child (2005)
+The Wind That Shakes the Barley (2006)
+4 Months, 3 Weeks and 2 Days (2007)
+The Class (2008)
+The White Ribbon (2009)
+Uncle Boonmee Who Can Recall His Past Lives (2010)
+The Tree of Life (2011)
+Amour (2012)
+Blue Is the Warmest Colour (2013)
+Winter Sleep (2014)
+Dheepan (2015)
+I, Daniel Blake (2016)
+The Square (2017)
+Shoplifters (2018)
+Parasite (2019)
+
+Union Pacific (1939)
+Torment (Hets) (1946)
+The Lost Weekend (1946)
+The Red Meadows (1946)
+Brief Encounter (1946)
+María Candelaria (1946)
+Neecha Nagar (1946)
+The Turning Point (1946)
+La Symphonie pastorale (1946)
+The Last Chance (1946)
+Men Without Wings (1946)
+Rome, Open City (1946)
+The Third Man (1949)
+Miss Julie (1951)
+Miracle in Milan (1951)
+The Tragedy of Othello: The Moor of Venice (1951)
+Two Cents Worth of Hope (1952)
+The Wages of Fear (1953)
+Gate of Hell (1954)
+Marty (1955)
+The Silent World (1956)
+Friendly Persuasion (1957)
+The Cranes Are Flying (1958)
+Black Orpheus (1959)
+La Dolce Vita (1960)
+The Long Absence (1961)
+Viridiana (1961)
+O Pagador de Promessas (1962)
+The Leopard (1963)
+The Umbrellas of Cherbourg (1964)
+The Knack …and How to Get It (1965)
+A Man and a Woman (1966)
+The Birds, the Bees and the Italians (1966)
+Blowup (1967)
+if.... (1969)
+MASH (1970)
+The Go-Between (1971)
+The Working Class Goes to Heaven (1972)
+The Mattei Affair (1972)
+The Hireling (1973)
+Scarecrow (1973)
+The Conversation (1974)
+Chronicle of the Years of Fire (1975)
+Taxi Driver (1976)
+Padre Padrone (1977)
+The Tree of Wooden Clogs (1978)
+Apocalypse Now (1979)
+The Tin Drum (1979)
+All That Jazz (1980)
+Kagemusha (1980)
+Man of Iron (1981)
+Missing (1982)
+Yol (1982)
+The Ballad of Narayama (1983)
+Paris, Texas (1984)
+When Father Was Away on Business (1985)
+The Mission (1986)
+Under the Sun of Satan (1987)
+Pelle the Conqueror (1988)
+Sex, Lies, and Videotape (1989)
+Wild at Heart (1990)
+Barton Fink (1991)
+The Best Intentions (1992)
+Farewell My Concubine (1993)
+The Piano (1993)
+Pulp Fiction (1994)
+Underground (1995)
+Secrets & Lies (1996)
+Taste of Cherry (1997)
+The Eel (1997)
+Eternity and a Day (1998)
+Rosetta (1999)
+Dancer in the Dark (2000)
+The Son's Room (2001)
+The Pianist (2002)
+Elephant (2003)
+Fahrenheit 9/11 (2004)
+The Child (2005)
+The Wind That Shakes the Barley (2006)
+4 Months, 3 Weeks and 2 Days (2007)
+The Class (2008)
+The White Ribbon (2009)
+Uncle Boonmee Who Can Recall His Past Lives (2010)
+The Tree of Life (2011)
+Amour (2012)
+Blue Is the Warmest Colour (2013)
+Winter Sleep (2014)
+Dheepan (2015)
+I, Daniel Blake (2016)
+The Square (2017)
+Shoplifters (2018)
+Parasite (2019)
+
+Union Pacific (1939)
+Torment (Hets) (1946)
+The Lost Weekend (1946)
+The Red Meadows (1946)
+Brief Encounter (1946)
+María Candelaria (1946)
+Neecha Nagar (1946)
+The Turning Point (1946)
+La Symphonie pastorale (1946)
+The Last Chance (1946)
+Men Without Wings (1946)
+Rome, Open City (1946)
+The Third Man (1949)
+Miss Julie (1951)
+Miracle in Milan (1951)
+The Tragedy of Othello: The Moor of Venice (1951)
+Two Cents Worth of Hope (1952)
+The Wages of Fear (1953)
+Gate of Hell (1954)
+Marty (1955)
+The Silent World (1956)
+Friendly Persuasion (1957)
+The Cranes Are Flying (1958)
+Black Orpheus (1959)
+La Dolce Vita (1960)
+The Long Absence (1961)
+Viridiana (1961)
+O Pagador de Promessas (1962)
+The Leopard (1963)
+The Umbrellas of Cherbourg (1964)
+The Knack …and How to Get It (1965)
+A Man and a Woman (1966)
+The Birds, the Bees and the Italians (1966)
+Blowup (1967)
+if.... (1969)
+MASH (1970)
+The Go-Between (1971)
+The Working Class Goes to Heaven (1972)
+The Mattei Affair (1972)
+The Hireling (1973)
+Scarecrow (1973)
+The Conversation (1974)
+Chronicle of the Years of Fire (1975)
+Taxi Driver (1976)
+Padre Padrone (1977)
+The Tree of Wooden Clogs (1978)
+Apocalypse Now (1979)
+The Tin Drum (1979)
+All That Jazz (1980)
+Kagemusha (1980)
+Man of Iron (1981)
+Missing (1982)
+Yol (1982)
+The Ballad of Narayama (1983)
+Paris, Texas (1984)
+When Father Was Away on Business (1985)
+The Mission (1986)
+Under the Sun of Satan (1987)
+Pelle the Conqueror (1988)
+Sex, Lies, and Videotape (1989)
+Wild at Heart (1990)
+Barton Fink (1991)
+The Best Intentions (1992)
+Farewell My Concubine (1993)
+The Piano (1993)
+Pulp Fiction (1994)
+Underground (1995)
+Secrets & Lies (1996)
+Taste of Cherry (1997)
+The Eel (1997)
+Eternity and a Day (1998)
+Rosetta (1999)
+Dancer in the Dark (2000)
+The Son's Room (2001)
+The Pianist (2002)
+Elephant (2003)
+Fahrenheit 9/11 (2004)
+The Child (2005)
+The Wind That Shakes the Barley (2006)
+4 Months, 3 Weeks and 2 Days (2007)
+The Class (2008)
+The White Ribbon (2009)
+Uncle Boonmee Who Can Recall His Past Lives (2010)
+The Tree of Life (2011)
+Amour (2012)
+Blue Is the Warmest Colour (2013)
+Winter Sleep (2014)
+Dheepan (2015)
+I, Daniel Blake (2016)
+The Square (2017)
+Shoplifters (2018)
+Parasite (2019)
+Union Pacific (1939)
+Torment (Hets) (1946)
+The Lost Weekend (1946)
+The Red Meadows (1946)
+Brief Encounter (1946)
+María Candelaria (1946)
+Neecha Nagar (1946)
+The Turning Point (1946)
+La Symphonie pastorale (1946)
+The Last Chance (1946)
+Men Without Wings (1946)
+Rome, Open City (1946)
+The Third Man (1949)
+Miss Julie (1951)
+Miracle in Milan (1951)
+The Tragedy of Othello: The Moor of Venice (1951)
+Two Cents Worth of Hope (1952)
+The Wages of Fear (1953)
+Gate of Hell (1954)
+Marty (1955)
+The Silent World (1956)
+Friendly Persuasion (1957)
+The Cranes Are Flying (1958)
+Black Orpheus (1959)
+La Dolce Vita (1960)
+The Long Absence (1961)
+Viridiana (1961)
+O Pagador de Promessas (1962)
+The Leopard (1963)
+The Umbrellas of Cherbourg (1964)
+The Knack …and How to Get It (1965)
+A Man and a Woman (1966)
+The Birds, the Bees and the Italians (1966)
+Blowup (1967)
+if.... (1969)
+MASH (1970)
+The Go-Between (1971)
+The Working Class Goes to Heaven (1972)
+The Mattei Affair (1972)
+The Hireling (1973)
+Scarecrow (1973)
+The Conversation (1974)
+Chronicle of the Years of Fire (1975)
+Taxi Driver (1976)
+Padre Padrone (1977)
+The Tree of Wooden Clogs (1978)
+Apocalypse Now (1979)
+The Tin Drum (1979)
+All That Jazz (1980)
+Kagemusha (1980)
+Man of Iron (1981)
+Missing (1982)
+Yol (1982)
+The Ballad of Narayama (1983)
+Paris, Texas (1984)
+When Father Was Away on Business (1985)
+The Mission (1986)
+Under the Sun of Satan (1987)
+Pelle the Conqueror (1988)
+Sex, Lies, and Videotape (1989)
+Wild at Heart (1990)
+Barton Fink (1991)
+The Best Intentions (1992)
+Farewell My Concubine (1993)
+The Piano (1993)
+Pulp Fiction (1994)
+Underground (1995)
+Secrets & Lies (1996)
+Taste of Cherry (1997)
+The Eel (1997)
+Eternity and a Day (1998)
+Rosetta (1999)
+Dancer in the Dark (2000)
+The Son's Room (2001)
+The Pianist (2002)
+Elephant (2003)
+Fahrenheit 9/11 (2004)
+The Child (2005)
+The Wind That Shakes the Barley (2006)
+4 Months, 3 Weeks and 2 Days (2007)
+The Class (2008)
+The White Ribbon (2009)
+Uncle Boonmee Who Can Recall His Past Lives (2010)
+The Tree of Life (2011)
+Amour (2012)
+Blue Is the Warmest Colour (2013)
+Winter Sleep (2014)
+Dheepan (2015)
+I, Daniel Blake (2016)
+The Square (2017)
+Shoplifters (2018)
+Parasite (2019)Union Pacific (1939)Union Pacific (1939)Union PacificUnion PacificTorment (Hets) (1946)Torment (Hets) (1946)Torment (Hets)Torment (Hets)The Lost Weekend (1946)The Lost Weekend (1946)The Lost WeekendThe Lost WeekendThe Red Meadows (1946)The Red Meadows (1946)The Red MeadowsThe Red MeadowsBrief Encounter (1946)Brief Encounter (1946)Brief EncounterBrief EncounterMaría Candelaria (1946)María Candelaria (1946)María CandelariaMaría CandelariaNeecha Nagar (1946)Neecha Nagar (1946)Neecha NagarNeecha NagarThe Turning Point (1946)The Turning Point (1946)The Turning PointThe Turning PointLa Symphonie pastorale (1946)La Symphonie pastorale (1946)La Symphonie pastoraleLa Symphonie pastoraleThe Last Chance (1946)The Last Chance (1946)The Last ChanceThe Last ChanceMen Without Wings (1946)Men Without Wings (1946)Men Without WingsMen Without WingsRome, Open City (1946)Rome, Open City (1946)Rome, Open CityRome, Open CityThe Third Man (1949)The Third Man (1949)The Third ManThe Third ManMiss Julie (1951)Miss Julie (1951)Miss JulieMiss JulieMiracle in Milan (1951)Miracle in Milan (1951)Miracle in MilanMiracle in MilanThe Tragedy of Othello: The Moor of Venice (1951)The Tragedy of Othello: The Moor of Venice (1951)The Tragedy of Othello: The Moor of VeniceThe Tragedy of Othello: The Moor of VeniceTwo Cents Worth of Hope (1952)Two Cents Worth of Hope (1952)Two Cents Worth of HopeTwo Cents Worth of HopeThe Wages of Fear (1953)The Wages of Fear (1953)The Wages of FearThe Wages of FearGate of Hell (1954)Gate of Hell (1954)Gate of HellGate of HellMarty (1955)Marty (1955)MartyMartyThe Silent World (1956)The Silent World (1956)The Silent WorldThe Silent WorldFriendly Persuasion (1957)Friendly Persuasion (1957)Friendly PersuasionFriendly PersuasionThe Cranes Are Flying (1958)The Cranes Are Flying (1958)The Cranes Are FlyingThe Cranes Are FlyingBlack Orpheus (1959)Black Orpheus (1959)Black OrpheusBlack OrpheusLa Dolce Vita (1960)La Dolce Vita (1960)La Dolce VitaLa Dolce VitaThe Long Absence (1961)The Long Absence (1961)The Long AbsenceThe Long AbsenceViridiana (1961)Viridiana (1961)ViridianaViridianaO Pagador de Promessas (1962)O Pagador de Promessas (1962)O Pagador de PromessasO Pagador de PromessasThe Leopard (1963)The Leopard (1963)The LeopardThe LeopardThe Umbrellas of Cherbourg (1964)The Umbrellas of Cherbourg (1964)The Umbrellas of CherbourgThe Umbrellas of CherbourgThe Knack …and How to Get It (1965)The Knack …and How to Get It (1965)The Knack …and How to Get ItThe Knack …and How to Get ItA Man and a Woman (1966)A Man and a Woman (1966)A Man and a WomanA Man and a WomanThe Birds, the Bees and the Italians (1966)The Birds, the Bees and the Italians (1966)The Birds, the Bees and the ItaliansThe Birds, the Bees and the ItaliansBlowup (1967)Blowup (1967)BlowupBlowupif.... (1969)if.... (1969)if....if....MASH (1970)MASH (1970)MASHMASHThe Go-Between (1971)The Go-Between (1971)The Go-BetweenThe Go-BetweenThe Working Class Goes to Heaven (1972)The Working Class Goes to Heaven (1972)The Working Class Goes to HeavenThe Working Class Goes to HeavenThe Mattei Affair (1972)The Mattei Affair (1972)The Mattei AffairThe Mattei AffairThe Hireling (1973)The Hireling (1973)The HirelingThe HirelingScarecrow (1973)Scarecrow (1973)ScarecrowScarecrowThe Conversation (1974)The Conversation (1974)The ConversationThe ConversationChronicle of the Years of Fire (1975)Chronicle of the Years of Fire (1975)Chronicle of the Years of FireChronicle of the Years of FireTaxi Driver (1976)Taxi Driver (1976)Taxi DriverTaxi DriverPadre Padrone (1977)Padre Padrone (1977)Padre PadronePadre PadroneThe Tree of Wooden Clogs (1978)The Tree of Wooden Clogs (1978)The Tree of Wooden ClogsThe Tree of Wooden ClogsApocalypse Now (1979)Apocalypse Now (1979)Apocalypse NowApocalypse NowThe Tin Drum (1979)The Tin Drum (1979)The Tin DrumThe Tin DrumAll That Jazz (1980)All That Jazz (1980)All That JazzAll That JazzKagemusha (1980)Kagemusha (1980)KagemushaKagemushaMan of Iron (1981)Man of Iron (1981)Man of IronMan of IronMissing (1982)Missing (1982)MissingMissingYol (1982)Yol (1982)YolYolThe Ballad of Narayama (1983)The Ballad of Narayama (1983)The Ballad of NarayamaThe Ballad of NarayamaParis, Texas (1984)Paris, Texas (1984)Paris, TexasParis, TexasWhen Father Was Away on Business (1985)When Father Was Away on Business (1985)When Father Was Away on BusinessWhen Father Was Away on BusinessThe Mission (1986)The Mission (1986)The MissionThe MissionUnder the Sun of Satan (1987)Under the Sun of Satan (1987)Under the Sun of SatanUnder the Sun of SatanPelle the Conqueror (1988)Pelle the Conqueror (1988)Pelle the ConquerorPelle the ConquerorSex, Lies, and Videotape (1989)Sex, Lies, and Videotape (1989)Sex, Lies, and VideotapeSex, Lies, and VideotapeWild at Heart (1990)Wild at Heart (1990)Wild at HeartWild at HeartBarton Fink (1991)Barton Fink (1991)Barton FinkBarton FinkThe Best Intentions (1992)The Best Intentions (1992)The Best IntentionsThe Best IntentionsFarewell My Concubine (1993)Farewell My Concubine (1993)Farewell My ConcubineFarewell My ConcubineThe Piano (1993)The Piano (1993)The PianoThe PianoPulp Fiction (1994)Pulp Fiction (1994)Pulp FictionPulp FictionUnderground (1995)Underground (1995)UndergroundUndergroundSecrets & Lies (1996)Secrets & Lies (1996)Secrets & LiesSecrets & LiesTaste of Cherry (1997)Taste of Cherry (1997)Taste of CherryTaste of CherryThe Eel (1997)The Eel (1997)The EelThe EelEternity and a Day (1998)Eternity and a Day (1998)Eternity and a DayEternity and a DayRosetta (1999)Rosetta (1999)RosettaRosettaDancer in the Dark (2000)Dancer in the Dark (2000)Dancer in the DarkDancer in the DarkThe Son's Room (2001)The Son's Room (2001)The Son's RoomThe Son's RoomThe Pianist (2002)The Pianist (2002)The PianistThe PianistElephant (2003)Elephant (2003)ElephantElephantFahrenheit 9/11 (2004)Fahrenheit 9/11 (2004)Fahrenheit 9/11Fahrenheit 9/11The Child (2005)The Child (2005)The ChildThe ChildThe Wind That Shakes the Barley (2006)The Wind That Shakes the Barley (2006)The Wind That Shakes the BarleyThe Wind That Shakes the Barley4 Months, 3 Weeks and 2 Days (2007)4 Months, 3 Weeks and 2 Days (2007)4 Months, 3 Weeks and 2 Days4 Months, 3 Weeks and 2 DaysThe Class (2008)The Class (2008)The ClassThe ClassThe White Ribbon (2009)The White Ribbon (2009)The White RibbonThe White RibbonUncle Boonmee Who Can Recall His Past Lives (2010)Uncle Boonmee Who Can Recall His Past Lives (2010)Uncle Boonmee Who Can Recall His Past LivesUncle Boonmee Who Can Recall His Past LivesThe Tree of Life (2011)The Tree of Life (2011)The Tree of LifeThe Tree of LifeAmour (2012)Amour (2012)AmourAmourBlue Is the Warmest Colour (2013)Blue Is the Warmest Colour (2013)Blue Is the Warmest ColourBlue Is the Warmest ColourWinter Sleep (2014)Winter Sleep (2014)Winter SleepWinter SleepDheepan (2015)Dheepan (2015)DheepanDheepanI, Daniel Blake (2016)I, Daniel Blake (2016)I, Daniel BlakeI, Daniel BlakeThe Square (2017)The Square (2017)The SquareThe SquareShoplifters (2018)Shoplifters (2018)ShopliftersShopliftersParasite (2019)Parasite (2019)ParasiteParasitevteBFI Sight & Sound PollvteBFI Sight & Sound PollvtevtevvvttteeeBFI Sight & Sound PollBFISight & Sound PollSight & Sound1952
+Bicycle Thieves
+City Lights
+The Gold Rush
+Battleship Potemkin
+Intolerance: Love's Struggle Throughout the Ages
+Louisiana Story
+Greed
+Le Jour Se Lève
+The Passion of Joan of Arc
+Brief Encounter
+The Rules of the Game
+Le Million
+1952
+Bicycle Thieves
+City Lights
+The Gold Rush
+Battleship Potemkin
+Intolerance: Love's Struggle Throughout the Ages
+Louisiana Story
+Greed
+Le Jour Se Lève
+The Passion of Joan of Arc
+Brief Encounter
+The Rules of the Game
+Le Million
+
+Bicycle Thieves
+City Lights
+The Gold Rush
+Battleship Potemkin
+Intolerance: Love's Struggle Throughout the Ages
+Louisiana Story
+Greed
+Le Jour Se Lève
+The Passion of Joan of Arc
+Brief Encounter
+The Rules of the Game
+Le Million
+Bicycle Thieves
+City Lights
+The Gold Rush
+Battleship Potemkin
+Intolerance: Love's Struggle Throughout the Ages
+Louisiana Story
+Greed
+Le Jour Se Lève
+The Passion of Joan of Arc
+Brief Encounter
+The Rules of the Game
+Le MillionBicycle ThievesBicycle ThievesBicycle ThievesCity LightsCity LightsCity LightsThe Gold RushThe Gold RushThe Gold RushBattleship PotemkinBattleship PotemkinBattleship PotemkinIntolerance: Love's Struggle Throughout the AgesIntolerance: Love's Struggle Throughout the AgesIntolerance: Love's Struggle Throughout the AgesLouisiana StoryLouisiana StoryLouisiana StoryGreedGreedGreedLe Jour Se LèveLe Jour Se LèveLe Jour Se LèveThe Passion of Joan of ArcThe Passion of Joan of ArcThe Passion of Joan of ArcBrief EncounterBrief EncounterBrief EncounterThe Rules of the GameThe Rules of the GameThe Rules of the GameLe MillionLe MillionLe Million1962
+Citizen Kane
+L'Avventura
+The Rules of the Game
+Greed
+Ugetsu Monogatari
+Battleship Potemkin
+Bicycle Thieves
+Ivan the Terrible
+La Terra Trema
+L'Atalante
+1962
+Citizen Kane
+L'Avventura
+The Rules of the Game
+Greed
+Ugetsu Monogatari
+Battleship Potemkin
+Bicycle Thieves
+Ivan the Terrible
+La Terra Trema
+L'Atalante
+
+Citizen Kane
+L'Avventura
+The Rules of the Game
+Greed
+Ugetsu Monogatari
+Battleship Potemkin
+Bicycle Thieves
+Ivan the Terrible
+La Terra Trema
+L'Atalante
+Citizen Kane
+L'Avventura
+The Rules of the Game
+Greed
+Ugetsu Monogatari
+Battleship Potemkin
+Bicycle Thieves
+Ivan the Terrible
+La Terra Trema
+L'AtalanteCitizen KaneCitizen KaneCitizen KaneL'AvventuraL'AvventuraL'AvventuraThe Rules of the GameThe Rules of the GameThe Rules of the GameGreedGreedGreedUgetsu MonogatariUgetsu MonogatariUgetsu MonogatariBattleship PotemkinBattleship PotemkinBattleship PotemkinBicycle ThievesBicycle ThievesBicycle ThievesIvan the TerribleIvan the TerribleIvan the TerribleLa Terra TremaLa Terra TremaLa Terra TremaL'AtalanteL'AtalanteL'Atalante1972Citizen KaneCitizen KaneCitizen KaneThe Rules of the GameThe Rules of the GameThe Rules of the GameBattleship PotemkinBattleship PotemkinBattleship Potemkin 12L'AvventuraL'AvventuraL'AvventuraPersonaPersonaPersonaThe Passion of Joan of ArcThe Passion of Joan of ArcThe Passion of Joan of ArcThe GeneralThe GeneralThe GeneralThe Magnificent AmbersonsThe Magnificent AmbersonsThe Magnificent AmbersonsUgetsu MonogatariUgetsu MonogatariUgetsu MonogatariWild StrawberriesWild StrawberriesWild Strawberries1982Citizen KaneCitizen KaneCitizen KaneThe Rules of the GameThe Rules of the GameThe Rules of the GameSeven SamuraiSeven SamuraiSeven SamuraiSingin' in the RainSingin' in the RainSingin' in the Rain 12Battleship PotemkinBattleship PotemkinBattleship PotemkinL'AvventuraL'AvventuraL'AvventuraThe Magnificent AmbersonsThe Magnificent AmbersonsThe Magnificent AmbersonsVertigoVertigoVertigoThe GeneralThe GeneralThe GeneralThe SearchersThe SearchersThe Searchers1992Critics
+Citizen Kane
+The Rules of the Game
+Tokyo Story
+Vertigo
+The Searchers
+L'Atalante
+The Passion of Joan of Arc
+Pather Panchali
+Battleship Potemkin
+2001: A Space Odyssey
+Critics
+Citizen Kane
+The Rules of the Game
+Tokyo Story
+Vertigo
+The Searchers
+L'Atalante
+The Passion of Joan of Arc
+Pather Panchali
+Battleship Potemkin
+2001: A Space Odyssey
+
+Citizen Kane
+The Rules of the Game
+Tokyo Story
+Vertigo
+The Searchers
+L'Atalante
+The Passion of Joan of Arc
+Pather Panchali
+Battleship Potemkin
+2001: A Space Odyssey
+Citizen Kane
+The Rules of the Game
+Tokyo Story
+Vertigo
+The Searchers
+L'Atalante
+The Passion of Joan of Arc
+Pather Panchali
+Battleship Potemkin
+2001: A Space OdysseyCitizen KaneCitizen KaneCitizen KaneThe Rules of the GameThe Rules of the GameThe Rules of the GameTokyo StoryTokyo StoryTokyo StoryVertigoVertigoVertigoThe SearchersThe SearchersThe SearchersL'AtalanteL'AtalanteL'AtalanteThe Passion of Joan of ArcThe Passion of Joan of ArcThe Passion of Joan of ArcPather PanchaliPather PanchaliPather PanchaliBattleship PotemkinBattleship PotemkinBattleship Potemkin2001: A Space Odyssey2001: A Space Odyssey2001: A Space OdysseyDirectorsCitizen KaneCitizen KaneCitizen Kane 12Raging BullRaging BullRaging BullLa StradaLa StradaLa StradaL'AtalanteL'AtalanteL'AtalanteThe GodfatherThe GodfatherThe GodfatherModern TimesModern TimesModern TimesVertigoVertigoVertigoThe Godfather Part IIThe Godfather Part IIThe Godfather Part IIThe Passion of Joan of ArcThe Passion of Joan of ArcThe Passion of Joan of ArcRashomonRashomonRashomonSeven SamuraiSeven SamuraiSeven Samurai2002CriticsCitizen KaneCitizen KaneCitizen KaneVertigoVertigoVertigoThe Rules of the GameThe Rules of the GameThe Rules of the GameThe GodfatherThe GodfatherThe GodfatherThe Godfather Part IIThe Godfather Part IIThe Godfather Part IITokyo StoryTokyo StoryTokyo Story2001: A Space Odyssey2001: A Space Odyssey2001: A Space OdysseyBattleship PotemkinBattleship PotemkinBattleship PotemkinSunriseSunriseSunrise 12Singin' in the RainSingin' in the RainSingin' in the RainDirectorsCitizen KaneCitizen KaneCitizen KaneThe Godfather / The Godfather Part IIThe GodfatherThe GodfatherThe Godfather Part IIThe Godfather Part II 12Lawrence of ArabiaLawrence of ArabiaLawrence of ArabiaDr. Strangelove or: How I Learned to Stop Worrying and Love the BombDr. Strangelove or: How I Learned to Stop Worrying and Love the BombDr. Strangelove or: How I Learned to Stop Worrying and Love the BombBicycle ThievesBicycle ThievesBicycle ThievesRaging BullRaging BullRaging BullVertigoVertigoVertigoRashomonRashomonRashomonThe Rules of the GameThe Rules of the GameThe Rules of the GameSeven SamuraiSeven SamuraiSeven Samurai20122012CriticsVertigoVertigoVertigoCitizen KaneCitizen KaneCitizen KaneTokyo StoryTokyo StoryTokyo StoryThe Rules of the GameThe Rules of the GameThe Rules of the GameSunriseSunriseSunrise2001: A Space Odyssey2001: A Space Odyssey2001: A Space OdysseyThe SearchersThe SearchersThe SearchersMan with a Movie CameraMan with a Movie CameraMan with a Movie CameraThe Passion of Joan of ArcThe Passion of Joan of ArcThe Passion of Joan of Arc 12DirectorsTokyo StoryTokyo StoryTokyo Story2001: A Space Odyssey2001: A Space Odyssey2001: A Space OdysseyCitizen KaneCitizen KaneCitizen Kane 12Taxi DriverTaxi DriverTaxi DriverApocalypse NowApocalypse NowApocalypse NowThe GodfatherThe GodfatherThe GodfatherVertigoVertigoVertigoThe MirrorThe MirrorThe MirrorBicycle ThievesBicycle ThievesBicycle ThievesRelated
+The Sight & Sound Top 50 Greatest Films of All Time
+Related
+The Sight & Sound Top 50 Greatest Films of All Time
+
+The Sight & Sound Top 50 Greatest Films of All Time
+The Sight & Sound Top 50 Greatest Films of All TimeThe Sight & Sound Top 50 Greatest Films of All TimeThe Sight & Sound Top 50 Greatest Films of All TimeSight & Sound2014Documentaries
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey Gardens
+2014Documentaries
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey Gardens
+Documentaries
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey Gardens
+Documentaries
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey Gardens
+Documentaries
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey Gardens
+Documentaries
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey Gardens
+
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey Gardens
+Man with a Movie Camera
+Shoah
+Sans Soleil
+Night and Fog
+The Thin Blue Line
+Chronique d'un été
+Nanook of the North
+The Gleaners and I
+Dont Look Back
+Grey GardensMan with a Movie CameraMan with a Movie CameraMan with a Movie CameraShoahShoahShoahSans SoleilSans SoleilSans SoleilNight and FogNight and FogNight and FogThe Thin Blue LineThe Thin Blue LineThe Thin Blue LineChronique d'un étéChronique d'un étéChronique d'un étéNanook of the NorthNanook of the NorthNanook of the NorthThe Gleaners and IThe Gleaners and IThe Gleaners and IDont Look BackDont Look BackDont Look BackGrey GardensGrey GardensGrey GardensRetrieved from "https://en.wikipedia.org/w/index.php?title=Taxi_Driver&oldid=901031120"https://en.wikipedia.org/w/index.php?title=Taxi_Driver&oldid=901031120Categories: 1976 filmsEnglish-language films1970s crime drama films1970s psychological thriller films1998 soundtracksAmerican filmsAmerican crime drama filmsAmerican thriller filmsArista Records soundtracksAttempted assassination of Ronald ReaganBAFTA winners (films)Bernard Herrmann albumsColumbia Pictures filmsFilms about psychopathsFilms about taxicabsFilms scored by Bernard HerrmannFilm soundtracksFilms about child prostitutionFilms directed by Martin ScorseseFilms produced by Julia PhillipsFilms produced by Michael Phillips (producer)Films set in New York CityFilms shot in New York CityNeo-noirPalme d'Or winnersScreenplays by Paul SchraderUnited States National Film Registry filmsVigilante filmsFilms about prostitution in the United StatesHidden categories: CS1: long volume valueUse mdy dates from December 2015All articles with unsourced statementsArticles with unsourced statements from February 2019Articles with hAudio microformatsCommons category link from WikidataCategories: 1976 filmsEnglish-language films1970s crime drama films1970s psychological thriller films1998 soundtracksAmerican filmsAmerican crime drama filmsAmerican thriller filmsArista Records soundtracksAttempted assassination of Ronald ReaganBAFTA winners (films)Bernard Herrmann albumsColumbia Pictures filmsFilms about psychopathsFilms about taxicabsFilms scored by Bernard HerrmannFilm soundtracksFilms about child prostitutionFilms directed by Martin ScorseseFilms produced by Julia PhillipsFilms produced by Michael Phillips (producer)Films set in New York CityFilms shot in New York CityNeo-noirPalme d'Or winnersScreenplays by Paul SchraderUnited States National Film Registry filmsVigilante filmsFilms about prostitution in the United StatesCategories1976 filmsEnglish-language films1970s crime drama films1970s psychological thriller films1998 soundtracksAmerican filmsAmerican crime drama filmsAmerican thriller filmsArista Records soundtracksAttempted assassination of Ronald ReaganBAFTA winners (films)Bernard Herrmann albumsColumbia Pictures filmsFilms about psychopathsFilms about taxicabsFilms scored by Bernard HerrmannFilm soundtracksFilms about child prostitutionFilms directed by Martin ScorseseFilms produced by Julia PhillipsFilms produced by Michael Phillips (producer)Films set in New York CityFilms shot in New York CityNeo-noirPalme d'Or winnersScreenplays by Paul SchraderUnited States National Film Registry filmsVigilante filmsFilms about prostitution in the United States1976 films1976 filmsEnglish-language filmsEnglish-language films1970s crime drama films1970s crime drama films1970s psychological thriller films1970s psychological thriller films1998 soundtracks1998 soundtracksAmerican filmsAmerican filmsAmerican crime drama filmsAmerican crime drama filmsAmerican thriller filmsAmerican thriller filmsArista Records soundtracksArista Records soundtracksAttempted assassination of Ronald ReaganAttempted assassination of Ronald ReaganBAFTA winners (films)BAFTA winners (films)Bernard Herrmann albumsBernard Herrmann albumsColumbia Pictures filmsColumbia Pictures filmsFilms about psychopathsFilms about psychopathsFilms about taxicabsFilms about taxicabsFilms scored by Bernard HerrmannFilms scored by Bernard HerrmannFilm soundtracksFilm soundtracksFilms about child prostitutionFilms about child prostitutionFilms directed by Martin ScorseseFilms directed by Martin ScorseseFilms produced by Julia PhillipsFilms produced by Julia PhillipsFilms produced by Michael Phillips (producer)Films produced by Michael Phillips (producer)Films set in New York CityFilms set in New York CityFilms shot in New York CityFilms shot in New York CityNeo-noirNeo-noirPalme d'Or winnersPalme d'Or winnersScreenplays by Paul SchraderScreenplays by Paul SchraderUnited States National Film Registry filmsUnited States National Film Registry filmsVigilante filmsVigilante filmsFilms about prostitution in the United StatesFilms about prostitution in the United StatesHidden categories: CS1: long volume valueUse mdy dates from December 2015All articles with unsourced statementsArticles with unsourced statements from February 2019Articles with hAudio microformatsCommons category link from WikidataCS1: long volume valueUse mdy dates from December 2015All articles with unsourced statementsArticles with unsourced statements from February 2019Articles with hAudio microformatsCommons category link from WikidataCS1: long volume valueCS1: long volume valueUse mdy dates from December 2015Use mdy dates from December 2015All articles with unsourced statementsAll articles with unsourced statementsArticles with unsourced statements from February 2019Articles with unsourced statements from February 2019Articles with hAudio microformatsArticles with hAudio microformatsCommons category link from WikidataCommons category link from WikidataNavigation menu
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+ArticleTalk 
+
+
+
+
+Variants
+
+
+
+
+
+
+
+Views
+
+ReadEditView history 
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+Personal tools
+Not logged inTalkContributionsCreate accountLog in Not logged inTalkTalkContributionsContributionsCreate accountCreate accountLog inLog in
+
+Namespaces
+
+ArticleTalk 
+
+
+
+
+Variants
+
+
+
+
+
+Namespaces
+
+ArticleTalk 
+Namespaces
+ArticleTalk ArticleArticleArticleTalkTalkTalk
+
+
+Variants
+
+
+
+
+Variants
+Variants
+
+
+Views
+
+ReadEditView history 
+
+
+
+More
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Views
+
+ReadEditView history 
+Views
+ReadEditView history ReadReadReadEditEditEditView historyView historyView history
+
+More
+
+
+MoreMore
+
+
+Search
+
+
+
+ 
+
+
+Search
+Search
+
+ 
+
+ 
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Navigation
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store Main pageMain pageContentsContentsFeatured contentFeatured contentCurrent eventsCurrent eventsRandom articleRandom articleDonate to WikipediaDonate to WikipediaWikipedia storeWikipedia store
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+Interaction
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+HelpAbout WikipediaCommunity portalRecent changesContact page HelpHelpAbout WikipediaAbout WikipediaCommunity portalCommunity portalRecent changesRecent changesContact pageContact page
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+Tools
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page What links hereWhat links hereRelated changesRelated changesUpload fileUpload fileSpecial pagesSpecial pagesPermanent linkPermanent linkPage informationPage informationWikidata itemWikidata itemCite this pageCite this page
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+In other projects
+
+Wikimedia CommonsWikiquote 
+
+Wikimedia CommonsWikiquote Wikimedia CommonsWikimedia CommonsWikiquoteWikiquote
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+Print/export
+
+Create a bookDownload as PDFPrintable version 
+
+Create a bookDownload as PDFPrintable version Create a bookCreate a bookDownload as PDFDownload as PDFPrintable versionPrintable versionLanguagesAragonésAragonésAsturianuAsturianuCatalàCatalàCymraegCymraegDanskDanskDeutschDeutschEmiliàn e rumagnòlEmiliàn e rumagnòlEspañolEspañolEsperantoEsperantoEuskaraEuskaraFrançaisFrançaisGalegoGalegoHrvatskiHrvatskiBahasa IndonesiaBahasa IndonesiaItalianoItalianoLatinaLatinaLatviešuLatviešuMagyarMagyarBahasa MelayuBahasa MelayuNederlandsNederlandsNorskNorskPolskiPolskiPortuguêsPortuguêsScotsScotsSimple EnglishSimple EnglishSuomiSuomiSvenskaSvenskaTürkçeTürkçeEdit linksEdit linksEdit links
+
+ This page was last edited on 9 June 2019, at 06:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+ This page was last edited on 9 June 2019, at 06:49 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+ This page was last edited on 9 June 2019, at 06:49 (UTC). (UTC)Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.Creative Commons Attribution-ShareAlike LicenseTerms of UsePrivacy PolicyWikimedia Foundation, Inc.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Privacy policyPrivacy policyAbout WikipediaAbout WikipediaDisclaimersDisclaimersContact WikipediaContact WikipediaDevelopersDevelopersCookie statementCookie statementMobile viewMobile view
+
+ 
+
+ 
+
+ 
+ (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.084","walltime":"1.347","ppvisitednodes":{"value":6318,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":224315,"limit":2097152},"templateargumentsize":{"value":10123,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":198047,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1123.936      1 -total"," 49.86%  560.390      1 Template:Reflist"," 19.02%  213.733     42 Template:Cite_web"," 10.57%  118.837     11 Template:Cite_book","  9.84%  110.560      2 Template:Infobox","  8.17%   91.830      1 Template:Infobox_film","  5.68%   63.868      1 Template:Infobox_album","  5.12%   57.542      7 Template:Cite_news","  5.04%   56.658      2 Template:Citation_needed","  4.59%   51.622      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.530","limit":"10.000"},"limitreport-memusage":{"value":8033907,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20190611153436","ttl":3600,"transientcontent":true}}});});{"@context":"https:\/\/schema.org","@type":"Article","name":"Taxi Driver","url":"https:\/\/en.wikipedia.org\/wiki\/Taxi_Driver","sameAs":"http:\/\/www.wikidata.org\/entity\/Q47221","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q47221","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-04-30T19:47:32Z","dateModified":"2019-06-09T06:49:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8d\/Taxi_driver_movieposter.jpg","headline":"1976 American psychological thriller film directed by Martin Scorsese"}(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1327"});});
