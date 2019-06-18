@@ -1,5 +1,6 @@
 import requests
 import bs4
+import re
 
 res = requests.get("https://en.wikipedia.org/wiki/Taxi_Driver")
 # Always check response status
@@ -10,21 +11,24 @@ print(f"Status code: {res.status_code}")
 soup = bs4.BeautifulSoup(res.text, features="lxml")
 print(type(soup))
 
-# Get all elements in the document
-list_of_elems = soup.select("*")
+# Get all <p> elements in the document
+list_of_p = soup.select("p")
 
 
 # Write the text from each element to a txt file
-def all_elems_to_txt():
-    with open("output_all_elements.txt", "w") as output_file:
+def all_p_to_txt():
+    with open("output_all_p.txt", "w") as output_file:
 
-        for i in list_of_elems:
+        # regex pattern: any brackets containing only digits (Wiki references)
+        pattern = re.compile(r"\[\d*\]")
+
+        for i in list_of_p:
             try:
                 elem_to_write = i.getText()
+                elem_to_write = re.sub(pattern, "", elem_to_write)
                 output_file.write(elem_to_write)
             except UnicodeEncodeError as e:
                 print("[DEBUG] " + str(e))
-                pass
 
 
-all_elems_to_txt()
+all_p_to_txt()

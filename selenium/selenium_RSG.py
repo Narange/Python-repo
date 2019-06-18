@@ -3,6 +3,7 @@ Go to a Wikipedia article, get all <p> text,
 and feed it to the RSG (Random Sentence Generator) in this dir
 """
 from selenium import webdriver
+import re
 
 driver = webdriver.Chrome()
 driver.implicitly_wait(30)
@@ -24,6 +25,9 @@ def get_all_p_text():
     all_text = ""
     for p in all_p_elems:
         all_text += p.text
+
+    pattern = re.compile(r"\[\d*\]")
+    all_text = re.sub(pattern, "", all_text)
 
     return all_text
 
