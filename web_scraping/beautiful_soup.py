@@ -3,7 +3,7 @@ import bs4
 import re
 
 res = requests.get("https://en.wikipedia.org/wiki/Taxi_Driver")
-# Always check response status
+# Check response status
 res.raise_for_status()
 print(f"Status code: {res.status_code}")
 
