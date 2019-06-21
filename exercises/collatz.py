@@ -12,10 +12,8 @@ def print_collatz_sequence(input_number):
             number = number / 2
         else:
             number = number * 3 + 1
-
         if number > peak:
             peak = number
-
         print(round(number))
 
     print(f"The Collatz sequence for {input_number} peaked at value {round(peak)}")
