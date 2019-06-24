@@ -1,3 +1,6 @@
+from random import *
+
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):
@@ -5,7 +8,8 @@ class ListNode:
         self.next = None
 
 
-def print_list(head):
+# Given the head, print the linked list
+def print_linked_list(head):
     if(head is None):
         return "List is empty"
     while(head is not None):
@@ -13,7 +17,26 @@ def print_list(head):
         head = head.next
 
 
-def isPalindrome(head: ListNode) -> bool:
+# Generate a singly-linked list with given length and random int elements. Return the head.
+def generate_random_list(length):
+    if(length <= 0):
+        return None
+
+    # length > 0, make the head
+    head = ListNode(randint(1, 10))
+    previous_node = head
+
+    # continue creating nodes and set the prev node's "next" to this one
+    for i in range(1, length):
+        current_node = ListNode(randint(1, 10))
+        previous_node.next = current_node
+        previous_node = current_node
+
+    return head
+
+
+# Determine if a linked list's values are the same if traversed in reverse
+def is_palindrome(head: ListNode) -> bool:
     new_list = []
     original_head = head
 
@@ -32,13 +55,18 @@ def isPalindrome(head: ListNode) -> bool:
     return True
 
 
-node1 = ListNode(8)
+# Generate multiple lists of a certain length, determine how many of them were palindromes
+def num_of_palindromes(length, num_of_lists):
+    palindrome_count = 0
 
-node2 = ListNode(4)
-node1.next = node2
+    for i in range(num_of_lists):
+        current_list = generate_random_list(length)
+        print_linked_list(current_list)
+        print(is_palindrome(current_list))
+        if is_palindrome(current_list):
+            palindrome_count += 1
 
-node3 = ListNode(8)
-node2.next = node3
+    print(f"{palindrome_count}/{num_of_lists} lists were palindromes")
 
-print_list(node1)
-print(isPalindrome(node1))
+
+num_of_palindromes(3, 1000)
