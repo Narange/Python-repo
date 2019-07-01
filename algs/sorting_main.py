@@ -22,3 +22,7 @@ print("Insertion sort:\n" + str(sorting_algs.insertion_sort(a_list)) + "\n")
 a_list = random_list(10, (1, 100))
 print("Input list:\n" + str(a_list))
 print("Quicksort:\n" + str(sorting_algs.quicksort(a_list)) + "\n")
+
+a_list = random_list(10, (1, 100))
+print("Input list:\n" + str(a_list))
+print("Merge sort:\n" + str(sorting_algs.merge_sort(a_list)) + "\n")

@@ -36,3 +36,36 @@ def quicksort(A):
             higher.append(i)
 
     return quicksort(lower) + equal + quicksort(higher)
+
+
+# Merge helper function
+def merge(a, b):
+    result = []
+    index_a, index_b = 0, 0
+
+    # while both lists are not yet empty, append the lesser element
+    while(index_a < len(a) and index_b < len(b)):
+        if(a[index_a] < b[index_b]):
+            result.append(a[index_a])
+            index_a += 1
+        else:
+            result.append(b[index_b])
+            index_b += 1
+        print(result)
+
+    # one of the lists is empty; append the rest of the other
+    if(index_a == len(a)):
+        result.extend(b[index_b:])
+    else:
+        result.extend(a[index_a:])
+
+    return result
+
+
+# Merge Sort
+def merge_sort(A):
+    if len(A) <= 1:
+        return A
+
+    lower, higher = merge_sort(A[:len(A) / 2]), merge_sort(A[len(A) / 2:])
+    return merge(lower, higher)
