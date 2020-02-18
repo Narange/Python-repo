@@ -17,10 +17,14 @@ class LoginTest(unittest.TestCase):
         self.driver.find_element_by_id("txtPassword").send_keys("admin123")
         self.driver.find_element_by_id("btnLogin").click()
         self.driver.find_element_by_id("welcome").click()
-        time.sleep(2)
+        time.sleep(5)
 
     @classmethod
     def tearDownClass(cls):
         cls.driver.close()
         cls.driver.quit()
         print("Test Complete")
+
+
+if __name__ == "__main__":
+    unittest.main()
