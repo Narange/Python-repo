@@ -7,7 +7,6 @@ response = requests.get(url)
 request_list = response.json()
 
 # set of URLs
-# elems in a set must be unique, so a set can be searched in constant time
 url_dict = {}
 
 for elem in request_list:
